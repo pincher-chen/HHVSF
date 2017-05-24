@@ -1,0 +1,5 @@
+condor_exec.exe: /lib64/libc.so.6: version `GLIBC_2.14' not found (required by /HOME/nscc-gz_pinchen/sf_install/mongo-c-driver/lib/libbson-1.0.so.0)
+condor_exec.exe: /lib64/libc.so.6: version `GLIBC_2.17' not found (required by /HOME/nscc-gz_pinchen/sf_install/mongo-c-driver/lib/libbson-1.0.so.0)
+condor_exec.exe: /lib64/libc.so.6: version `GLIBC_2.14' not found (required by /HOME/nscc-gz_pinchen/sf_install/mongo-c-driver/lib/libmongoc-1.0.so.0)
+condor_exec.exe: /lib64/libc.so.6: version `GLIBC_2.14' not found (required by /HOME/nscc-gz_pinchen/sf_install/mongo-c-driver/lib/libsasl2.so.3)
+condor_exec.exe: /lib64/libc.so.6: version `GLIBC_2.15' not found (required by /HOME/nscc-gz_pinchen/sf_install/mongo-c-driver/lib/libsasl2.so.3)

@@ -1,0 +1,151 @@
+
+*** glibc detected *** condor_exec.exe: munmap_chunk(): invalid pointer: 0x00002b60590b2a50 ***
+======= Backtrace: =========
+/HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libc.so.6[0x367f875e66]
+condor_exec.exe[0x401990]
+/HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libc.so.6(__libc_start_main+0xfd)[0x367f81ed5d]
+condor_exec.exe[0x401429]
+======= Memory map: ========
+00400000-00403000 r-xp 00000000 7ee:4338 144129442132790563              /WORK/app/condor/work/cn9503/local.cn9503/execute/dir_22277/condor_exec.exe
+00602000-00603000 rw-p 00002000 7ee:4338 144129442132790563              /WORK/app/condor/work/cn9503/local.cn9503/execute/dir_22277/condor_exec.exe
+0257c000-025c5000 rw-p 00000000 00:00 0                                  [heap]
+367f800000-367f98a000 r-xp 00000000 1d8:db410 144121379808103980         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libc.so.6
+367f98a000-367fb8a000 ---p 0018a000 1d8:db410 144121379808103980         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libc.so.6
+367fb8a000-367fb8e000 r--p 0018a000 1d8:db410 144121379808103980         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libc.so.6
+367fb8e000-367fb8f000 rw-p 0018e000 1d8:db410 144121379808103980         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libc.so.6
+367fb8f000-367fb94000 rw-p 00000000 00:00 0 
+367fc00000-367fc02000 r-xp 00000000 1d8:db410 144121379808103985         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libdl.so.2
+367fc02000-367fe02000 ---p 00002000 1d8:db410 144121379808103985         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libdl.so.2
+367fe02000-367fe03000 r--p 00002000 1d8:db410 144121379808103985         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libdl.so.2
+367fe03000-367fe04000 rw-p 00003000 1d8:db410 144121379808103985         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libdl.so.2
+3680000000-3680017000 r-xp 00000000 1d8:db410 144121379808103988         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libpthread.so.0
+3680017000-3680217000 ---p 00017000 1d8:db410 144121379808103988         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libpthread.so.0
+3680217000-3680218000 r--p 00017000 1d8:db410 144121379808103988         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libpthread.so.0
+3680218000-3680219000 rw-p 00018000 1d8:db410 144121379808103988         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libpthread.so.0
+3680219000-368021d000 rw-p 00000000 00:00 0 
+3680400000-3680483000 r-xp 00000000 1d8:db410 144121379808103981         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libm.so.6
+3680483000-3680682000 ---p 00083000 1d8:db410 144121379808103981         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libm.so.6
+3680682000-3680683000 r--p 00082000 1d8:db410 144121379808103981         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libm.so.6
+3680683000-3680684000 rw-p 00083000 1d8:db410 144121379808103981         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libm.so.6
+3680800000-3680815000 r-xp 00000000 1d8:db410 144121379808103993         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libz.so.1
+3680815000-3680a14000 ---p 00015000 1d8:db410 144121379808103993         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libz.so.1
+3680a14000-3680a15000 r--p 00014000 1d8:db410 144121379808103993         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libz.so.1
+3680a15000-3680a16000 rw-p 00015000 1d8:db410 144121379808103993         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libz.so.1
+3680c00000-3680c07000 r-xp 00000000 1d8:db410 144121379808103982         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/librt.so.1
+3680c07000-3680e06000 ---p 00007000 1d8:db410 144121379808103982         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/librt.so.1
+3680e06000-3680e07000 r--p 00006000 1d8:db410 144121379808103982         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/librt.so.1
+3680e07000-3680e08000 rw-p 00007000 1d8:db410 144121379808103982         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/librt.so.1
+3681000000-368101d000 r-xp 00000000 1d8:db410 144121379808103997         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libselinux.so.1
+368101d000-368121c000 ---p 0001d000 1d8:db410 144121379808103997         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libselinux.so.1
+368121c000-368121d000 r--p 0001c000 1d8:db410 144121379808103997         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libselinux.so.1
+368121d000-368121e000 rw-p 0001d000 1d8:db410 144121379808103997         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libselinux.so.1
+368121e000-368121f000 rw-p 00000000 00:00 0 
+3681400000-3681416000 r-xp 00000000 1d8:db410 144121379808103986         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libresolv.so.2
+3681416000-3681616000 ---p 00016000 1d8:db410 144121379808103986         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libresolv.so.2
+3681616000-3681617000 r--p 00016000 1d8:db410 144121379808103986         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libresolv.so.2
+3681617000-3681618000 rw-p 00017000 1d8:db410 144121379808103986         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libresolv.so.2
+3681618000-368161a000 rw-p 00000000 00:00 0 
+3686400000-3686402000 r-xp 00000000 1d8:db410 144121379808103996         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkeyutils.so.1
+3686402000-3686601000 ---p 00002000 1d8:db410 144121379808103996         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkeyutils.so.1
+3686601000-3686602000 r--p 00001000 1d8:db410 144121379808103996         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkeyutils.so.1
+3686602000-3686603000 rw-p 00002000 1d8:db410 144121379808103996         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkeyutils.so.1
+3686800000-36869b5000 r-xp 00000000 1d8:db410 144121379808103984         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcrypto.so.10
+36869b5000-3686bb4000 ---p 001b5000 1d8:db410 144121379808103984         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcrypto.so.10
+3686bb4000-3686bcf000 r--p 001b4000 1d8:db410 144121379808103984         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcrypto.so.10
+3686bcf000-3686bdb000 rw-p 001cf000 1d8:db410 144121379808103984         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcrypto.so.10
+3686bdb000-3686bdf000 rw-p 00000000 00:00 0 
+3687000000-3687003000 r-xp 00000000 1d8:db410 144121379808103991         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcom_err.so.2
+3687003000-3687202000 ---p 00003000 1d8:db410 144121379808103991         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcom_err.so.2
+3687202000-3687203000 r--p 00002000 1d8:db410 144121379808103991         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcom_err.so.2
+3687203000-3687204000 rw-p 00003000 1d8:db410 144121379808103991         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcom_err.so.2
+3687400000-36874db000 r-xp 00000000 1d8:db410 144121379808103990         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkrb5.so.3
+36874db000-36876da000 ---p 000db000 1d8:db410 144121379808103990         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkrb5.so.3
+36876da000-36876e4000 r--p 000da000 1d8:db410 144121379808103990         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkrb5.so.3
+36876e4000-36876e6000 rw-p 000e4000 1d8:db410 144121379808103990         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkrb5.so.3
+3687800000-368780a000 r-xp 00000000 1d8:db410 144121379808103995         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkrb5support.so.0
+368780a000-3687a09000 ---p 0000a000 1d8:db410 144121379808103995         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkrb5support.so.0
+3687a09000-3687a0a000 r--p 00009000 1d8:db410 144121379808103995         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkrb5support.so.0
+3687a0a000-3687a0b000 rw-p 0000a000 1d8:db410 144121379808103995         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libkrb5support.so.0
+3687c00000-3687c29000 r-xp 00000000 1d8:db410 144121379808103992         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libk5crypto.so.3
+3687c29000-3687e29000 ---p 00029000 1d8:db410 144121379808103992         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libk5crypto.so.3
+3687e29000-3687e2a000 r--p 00029000 1d8:db410 144121379808103992         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libk5crypto.so.3
+3687e2a000-3687e2b000 rw-p 0002a000 1d8:db410 144121379808103992         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libk5crypto.so.3
+3687e2b000-3687e2c000 rw-p 00000000 00:00 0 
+3688000000-3688041000 r-xp 00000000 1d8:db410 144121379808103989         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libgssapi_krb5.so.2
+3688041000-3688241000 ---p 00041000 1d8:db410 144121379808103989         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libgssapi_krb5.so.2
+3688241000-3688242000 r--p 00041000 1d8:db410 144121379808103989         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libgssapi_krb5.so.2
+3688242000-3688244000 rw-p 00042000 1d8:db410 144121379808103989         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libgssapi_krb5.so.2
+3688800000-3688861000 r-xp 00000000 1d8:db410 144121379808103983         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libssl.so.10
+3688861000-3688a60000 ---p 00061000 1d8:db410 144121379808103983         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libssl.so.10
+3688a60000-3688a64000 r--p 00060000 1d8:db410 144121379808103983         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libssl.so.10
+3688a64000-3688a6b000 rw-p 00064000 1d8:db410 144121379808103983         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libssl.so.10
+368d400000-368d471000 r-xp 00000000 1d8:db410 144121379808103994         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libfreebl3.so
+368d471000-368d670000 ---p 00071000 1d8:db410 144121379808103994         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libfreebl3.so
+368d670000-368d672000 r--p 00070000 1d8:db410 144121379808103994         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libfreebl3.so
+368d672000-368d673000 rw-p 00072000 1d8:db410 144121379808103994         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libfreebl3.so
+368d673000-368d677000 rw-p 00000000 00:00 0 
+368d800000-368d807000 r-xp 00000000 1d8:db410 144121379808103987         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcrypt.so.1
+368d807000-368da07000 ---p 00007000 1d8:db410 144121379808103987         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcrypt.so.1
+368da07000-368da08000 r--p 00007000 1d8:db410 144121379808103987         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcrypt.so.1
+368da08000-368da09000 rw-p 00008000 1d8:db410 144121379808103987         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libcrypt.so.1
+368da09000-368da37000 rw-p 00000000 00:00 0 
+3693400000-3693419000 r-xp 00000000 1d8:db410 144121379808103979         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libsasl2.so.2
+3693419000-3693618000 ---p 00019000 1d8:db410 144121379808103979         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libsasl2.so.2
+3693618000-3693619000 r--p 00018000 1d8:db410 144121379808103979         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libsasl2.so.2
+3693619000-369361a000 rw-p 00019000 1d8:db410 144121379808103979         /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libsasl2.so.2
+3921200000-3921220000 r-xp 00000000 00:0e 26965                          /lib64/ld-2.12.so
+392141f000-3921420000 r--p 0001f000 00:0e 26965                          /lib64/ld-2.12.so
+3921420000-3921421000 rw-p 00020000 00:0e 26965                          /lib64/ld-2.12.so
+3921421000-3921422000 rw-p 00000000 00:00 0 
+3924e00000-3924e16000 r-xp 00000000 00:0e 26816                          /lib64/libgcc_s-4.4.7-20120601.so.1
+3924e16000-3925015000 ---p 00016000 00:0e 26816                          /lib64/libgcc_s-4.4.7-20120601.so.1
+3925015000-3925016000 rw-p 00015000 00:0e 26816                          /lib64/libgcc_s-4.4.7-20120601.so.1
+392ba00000-392bb6f000 r-xp 00000000 00:0e 27167                          /lib64/libdb-4.7.so
+392bb6f000-392bd6e000 ---p 0016f000 00:0e 27167                          /lib64/libdb-4.7.so
+392bd6e000-392bd74000 rw-p 0016e000 00:0e 27167                          /lib64/libdb-4.7.so
+2b6058e80000-2b6058e81000 rw-p 00000000 00:00 0 
+2b6058e81000-2b6058ea9000 r-xp 00000000 1d8:db410 144121379808103977     /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libbson-1.0.so.0
+2b6058ea9000-2b60590a9000 ---p 00028000 1d8:db410 144121379808103977     /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libbson-1.0.so.0
+2b60590a9000-2b60590ac000 rw-p 00028000 1d8:db410 144121379808103977     /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libbson-1.0.so.0
+2b60590ac000-2b60590b3000 rw-p 00000000 00:00 0 
+2b60590b3000-2b6059102000 r-xp 00000000 1d8:db410 144121379808103978     /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libmongoc-1.0.so.0
+2b6059102000-2b6059301000 ---p 0004f000 1d8:db410 144121379808103978     /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libmongoc-1.0.so.0
+2b6059301000-2b6059303000 rw-p 0004e000 1d8:db410 144121379808103978     /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib/libmongoc-1.0.so.0
+2b6059303000-2b605930d000 rw-p 00000000 00:00 0 
+2b605930d000-2b6059314000 r-xp 00000000 00:0e 33578                      /usr/lib64/sasl2/libgssapiv2.so.2.0.23
+2b6059314000-2b6059513000 ---p 00007000 00:0e 33578                      /usr/lib64/sasl2/libgssapiv2.so.2.0.23
+2b6059513000-2b6059514000 r--p 00006000 00:0e 33578                      /usr/lib64/sasl2/libgssapiv2.so.2.0.23
+2b6059514000-2b6059515000 rw-p 00007000 00:0e 33578                      /usr/lib64/sasl2/libgssapiv2.so.2.0.23
+2b6059515000-2b6059519000 r-xp 00000000 00:0e 33583                      /usr/lib64/sasl2/libcrammd5.so.2.0.23
+2b6059519000-2b6059719000 ---p 00004000 00:0e 33583                      /usr/lib64/sasl2/libcrammd5.so.2.0.23
+2b6059719000-2b605971a000 r--p 00004000 00:0e 33583                      /usr/lib64/sasl2/libcrammd5.so.2.0.23
+2b605971a000-2b605971b000 rw-p 00005000 00:0e 33583                      /usr/lib64/sasl2/libcrammd5.so.2.0.23
+2b605971b000-2b6059727000 r-xp 00000000 00:0e 33580                      /usr/lib64/sasl2/libdigestmd5.so.2.0.23
+2b6059727000-2b6059926000 ---p 0000c000 00:0e 33580                      /usr/lib64/sasl2/libdigestmd5.so.2.0.23
+2b6059926000-2b6059927000 r--p 0000b000 00:0e 33580                      /usr/lib64/sasl2/libdigestmd5.so.2.0.23
+2b6059927000-2b6059928000 rw-p 0000c000 00:0e 33580                      /usr/lib64/sasl2/libdigestmd5.so.2.0.23
+2b6059928000-2b605992d000 r-xp 00000000 00:0e 33587                      /usr/lib64/sasl2/libsasldb.so.2.0.23
+2b605992d000-2b6059b2c000 ---p 00005000 00:0e 33587                      /usr/lib64/sasl2/libsasldb.so.2.0.23
+2b6059b2c000-2b6059b2d000 r--p 00004000 00:0e 33587                      /usr/lib64/sasl2/libsasldb.so.2.0.23
+2b6059b2d000-2b6059b2e000 rw-p 00005000 00:0e 33587                      /usr/lib64/sasl2/libsasldb.so.2.0.23
+2b6059b2e000-2b6059b32000 r-xp 00000000 00:0e 33581                      /usr/lib64/sasl2/liblogin.so.2.0.23
+2b6059b32000-2b6059d31000 ---p 00004000 00:0e 33581                      /usr/lib64/sasl2/liblogin.so.2.0.23
+2b6059d31000-2b6059d32000 r--p 00003000 00:0e 33581                      /usr/lib64/sasl2/liblogin.so.2.0.23
+2b6059d32000-2b6059d33000 rw-p 00004000 00:0e 33581                      /usr/lib64/sasl2/liblogin.so.2.0.23
+2b6059d33000-2b6059d37000 r-xp 00000000 00:0e 33593                      /usr/lib64/sasl2/libanonymous.so.2.0.23
+2b6059d37000-2b6059f36000 ---p 00004000 00:0e 33593                      /usr/lib64/sasl2/libanonymous.so.2.0.23
+2b6059f36000-2b6059f37000 r--p 00003000 00:0e 33593                      /usr/lib64/sasl2/libanonymous.so.2.0.23
+2b6059f37000-2b6059f38000 rw-p 00004000 00:0e 33593                      /usr/lib64/sasl2/libanonymous.so.2.0.23
+2b6059f38000-2b6059f3c000 r-xp 00000000 00:0e 33575                      /usr/lib64/sasl2/libplain.so.2.0.23
+2b6059f3c000-2b605a13b000 ---p 00004000 00:0e 33575                      /usr/lib64/sasl2/libplain.so.2.0.23
+2b605a13b000-2b605a13c000 r--p 00003000 00:0e 33575                      /usr/lib64/sasl2/libplain.so.2.0.23
+2b605a13c000-2b605a13d000 rw-p 00004000 00:0e 33575                      /usr/lib64/sasl2/libplain.so.2.0.23
+2b605a13d000-2b605a140000 rw-s 00000000 00:05 2587319                    /dev/shm/mongoc-22461
+2b605a140000-2b605a141000 rw-p 00000000 00:00 0 
+2b605a176000-2b605a182000 r-xp 00000000 00:0e 27099                      /lib64/libnss_files-2.12.so
+2b605a182000-2b605a382000 ---p 0000c000 00:0e 27099                      /lib64/libnss_files-2.12.so
+2b605a382000-2b605a383000 r--p 0000c000 00:0e 27099                      /lib64/libnss_files-2.12.so
+2b605a383000-2b605a384000 rw-p 0000d000 00:0e 27099                      /lib64/libnss_files-2.12.so
+7ffff76c4000-7ffff76d9000 rw-p 00000000 00:00 0                          [stack]
+7ffff76fd000-7ffff76fe000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]

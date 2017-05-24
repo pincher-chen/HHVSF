@@ -1,0 +1,41 @@
+1	1	1	0.5	2	2	2	1	1	0.5	1	1	1	0.5	2	2	2	1	1	0.5	SO1: 1
+SO2: 0
+equalR: 1
+HA: 1
+usePreScreen: 0
+1	1	1	0.5	2	2	2	1	1	0.5	1	1	1	0.5	2	2	2	1	1	0.5	SO1: 1
+SO2: 0
+equalR: 1
+HA: 1
+usePreScreen: 0
+1	1	1	0.5	2	2	2	1	1	0.5	1	1	1	0.5	2	2	2	1	1	0.5	SO1: 1
+SO2: 0
+equalR: 1
+HA: 1
+usePreScreen: 0
+1	1	1	0.5	2	2	2	1	1	0.5	1	1	1	0.5	2	2	2	1	1	0.5	SO1: 1
+SO2: 0
+equalR: 1
+HA: 1
+usePreScreen: 0
+a083 zinc_conformer_all zinc_a083 zinc_conformer_all_a083
+before modify the current_id is 0
+after modify the current is 2770
+ Running /HOME/nscc-gz_pinchen/sf_install/wega/wega_nscc-gz_pinchen.exe                  -sd /tmp/6_p0-11Part607.sdf -qsd /HOME/nscc-gz_pinchen/sf_install/wega/oneQuery.sd -M 2 -TN 100 -CC true -outsd /tmp/6_p0-11Part607.sdf_out.sd                  
+Running rm /tmp/6_p0-11Part607.sdf /tmp/6_p0-11Part607.sdf_out.txt /tmp/6_p0-11Part607.sdf_out.sd /tmp/6_p0-11Part607.sdf_out_Aligned.sd
+after modify the current is 8321
+ Running /HOME/nscc-gz_pinchen/sf_install/wega/wega_nscc-gz_pinchen.exe                  -sd /tmp/6_p0-16Part85.sdf -qsd /HOME/nscc-gz_pinchen/sf_install/wega/oneQuery.sd -M 2 -TN 100 -CC true -outsd /tmp/6_p0-16Part85.sdf_out.sd                  
+Running rm /tmp/6_p0-16Part85.sdf /tmp/6_p0-16Part85.sdf_out.txt /tmp/6_p0-16Part85.sdf_out.sd /tmp/6_p0-16Part85.sdf_out_Aligned.sd
+after modify the current is 22064
+ Running /HOME/nscc-gz_pinchen/sf_install/wega/wega_nscc-gz_pinchen.exe                  -sd /tmp/6_p0-28Part351.sdf -qsd /HOME/nscc-gz_pinchen/sf_install/wega/oneQuery.sd -M 2 -TN 100 -CC true -outsd /tmp/6_p0-28Part351.sdf_out.sd                  
+Running rm /tmp/6_p0-28Part351.sdf /tmp/6_p0-28Part351.sdf_out.txt /tmp/6_p0-28Part351.sdf_out.sd /tmp/6_p0-28Part351.sdf_out_Aligned.sd
+after modify the current is 28315
+after modify the current is 28357
+after modify the current is 28394
+after modify the current is 28399
+after modify the current is 28406
+ Running /HOME/nscc-gz_pinchen/sf_install/wega/wega_nscc-gz_pinchen.exe                  -sd /tmp/6_p0-32Part330.sdf -qsd /HOME/nscc-gz_pinchen/sf_install/wega/oneQuery.sd -M 2 -TN 100 -CC true -outsd /tmp/6_p0-32Part330.sdf_out.sd                  
+Running rm /tmp/6_p0-32Part330.sdf /tmp/6_p0-32Part330.sdf_out.txt /tmp/6_p0-32Part330.sdf_out.sd /tmp/6_p0-32Part330.sdf_out_Aligned.sd
+after modify the current is 30166
+after modify the current is 30183
+ Running /HOME/nscc-gz_pinchen/sf_install/wega/wega_nscc-gz_pinchen.exe                  -sd /tmp/6_p0-34Part213.sdf -qsd /HOME/nscc-gz_pinchen/sf_install/wega/oneQuery.sd -M 2 -TN 100 -CC true -outsd /tmp/6_p0-34Part213.sdf_out.sd                  

@@ -1,0 +1,24 @@
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2
+1 molecule converted
+could not contact primary for replica set shard2

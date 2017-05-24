@@ -1,0 +1,422 @@
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/boxformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/unichemformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/fhiaimsformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/msmsformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/MCDLformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/gamessukformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/qchemformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/turbomoleformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/balstformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/asciiformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/gamessformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/chemkinformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/fpsformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/acrformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/ghemicalformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/xmlformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/cifformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/mol2format.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/PQSformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/reportformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/mmcifformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/outformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/pqrformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/mpdformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/gausszmatformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/pdbformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/mdlformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/pwscfformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/fingerprintformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/hinformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/CSRformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/tinkerformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/textformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/fhformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/pdbqtformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/gaussformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/png2format.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/shelxformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/yasaraformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/cdxmlformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/opendxformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/copyformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/dmolformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/gulpformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/molreport.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/cccformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/fchkformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/nulformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/pngformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/crkformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/lmpdatformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/inchiformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/acesformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/xyzformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/thermoformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/smilesformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/titleformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/cacaoformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/xsfformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/castepformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/cmlformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/chemdrawcdx.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/mpqcformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/rxnformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/gausscubeformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/APIInterface.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/alchemyformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/povrayformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/chemtoolformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/gromos96format.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/freefracformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/groformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/rsmiformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/cacheformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/viewmolformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/MNAformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/crystal09format.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/pubchem.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/xtcformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/chem3dformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/dlpolyformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/jaguarformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/zindoformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/nwchemformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/mopacformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/featformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/abinitformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/moldenformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/posformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/mmodformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/vaspformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/fastaformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/carformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/cmlreactformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/molproformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/bgfformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/adfformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/msiformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/fastsearchformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/chemdrawct.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/pcmodelformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/amberformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/xedformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/cssrformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+==============================
+*** Open Babel Error  in openLib
+  /WORK/app/Openbabel/2.3.2-python/lib/openbabel/2.3.2/svgformat.so did not load properly.
+ Error: libpixman-1.so.0: cannot open shared object file: No such file or directory
+obabel: cannot read input format!
+sed: can't read /tmp/ZINC04176736.mol: No such file or directory

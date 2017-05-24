@@ -1,0 +1,3727 @@
+100000
+before modify the current_id is 0
+after modify the current is 10180
+ Running /tmp/babel -ipdbqt /tmp/ZINC38486762.pdbqt -omol -O /tmp/ZINC38486762.mol
+start to insert.
+data insert successfully.
+after modify the current is 10280
+ Running /tmp/babel -ipdbqt /tmp/ZINC39918846.pdbqt -omol -O /tmp/ZINC39918846.mol
+start to insert.
+data insert successfully.
+after modify the current is 10367
+ Running /tmp/babel -ipdbqt /tmp/ZINC20211710.pdbqt -omol -O /tmp/ZINC20211710.mol
+start to insert.
+data insert successfully.
+after modify the current is 10448
+ Running /tmp/babel -ipdbqt /tmp/ZINC09874434.pdbqt -omol -O /tmp/ZINC09874434.mol
+start to insert.
+data insert successfully.
+after modify the current is 10538
+ Running /tmp/babel -ipdbqt /tmp/ZINC09847805.pdbqt -omol -O /tmp/ZINC09847805.mol
+start to insert.
+data insert successfully.
+after modify the current is 10629
+ Running /tmp/babel -ipdbqt /tmp/ZINC33308578.pdbqt -omol -O /tmp/ZINC33308578.mol
+start to insert.
+data insert successfully.
+after modify the current is 10719
+ Running /tmp/babel -ipdbqt /tmp/ZINC19373184.pdbqt -omol -O /tmp/ZINC19373184.mol
+start to insert.
+data insert successfully.
+after modify the current is 10812
+ Running /tmp/babel -ipdbqt /tmp/ZINC01121804.pdbqt -omol -O /tmp/ZINC01121804.mol
+start to insert.
+data insert successfully.
+after modify the current is 10896
+ Running /tmp/babel -ipdbqt /tmp/ZINC12243015.pdbqt -omol -O /tmp/ZINC12243015.mol
+start to insert.
+data insert successfully.
+after modify the current is 10982
+ Running /tmp/babel -ipdbqt /tmp/ZINC15943036.pdbqt -omol -O /tmp/ZINC15943036.mol
+start to insert.
+data insert successfully.
+after modify the current is 11066
+ Running /tmp/babel -ipdbqt /tmp/ZINC71817504.pdbqt -omol -O /tmp/ZINC71817504.mol
+start to insert.
+data insert successfully.
+after modify the current is 11172
+ Running /tmp/babel -ipdbqt /tmp/ZINC19758596.pdbqt -omol -O /tmp/ZINC19758596.mol
+start to insert.
+data insert successfully.
+after modify the current is 11268
+ Running /tmp/babel -ipdbqt /tmp/ZINC20892699.pdbqt -omol -O /tmp/ZINC20892699.mol
+start to insert.
+data insert successfully.
+after modify the current is 11361
+ Running /tmp/babel -ipdbqt /tmp/ZINC09510461.pdbqt -omol -O /tmp/ZINC09510461.mol
+start to insert.
+data insert successfully.
+after modify the current is 11461
+ Running /tmp/babel -ipdbqt /tmp/ZINC96155044.pdbqt -omol -O /tmp/ZINC96155044.mol
+start to insert.
+data insert successfully.
+after modify the current is 11549
+ Running /tmp/babel -ipdbqt /tmp/ZINC58938774.pdbqt -omol -O /tmp/ZINC58938774.mol
+start to insert.
+data insert successfully.
+after modify the current is 11645
+ Running /tmp/babel -ipdbqt /tmp/ZINC58329284.pdbqt -omol -O /tmp/ZINC58329284.mol
+start to insert.
+data insert successfully.
+after modify the current is 11745
+ Running /tmp/babel -ipdbqt /tmp/ZINC08599537.pdbqt -omol -O /tmp/ZINC08599537.mol
+start to insert.
+data insert successfully.
+after modify the current is 11832
+ Running /tmp/babel -ipdbqt /tmp/ZINC96992300.pdbqt -omol -O /tmp/ZINC96992300.mol
+start to insert.
+data insert successfully.
+after modify the current is 11931
+ Running /tmp/babel -ipdbqt /tmp/ZINC35181062.pdbqt -omol -O /tmp/ZINC35181062.mol
+start to insert.
+data insert successfully.
+after modify the current is 12042
+ Running /tmp/babel -ipdbqt /tmp/ZINC09939700.pdbqt -omol -O /tmp/ZINC09939700.mol
+start to insert.
+data insert successfully.
+after modify the current is 12152
+ Running /tmp/babel -ipdbqt /tmp/ZINC08608501.pdbqt -omol -O /tmp/ZINC08608501.mol
+start to insert.
+data insert successfully.
+after modify the current is 12242
+ Running /tmp/babel -ipdbqt /tmp/ZINC08386363.pdbqt -omol -O /tmp/ZINC08386363.mol
+start to insert.
+data insert successfully.
+after modify the current is 12346
+ Running /tmp/babel -ipdbqt /tmp/ZINC33284595.pdbqt -omol -O /tmp/ZINC33284595.mol
+start to insert.
+data insert successfully.
+after modify the current is 12442
+ Running /tmp/babel -ipdbqt /tmp/ZINC08836889.pdbqt -omol -O /tmp/ZINC08836889.mol
+start to insert.
+data insert successfully.
+after modify the current is 12550
+ Running /tmp/babel -ipdbqt /tmp/ZINC09368023.pdbqt -omol -O /tmp/ZINC09368023.mol
+start to insert.
+data insert successfully.
+after modify the current is 12623
+ Running /tmp/babel -ipdbqt /tmp/ZINC59854699.pdbqt -omol -O /tmp/ZINC59854699.mol
+start to insert.
+data insert successfully.
+after modify the current is 12726
+ Running /tmp/babel -ipdbqt /tmp/ZINC13562267.pdbqt -omol -O /tmp/ZINC13562267.mol
+start to insert.
+data insert successfully.
+after modify the current is 12831
+ Running /tmp/babel -ipdbqt /tmp/ZINC21640526.pdbqt -omol -O /tmp/ZINC21640526.mol
+start to insert.
+data insert successfully.
+after modify the current is 12930
+ Running /tmp/babel -ipdbqt /tmp/ZINC21153902.pdbqt -omol -O /tmp/ZINC21153902.mol
+start to insert.
+data insert successfully.
+after modify the current is 13035
+ Running /tmp/babel -ipdbqt /tmp/ZINC02631612.pdbqt -omol -O /tmp/ZINC02631612.mol
+start to insert.
+data insert successfully.
+after modify the current is 13132
+ Running /tmp/babel -ipdbqt /tmp/ZINC57456447.pdbqt -omol -O /tmp/ZINC57456447.mol
+start to insert.
+data insert successfully.
+after modify the current is 13218
+ Running /tmp/babel -ipdbqt /tmp/ZINC09172461.pdbqt -omol -O /tmp/ZINC09172461.mol
+start to insert.
+data insert successfully.
+after modify the current is 13319
+ Running /tmp/babel -ipdbqt /tmp/ZINC17107775.pdbqt -omol -O /tmp/ZINC17107775.mol
+start to insert.
+data insert successfully.
+after modify the current is 13422
+ Running /tmp/babel -ipdbqt /tmp/ZINC40777975.pdbqt -omol -O /tmp/ZINC40777975.mol
+start to insert.
+data insert successfully.
+after modify the current is 13523
+ Running /tmp/babel -ipdbqt /tmp/ZINC40814233.pdbqt -omol -O /tmp/ZINC40814233.mol
+start to insert.
+data insert successfully.
+after modify the current is 13622
+ Running /tmp/babel -ipdbqt /tmp/ZINC21128728.pdbqt -omol -O /tmp/ZINC21128728.mol
+start to insert.
+data insert successfully.
+after modify the current is 13724
+ Running /tmp/babel -ipdbqt /tmp/ZINC39589651.pdbqt -omol -O /tmp/ZINC39589651.mol
+start to insert.
+data insert successfully.
+after modify the current is 13822
+ Running /tmp/babel -ipdbqt /tmp/ZINC11676766.pdbqt -omol -O /tmp/ZINC11676766.mol
+start to insert.
+data insert successfully.
+after modify the current is 13911
+ Running /tmp/babel -ipdbqt /tmp/ZINC72341078.pdbqt -omol -O /tmp/ZINC72341078.mol
+start to insert.
+data insert successfully.
+after modify the current is 14018
+ Running /tmp/babel -ipdbqt /tmp/ZINC32579667.pdbqt -omol -O /tmp/ZINC32579667.mol
+start to insert.
+data insert successfully.
+after modify the current is 14115
+ Running /tmp/babel -ipdbqt /tmp/ZINC72471469.pdbqt -omol -O /tmp/ZINC72471469.mol
+start to insert.
+data insert successfully.
+after modify the current is 14222
+ Running /tmp/babel -ipdbqt /tmp/ZINC49402593.pdbqt -omol -O /tmp/ZINC49402593.mol
+start to insert.
+data insert successfully.
+after modify the current is 14323
+ Running /tmp/babel -ipdbqt /tmp/ZINC72343042.pdbqt -omol -O /tmp/ZINC72343042.mol
+start to insert.
+data insert successfully.
+after modify the current is 14401
+ Running /tmp/babel -ipdbqt /tmp/ZINC32904046.pdbqt -omol -O /tmp/ZINC32904046.mol
+start to insert.
+data insert successfully.
+after modify the current is 14493
+ Running /tmp/babel -ipdbqt /tmp/ZINC14741127.pdbqt -omol -O /tmp/ZINC14741127.mol
+start to insert.
+data insert successfully.
+after modify the current is 14594
+ Running /tmp/babel -ipdbqt /tmp/ZINC05429240.pdbqt -omol -O /tmp/ZINC05429240.mol
+start to insert.
+data insert successfully.
+after modify the current is 14689
+ Running /tmp/babel -ipdbqt /tmp/ZINC08297642.pdbqt -omol -O /tmp/ZINC08297642.mol
+start to insert.
+data insert successfully.
+after modify the current is 14786
+ Running /tmp/babel -ipdbqt /tmp/ZINC96334689.pdbqt -omol -O /tmp/ZINC96334689.mol
+start to insert.
+data insert successfully.
+after modify the current is 14892
+ Running /tmp/babel -ipdbqt /tmp/ZINC04932644.pdbqt -omol -O /tmp/ZINC04932644.mol
+start to insert.
+data insert successfully.
+after modify the current is 14995
+ Running /tmp/babel -ipdbqt /tmp/ZINC45974488.pdbqt -omol -O /tmp/ZINC45974488.mol
+start to insert.
+data insert successfully.
+after modify the current is 15110
+ Running /tmp/babel -ipdbqt /tmp/ZINC12912004.pdbqt -omol -O /tmp/ZINC12912004.mol
+start to insert.
+data insert successfully.
+after modify the current is 15202
+ Running /tmp/babel -ipdbqt /tmp/ZINC19579219.pdbqt -omol -O /tmp/ZINC19579219.mol
+start to insert.
+data insert successfully.
+after modify the current is 15294
+ Running /tmp/babel -ipdbqt /tmp/ZINC70639104.pdbqt -omol -O /tmp/ZINC70639104.mol
+start to insert.
+data insert successfully.
+after modify the current is 15374
+ Running /tmp/babel -ipdbqt /tmp/ZINC96397540.pdbqt -omol -O /tmp/ZINC96397540.mol
+start to insert.
+data insert successfully.
+after modify the current is 15463
+ Running /tmp/babel -ipdbqt /tmp/ZINC21903599.pdbqt -omol -O /tmp/ZINC21903599.mol
+start to insert.
+data insert successfully.
+after modify the current is 15533
+ Running /tmp/babel -ipdbqt /tmp/ZINC09535819.pdbqt -omol -O /tmp/ZINC09535819.mol
+start to insert.
+data insert successfully.
+after modify the current is 15635
+ Running /tmp/babel -ipdbqt /tmp/ZINC04125355.pdbqt -omol -O /tmp/ZINC04125355.mol
+start to insert.
+data insert successfully.
+after modify the current is 15742
+ Running /tmp/babel -ipdbqt /tmp/ZINC39916871.pdbqt -omol -O /tmp/ZINC39916871.mol
+start to insert.
+data insert successfully.
+after modify the current is 15849
+ Running /tmp/babel -ipdbqt /tmp/ZINC14665206.pdbqt -omol -O /tmp/ZINC14665206.mol
+start to insert.
+data insert successfully.
+after modify the current is 15937
+ Running /tmp/babel -ipdbqt /tmp/ZINC39515272.pdbqt -omol -O /tmp/ZINC39515272.mol
+start to insert.
+data insert successfully.
+after modify the current is 16032
+ Running /tmp/babel -ipdbqt /tmp/ZINC09781162.pdbqt -omol -O /tmp/ZINC09781162.mol
+start to insert.
+data insert successfully.
+after modify the current is 16133
+ Running /tmp/babel -ipdbqt /tmp/ZINC10420213.pdbqt -omol -O /tmp/ZINC10420213.mol
+start to insert.
+data insert successfully.
+after modify the current is 16233
+ Running /tmp/babel -ipdbqt /tmp/ZINC38730711.pdbqt -omol -O /tmp/ZINC38730711.mol
+start to insert.
+data insert successfully.
+after modify the current is 16324
+ Running /tmp/babel -ipdbqt /tmp/ZINC36349465.pdbqt -omol -O /tmp/ZINC36349465.mol
+start to insert.
+data insert successfully.
+after modify the current is 16427
+ Running /tmp/babel -ipdbqt /tmp/ZINC20672678.pdbqt -omol -O /tmp/ZINC20672678.mol
+start to insert.
+data insert successfully.
+after modify the current is 16533
+ Running /tmp/babel -ipdbqt /tmp/ZINC65150884.pdbqt -omol -O /tmp/ZINC65150884.mol
+start to insert.
+data insert successfully.
+after modify the current is 16621
+ Running /tmp/babel -ipdbqt /tmp/ZINC63572800.pdbqt -omol -O /tmp/ZINC63572800.mol
+start to insert.
+data insert successfully.
+after modify the current is 16732
+ Running /tmp/babel -ipdbqt /tmp/ZINC55359520.pdbqt -omol -O /tmp/ZINC55359520.mol
+start to insert.
+data insert successfully.
+after modify the current is 16814
+ Running /tmp/babel -ipdbqt /tmp/ZINC40298777.pdbqt -omol -O /tmp/ZINC40298777.mol
+start to insert.
+data insert successfully.
+after modify the current is 16889
+ Running /tmp/babel -ipdbqt /tmp/ZINC09240331.pdbqt -omol -O /tmp/ZINC09240331.mol
+start to insert.
+data insert successfully.
+after modify the current is 16963
+ Running /tmp/babel -ipdbqt /tmp/ZINC40325920.pdbqt -omol -O /tmp/ZINC40325920.mol
+start to insert.
+data insert successfully.
+after modify the current is 17051
+ Running /tmp/babel -ipdbqt /tmp/ZINC44095260.pdbqt -omol -O /tmp/ZINC44095260.mol
+start to insert.
+data insert successfully.
+after modify the current is 17147
+ Running /tmp/babel -ipdbqt /tmp/ZINC33919991.pdbqt -omol -O /tmp/ZINC33919991.mol
+start to insert.
+data insert successfully.
+after modify the current is 17249
+ Running /tmp/babel -ipdbqt /tmp/ZINC07544731.pdbqt -omol -O /tmp/ZINC07544731.mol
+start to insert.
+data insert successfully.
+after modify the current is 17336
+ Running /tmp/babel -ipdbqt /tmp/ZINC44787302.pdbqt -omol -O /tmp/ZINC44787302.mol
+start to insert.
+data insert successfully.
+after modify the current is 17437
+ Running /tmp/babel -ipdbqt /tmp/ZINC12584660.pdbqt -omol -O /tmp/ZINC12584660.mol
+start to insert.
+data insert successfully.
+after modify the current is 17529
+ Running /tmp/babel -ipdbqt /tmp/ZINC10233427.pdbqt -omol -O /tmp/ZINC10233427.mol
+start to insert.
+data insert successfully.
+after modify the current is 17636
+ Running /tmp/babel -ipdbqt /tmp/ZINC08556569.pdbqt -omol -O /tmp/ZINC08556569.mol
+start to insert.
+data insert successfully.
+after modify the current is 17738
+ Running /tmp/babel -ipdbqt /tmp/ZINC16027111.pdbqt -omol -O /tmp/ZINC16027111.mol
+start to insert.
+data insert successfully.
+after modify the current is 17839
+ Running /tmp/babel -ipdbqt /tmp/ZINC08909642.pdbqt -omol -O /tmp/ZINC08909642.mol
+start to insert.
+data insert successfully.
+after modify the current is 17951
+ Running /tmp/babel -ipdbqt /tmp/ZINC35399510.pdbqt -omol -O /tmp/ZINC35399510.mol
+start to insert.
+data insert successfully.
+after modify the current is 18060
+ Running /tmp/babel -ipdbqt /tmp/ZINC04519684.pdbqt -omol -O /tmp/ZINC04519684.mol
+start to insert.
+data insert successfully.
+after modify the current is 18170
+ Running /tmp/babel -ipdbqt /tmp/ZINC72052218.pdbqt -omol -O /tmp/ZINC72052218.mol
+start to insert.
+data insert successfully.
+after modify the current is 18272
+ Running /tmp/babel -ipdbqt /tmp/ZINC39461960.pdbqt -omol -O /tmp/ZINC39461960.mol
+start to insert.
+data insert successfully.
+after modify the current is 18375
+ Running /tmp/babel -ipdbqt /tmp/ZINC96280393.pdbqt -omol -O /tmp/ZINC96280393.mol
+start to insert.
+data insert successfully.
+after modify the current is 18474
+ Running /tmp/babel -ipdbqt /tmp/ZINC40755732.pdbqt -omol -O /tmp/ZINC40755732.mol
+start to insert.
+data insert successfully.
+after modify the current is 18557
+ Running /tmp/babel -ipdbqt /tmp/ZINC09836521.pdbqt -omol -O /tmp/ZINC09836521.mol
+start to insert.
+data insert successfully.
+after modify the current is 18663
+ Running /tmp/babel -ipdbqt /tmp/ZINC71933168.pdbqt -omol -O /tmp/ZINC71933168.mol
+start to insert.
+data insert successfully.
+after modify the current is 18757
+ Running /tmp/babel -ipdbqt /tmp/ZINC33545483.pdbqt -omol -O /tmp/ZINC33545483.mol
+start to insert.
+data insert successfully.
+after modify the current is 18861
+ Running /tmp/babel -ipdbqt /tmp/ZINC13731941.pdbqt -omol -O /tmp/ZINC13731941.mol
+start to insert.
+data insert successfully.
+after modify the current is 18979
+ Running /tmp/babel -ipdbqt /tmp/ZINC85345060.pdbqt -omol -O /tmp/ZINC85345060.mol
+start to insert.
+data insert successfully.
+after modify the current is 19066
+ Running /tmp/babel -ipdbqt /tmp/ZINC00999528.pdbqt -omol -O /tmp/ZINC00999528.mol
+start to insert.
+data insert successfully.
+after modify the current is 19174
+ Running /tmp/babel -ipdbqt /tmp/ZINC22484180.pdbqt -omol -O /tmp/ZINC22484180.mol
+start to insert.
+data insert successfully.
+after modify the current is 19276
+ Running /tmp/babel -ipdbqt /tmp/ZINC06525685.pdbqt -omol -O /tmp/ZINC06525685.mol
+start to insert.
+data insert successfully.
+after modify the current is 19378
+ Running /tmp/babel -ipdbqt /tmp/ZINC64083858.pdbqt -omol -O /tmp/ZINC64083858.mol
+start to insert.
+data insert successfully.
+after modify the current is 19486
+ Running /tmp/babel -ipdbqt /tmp/ZINC16951694.pdbqt -omol -O /tmp/ZINC16951694.mol
+start to insert.
+data insert successfully.
+after modify the current is 19589
+ Running /tmp/babel -ipdbqt /tmp/ZINC72052903.pdbqt -omol -O /tmp/ZINC72052903.mol
+start to insert.
+data insert successfully.
+after modify the current is 19683
+ Running /tmp/babel -ipdbqt /tmp/ZINC46053964.pdbqt -omol -O /tmp/ZINC46053964.mol
+start to insert.
+data insert successfully.
+after modify the current is 19785
+ Running /tmp/babel -ipdbqt /tmp/ZINC15858346.pdbqt -omol -O /tmp/ZINC15858346.mol
+start to insert.
+data insert successfully.
+after modify the current is 19868
+ Running /tmp/babel -ipdbqt /tmp/ZINC33324506.pdbqt -omol -O /tmp/ZINC33324506.mol
+start to insert.
+data insert successfully.
+after modify the current is 19972
+ Running /tmp/babel -ipdbqt /tmp/ZINC14186277.pdbqt -omol -O /tmp/ZINC14186277.mol
+start to insert.
+data insert successfully.
+after modify the current is 20071
+ Running /tmp/babel -ipdbqt /tmp/ZINC12312944.pdbqt -omol -O /tmp/ZINC12312944.mol
+start to insert.
+data insert successfully.
+after modify the current is 20173
+ Running /tmp/babel -ipdbqt /tmp/ZINC12188805.pdbqt -omol -O /tmp/ZINC12188805.mol
+start to insert.
+data insert successfully.
+after modify the current is 20269
+ Running /tmp/babel -ipdbqt /tmp/ZINC08941996.pdbqt -omol -O /tmp/ZINC08941996.mol
+start to insert.
+data insert successfully.
+after modify the current is 20374
+ Running /tmp/babel -ipdbqt /tmp/ZINC14844976.pdbqt -omol -O /tmp/ZINC14844976.mol
+start to insert.
+data insert successfully.
+after modify the current is 20472
+ Running /tmp/babel -ipdbqt /tmp/ZINC15732070.pdbqt -omol -O /tmp/ZINC15732070.mol
+start to insert.
+data insert successfully.
+after modify the current is 20572
+ Running /tmp/babel -ipdbqt /tmp/ZINC03364707.pdbqt -omol -O /tmp/ZINC03364707.mol
+start to insert.
+data insert successfully.
+after modify the current is 20673
+ Running /tmp/babel -ipdbqt /tmp/ZINC20343971.pdbqt -omol -O /tmp/ZINC20343971.mol
+start to insert.
+data insert successfully.
+after modify the current is 20784
+ Running /tmp/babel -ipdbqt /tmp/ZINC13685850.pdbqt -omol -O /tmp/ZINC13685850.mol
+start to insert.
+data insert successfully.
+after modify the current is 20883
+ Running /tmp/babel -ipdbqt /tmp/ZINC22052120.pdbqt -omol -O /tmp/ZINC22052120.mol
+start to insert.
+data insert successfully.
+after modify the current is 20966
+ Running /tmp/babel -ipdbqt /tmp/ZINC59517452.pdbqt -omol -O /tmp/ZINC59517452.mol
+start to insert.
+data insert successfully.
+after modify the current is 21077
+ Running /tmp/babel -ipdbqt /tmp/ZINC12085643.pdbqt -omol -O /tmp/ZINC12085643.mol
+start to insert.
+data insert successfully.
+after modify the current is 21170
+ Running /tmp/babel -ipdbqt /tmp/ZINC64820470.pdbqt -omol -O /tmp/ZINC64820470.mol
+start to insert.
+data insert successfully.
+after modify the current is 21279
+ Running /tmp/babel -ipdbqt /tmp/ZINC09168208.pdbqt -omol -O /tmp/ZINC09168208.mol
+start to insert.
+data insert successfully.
+after modify the current is 21372
+ Running /tmp/babel -ipdbqt /tmp/ZINC93415808.pdbqt -omol -O /tmp/ZINC93415808.mol
+start to insert.
+data insert successfully.
+after modify the current is 21477
+ Running /tmp/babel -ipdbqt /tmp/ZINC33390917.pdbqt -omol -O /tmp/ZINC33390917.mol
+start to insert.
+data insert successfully.
+after modify the current is 21568
+ Running /tmp/babel -ipdbqt /tmp/ZINC00845593.pdbqt -omol -O /tmp/ZINC00845593.mol
+start to insert.
+data insert successfully.
+after modify the current is 21684
+ Running /tmp/babel -ipdbqt /tmp/ZINC22596716.pdbqt -omol -O /tmp/ZINC22596716.mol
+start to insert.
+data insert successfully.
+after modify the current is 21771
+ Running /tmp/babel -ipdbqt /tmp/ZINC95448098.pdbqt -omol -O /tmp/ZINC95448098.mol
+start to insert.
+data insert successfully.
+after modify the current is 21871
+ Running /tmp/babel -ipdbqt /tmp/ZINC35561158.pdbqt -omol -O /tmp/ZINC35561158.mol
+start to insert.
+data insert successfully.
+after modify the current is 21959
+ Running /tmp/babel -ipdbqt /tmp/ZINC72370129.pdbqt -omol -O /tmp/ZINC72370129.mol
+start to insert.
+data insert successfully.
+after modify the current is 22053
+ Running /tmp/babel -ipdbqt /tmp/ZINC40782301.pdbqt -omol -O /tmp/ZINC40782301.mol
+start to insert.
+data insert successfully.
+after modify the current is 22138
+ Running /tmp/babel -ipdbqt /tmp/ZINC65180139.pdbqt -omol -O /tmp/ZINC65180139.mol
+start to insert.
+data insert successfully.
+after modify the current is 22244
+ Running /tmp/babel -ipdbqt /tmp/ZINC19819627.pdbqt -omol -O /tmp/ZINC19819627.mol
+start to insert.
+data insert successfully.
+after modify the current is 22349
+ Running /tmp/babel -ipdbqt /tmp/ZINC65469451.pdbqt -omol -O /tmp/ZINC65469451.mol
+start to insert.
+data insert successfully.
+after modify the current is 22447
+ Running /tmp/babel -ipdbqt /tmp/ZINC22886269.pdbqt -omol -O /tmp/ZINC22886269.mol
+start to insert.
+data insert successfully.
+after modify the current is 22521
+ Running /tmp/babel -ipdbqt /tmp/ZINC40824786.pdbqt -omol -O /tmp/ZINC40824786.mol
+start to insert.
+data insert successfully.
+after modify the current is 22617
+ Running /tmp/babel -ipdbqt /tmp/ZINC39875017.pdbqt -omol -O /tmp/ZINC39875017.mol
+start to insert.
+data insert successfully.
+after modify the current is 22731
+ Running /tmp/babel -ipdbqt /tmp/ZINC92071596.pdbqt -omol -O /tmp/ZINC92071596.mol
+start to insert.
+data insert successfully.
+after modify the current is 22828
+ Running /tmp/babel -ipdbqt /tmp/ZINC47586894.pdbqt -omol -O /tmp/ZINC47586894.mol
+start to insert.
+data insert successfully.
+after modify the current is 22926
+ Running /tmp/babel -ipdbqt /tmp/ZINC06189073.pdbqt -omol -O /tmp/ZINC06189073.mol
+start to insert.
+data insert successfully.
+after modify the current is 23003
+ Running /tmp/babel -ipdbqt /tmp/ZINC00814727.pdbqt -omol -O /tmp/ZINC00814727.mol
+start to insert.
+data insert successfully.
+after modify the current is 23112
+ Running /tmp/babel -ipdbqt /tmp/ZINC40088634.pdbqt -omol -O /tmp/ZINC40088634.mol
+start to insert.
+data insert successfully.
+after modify the current is 23245
+ Running /tmp/babel -ipdbqt /tmp/ZINC24778434.pdbqt -omol -O /tmp/ZINC24778434.mol
+start to insert.
+data insert successfully.
+after modify the current is 23339
+ Running /tmp/babel -ipdbqt /tmp/ZINC16214823.pdbqt -omol -O /tmp/ZINC16214823.mol
+start to insert.
+data insert successfully.
+after modify the current is 23442
+ Running /tmp/babel -ipdbqt /tmp/ZINC71957209.pdbqt -omol -O /tmp/ZINC71957209.mol
+start to insert.
+data insert successfully.
+after modify the current is 23531
+ Running /tmp/babel -ipdbqt /tmp/ZINC19799702.pdbqt -omol -O /tmp/ZINC19799702.mol
+start to insert.
+data insert successfully.
+after modify the current is 23629
+ Running /tmp/babel -ipdbqt /tmp/ZINC54641706.pdbqt -omol -O /tmp/ZINC54641706.mol
+start to insert.
+data insert successfully.
+after modify the current is 23738
+ Running /tmp/babel -ipdbqt /tmp/ZINC04322921.pdbqt -omol -O /tmp/ZINC04322921.mol
+start to insert.
+data insert successfully.
+after modify the current is 23839
+ Running /tmp/babel -ipdbqt /tmp/ZINC13799437.pdbqt -omol -O /tmp/ZINC13799437.mol
+start to insert.
+data insert successfully.
+after modify the current is 23949
+ Running /tmp/babel -ipdbqt /tmp/ZINC01948848.pdbqt -omol -O /tmp/ZINC01948848.mol
+start to insert.
+data insert successfully.
+after modify the current is 24053
+ Running /tmp/babel -ipdbqt /tmp/ZINC12414845.pdbqt -omol -O /tmp/ZINC12414845.mol
+start to insert.
+data insert successfully.
+after modify the current is 24182
+ Running /tmp/babel -ipdbqt /tmp/ZINC08943337.pdbqt -omol -O /tmp/ZINC08943337.mol
+start to insert.
+data insert successfully.
+after modify the current is 24272
+ Running /tmp/babel -ipdbqt /tmp/ZINC95461249.pdbqt -omol -O /tmp/ZINC95461249.mol
+start to insert.
+data insert successfully.
+after modify the current is 24361
+ Running /tmp/babel -ipdbqt /tmp/ZINC15186075.pdbqt -omol -O /tmp/ZINC15186075.mol
+start to insert.
+data insert successfully.
+after modify the current is 24456
+ Running /tmp/babel -ipdbqt /tmp/ZINC21220510.pdbqt -omol -O /tmp/ZINC21220510.mol
+start to insert.
+data insert successfully.
+after modify the current is 24556
+ Running /tmp/babel -ipdbqt /tmp/ZINC70728567.pdbqt -omol -O /tmp/ZINC70728567.mol
+start to insert.
+data insert successfully.
+after modify the current is 24659
+ Running /tmp/babel -ipdbqt /tmp/ZINC32925284.pdbqt -omol -O /tmp/ZINC32925284.mol
+start to insert.
+data insert successfully.
+after modify the current is 24761
+ Running /tmp/babel -ipdbqt /tmp/ZINC57697397.pdbqt -omol -O /tmp/ZINC57697397.mol
+start to insert.
+data insert successfully.
+after modify the current is 24849
+ Running /tmp/babel -ipdbqt /tmp/ZINC02920901.pdbqt -omol -O /tmp/ZINC02920901.mol
+start to insert.
+data insert successfully.
+after modify the current is 24987
+ Running /tmp/babel -ipdbqt /tmp/ZINC32995311.pdbqt -omol -O /tmp/ZINC32995311.mol
+start to insert.
+data insert successfully.
+after modify the current is 25050
+ Running /tmp/babel -ipdbqt /tmp/ZINC00892085.pdbqt -omol -O /tmp/ZINC00892085.mol
+start to insert.
+data insert successfully.
+after modify the current is 25132
+ Running /tmp/babel -ipdbqt /tmp/ZINC03600171.pdbqt -omol -O /tmp/ZINC03600171.mol
+start to insert.
+data insert successfully.
+after modify the current is 25225
+ Running /tmp/babel -ipdbqt /tmp/ZINC63744459.pdbqt -omol -O /tmp/ZINC63744459.mol
+start to insert.
+data insert successfully.
+after modify the current is 25322
+ Running /tmp/babel -ipdbqt /tmp/ZINC92397300.pdbqt -omol -O /tmp/ZINC92397300.mol
+start to insert.
+data insert successfully.
+after modify the current is 25400
+ Running /tmp/babel -ipdbqt /tmp/ZINC91977058.pdbqt -omol -O /tmp/ZINC91977058.mol
+start to insert.
+data insert successfully.
+after modify the current is 25498
+ Running /tmp/babel -ipdbqt /tmp/ZINC71966716.pdbqt -omol -O /tmp/ZINC71966716.mol
+start to insert.
+data insert successfully.
+after modify the current is 25610
+ Running /tmp/babel -ipdbqt /tmp/ZINC45973880.pdbqt -omol -O /tmp/ZINC45973880.mol
+start to insert.
+data insert successfully.
+after modify the current is 25709
+ Running /tmp/babel -ipdbqt /tmp/ZINC78448274.pdbqt -omol -O /tmp/ZINC78448274.mol
+start to insert.
+data insert successfully.
+after modify the current is 25827
+ Running /tmp/babel -ipdbqt /tmp/ZINC72003794.pdbqt -omol -O /tmp/ZINC72003794.mol
+start to insert.
+data insert successfully.
+after modify the current is 25925
+ Running /tmp/babel -ipdbqt /tmp/ZINC67709412.pdbqt -omol -O /tmp/ZINC67709412.mol
+start to insert.
+data insert successfully.
+after modify the current is 26018
+ Running /tmp/babel -ipdbqt /tmp/ZINC14548928.pdbqt -omol -O /tmp/ZINC14548928.mol
+start to insert.
+data insert successfully.
+after modify the current is 26154
+ Running /tmp/babel -ipdbqt /tmp/ZINC02951029.pdbqt -omol -O /tmp/ZINC02951029.mol
+start to insert.
+data insert successfully.
+after modify the current is 26234
+ Running /tmp/babel -ipdbqt /tmp/ZINC12378800.pdbqt -omol -O /tmp/ZINC12378800.mol
+start to insert.
+data insert successfully.
+after modify the current is 26341
+ Running /tmp/babel -ipdbqt /tmp/ZINC14095380.pdbqt -omol -O /tmp/ZINC14095380.mol
+start to insert.
+data insert successfully.
+after modify the current is 26446
+ Running /tmp/babel -ipdbqt /tmp/ZINC40650439.pdbqt -omol -O /tmp/ZINC40650439.mol
+start to insert.
+data insert successfully.
+after modify the current is 26544
+ Running /tmp/babel -ipdbqt /tmp/ZINC32565766.pdbqt -omol -O /tmp/ZINC32565766.mol
+start to insert.
+data insert successfully.
+after modify the current is 26638
+ Running /tmp/babel -ipdbqt /tmp/ZINC03254227.pdbqt -omol -O /tmp/ZINC03254227.mol
+start to insert.
+data insert successfully.
+after modify the current is 26730
+ Running /tmp/babel -ipdbqt /tmp/ZINC04126722.pdbqt -omol -O /tmp/ZINC04126722.mol
+start to insert.
+data insert successfully.
+after modify the current is 26827
+ Running /tmp/babel -ipdbqt /tmp/ZINC97039363.pdbqt -omol -O /tmp/ZINC97039363.mol
+start to insert.
+data insert successfully.
+after modify the current is 26917
+ Running /tmp/babel -ipdbqt /tmp/ZINC03270318.pdbqt -omol -O /tmp/ZINC03270318.mol
+start to insert.
+data insert successfully.
+after modify the current is 27013
+ Running /tmp/babel -ipdbqt /tmp/ZINC95450130.pdbqt -omol -O /tmp/ZINC95450130.mol
+start to insert.
+data insert successfully.
+after modify the current is 27111
+ Running /tmp/babel -ipdbqt /tmp/ZINC97477047.pdbqt -omol -O /tmp/ZINC97477047.mol
+start to insert.
+data insert successfully.
+after modify the current is 27210
+ Running /tmp/babel -ipdbqt /tmp/ZINC08516736.pdbqt -omol -O /tmp/ZINC08516736.mol
+start to insert.
+data insert successfully.
+after modify the current is 27314
+ Running /tmp/babel -ipdbqt /tmp/ZINC72009537.pdbqt -omol -O /tmp/ZINC72009537.mol
+start to insert.
+data insert successfully.
+after modify the current is 27403
+ Running /tmp/babel -ipdbqt /tmp/ZINC66786978.pdbqt -omol -O /tmp/ZINC66786978.mol
+start to insert.
+data insert successfully.
+after modify the current is 27508
+ Running /tmp/babel -ipdbqt /tmp/ZINC04821553.pdbqt -omol -O /tmp/ZINC04821553.mol
+start to insert.
+data insert successfully.
+after modify the current is 27616
+ Running /tmp/babel -ipdbqt /tmp/ZINC57425378.pdbqt -omol -O /tmp/ZINC57425378.mol
+start to insert.
+data insert successfully.
+after modify the current is 27707
+ Running /tmp/babel -ipdbqt /tmp/ZINC14471380.pdbqt -omol -O /tmp/ZINC14471380.mol
+start to insert.
+data insert successfully.
+after modify the current is 27790
+ Running /tmp/babel -ipdbqt /tmp/ZINC06875258.pdbqt -omol -O /tmp/ZINC06875258.mol
+start to insert.
+data insert successfully.
+after modify the current is 27875
+ Running /tmp/babel -ipdbqt /tmp/ZINC03263277.pdbqt -omol -O /tmp/ZINC03263277.mol
+start to insert.
+data insert successfully.
+after modify the current is 27979
+ Running /tmp/babel -ipdbqt /tmp/ZINC67441588.pdbqt -omol -O /tmp/ZINC67441588.mol
+start to insert.
+data insert successfully.
+after modify the current is 28077
+ Running /tmp/babel -ipdbqt /tmp/ZINC33283733.pdbqt -omol -O /tmp/ZINC33283733.mol
+start to insert.
+data insert successfully.
+after modify the current is 28168
+ Running /tmp/babel -ipdbqt /tmp/ZINC15643578.pdbqt -omol -O /tmp/ZINC15643578.mol
+start to insert.
+data insert successfully.
+after modify the current is 28276
+ Running /tmp/babel -ipdbqt /tmp/ZINC71919018.pdbqt -omol -O /tmp/ZINC71919018.mol
+start to insert.
+data insert successfully.
+after modify the current is 28387
+ Running /tmp/babel -ipdbqt /tmp/ZINC03324767.pdbqt -omol -O /tmp/ZINC03324767.mol
+start to insert.
+data insert successfully.
+after modify the current is 28481
+ Running /tmp/babel -ipdbqt /tmp/ZINC08765379.pdbqt -omol -O /tmp/ZINC08765379.mol
+start to insert.
+data insert successfully.
+after modify the current is 28554
+ Running /tmp/babel -ipdbqt /tmp/ZINC65761228.pdbqt -omol -O /tmp/ZINC65761228.mol
+start to insert.
+data insert successfully.
+after modify the current is 28659
+ Running /tmp/babel -ipdbqt /tmp/ZINC22735649.pdbqt -omol -O /tmp/ZINC22735649.mol
+start to insert.
+data insert successfully.
+after modify the current is 28741
+ Running /tmp/babel -ipdbqt /tmp/ZINC51612611.pdbqt -omol -O /tmp/ZINC51612611.mol
+start to insert.
+data insert successfully.
+after modify the current is 28843
+ Running /tmp/babel -ipdbqt /tmp/ZINC77378439.pdbqt -omol -O /tmp/ZINC77378439.mol
+start to insert.
+data insert successfully.
+after modify the current is 28932
+ Running /tmp/babel -ipdbqt /tmp/ZINC98067989.pdbqt -omol -O /tmp/ZINC98067989.mol
+start to insert.
+data insert successfully.
+after modify the current is 29054
+ Running /tmp/babel -ipdbqt /tmp/ZINC01151359.pdbqt -omol -O /tmp/ZINC01151359.mol
+start to insert.
+data insert successfully.
+after modify the current is 29133
+ Running /tmp/babel -ipdbqt /tmp/ZINC03531720.pdbqt -omol -O /tmp/ZINC03531720.mol
+start to insert.
+data insert successfully.
+after modify the current is 29227
+ Running /tmp/babel -ipdbqt /tmp/ZINC58029721.pdbqt -omol -O /tmp/ZINC58029721.mol
+start to insert.
+data insert successfully.
+after modify the current is 29330
+ Running /tmp/babel -ipdbqt /tmp/ZINC70855958.pdbqt -omol -O /tmp/ZINC70855958.mol
+start to insert.
+data insert successfully.
+after modify the current is 29429
+ Running /tmp/babel -ipdbqt /tmp/ZINC39388201.pdbqt -omol -O /tmp/ZINC39388201.mol
+start to insert.
+data insert successfully.
+after modify the current is 29536
+ Running /tmp/babel -ipdbqt /tmp/ZINC49059493.pdbqt -omol -O /tmp/ZINC49059493.mol
+start to insert.
+data insert successfully.
+after modify the current is 29640
+ Running /tmp/babel -ipdbqt /tmp/ZINC95498252.pdbqt -omol -O /tmp/ZINC95498252.mol
+start to insert.
+data insert successfully.
+after modify the current is 29728
+ Running /tmp/babel -ipdbqt /tmp/ZINC68709919.pdbqt -omol -O /tmp/ZINC68709919.mol
+start to insert.
+data insert successfully.
+after modify the current is 29830
+ Running /tmp/babel -ipdbqt /tmp/ZINC82107905.pdbqt -omol -O /tmp/ZINC82107905.mol
+start to insert.
+data insert successfully.
+after modify the current is 29925
+ Running /tmp/babel -ipdbqt /tmp/ZINC03037436.pdbqt -omol -O /tmp/ZINC03037436.mol
+start to insert.
+data insert successfully.
+after modify the current is 30017
+ Running /tmp/babel -ipdbqt /tmp/ZINC34668361.pdbqt -omol -O /tmp/ZINC34668361.mol
+start to insert.
+data insert successfully.
+after modify the current is 30109
+ Running /tmp/babel -ipdbqt /tmp/ZINC67974813.pdbqt -omol -O /tmp/ZINC67974813.mol
+start to insert.
+data insert successfully.
+after modify the current is 30183
+ Running /tmp/babel -ipdbqt /tmp/ZINC56340592.pdbqt -omol -O /tmp/ZINC56340592.mol
+start to insert.
+data insert successfully.
+after modify the current is 30296
+ Running /tmp/babel -ipdbqt /tmp/ZINC96358702.pdbqt -omol -O /tmp/ZINC96358702.mol
+start to insert.
+data insert successfully.
+after modify the current is 30409
+ Running /tmp/babel -ipdbqt /tmp/ZINC19121311.pdbqt -omol -O /tmp/ZINC19121311.mol
+start to insert.
+data insert successfully.
+after modify the current is 30499
+ Running /tmp/babel -ipdbqt /tmp/ZINC07800583.pdbqt -omol -O /tmp/ZINC07800583.mol
+start to insert.
+data insert successfully.
+after modify the current is 30606
+ Running /tmp/babel -ipdbqt /tmp/ZINC78991088.pdbqt -omol -O /tmp/ZINC78991088.mol
+start to insert.
+data insert successfully.
+after modify the current is 30721
+ Running /tmp/babel -ipdbqt /tmp/ZINC90591939.pdbqt -omol -O /tmp/ZINC90591939.mol
+start to insert.
+data insert successfully.
+after modify the current is 30829
+ Running /tmp/babel -ipdbqt /tmp/ZINC59988537.pdbqt -omol -O /tmp/ZINC59988537.mol
+start to insert.
+data insert successfully.
+after modify the current is 30925
+ Running /tmp/babel -ipdbqt /tmp/ZINC64568434.pdbqt -omol -O /tmp/ZINC64568434.mol
+start to insert.
+data insert successfully.
+after modify the current is 31035
+ Running /tmp/babel -ipdbqt /tmp/ZINC59015513.pdbqt -omol -O /tmp/ZINC59015513.mol
+start to insert.
+data insert successfully.
+after modify the current is 31131
+ Running /tmp/babel -ipdbqt /tmp/ZINC02745477.pdbqt -omol -O /tmp/ZINC02745477.mol
+start to insert.
+data insert successfully.
+after modify the current is 31230
+ Running /tmp/babel -ipdbqt /tmp/ZINC70971478.pdbqt -omol -O /tmp/ZINC70971478.mol
+start to insert.
+data insert successfully.
+after modify the current is 31325
+ Running /tmp/babel -ipdbqt /tmp/ZINC67654185.pdbqt -omol -O /tmp/ZINC67654185.mol
+start to insert.
+data insert successfully.
+after modify the current is 31428
+ Running /tmp/babel -ipdbqt /tmp/ZINC22931280.pdbqt -omol -O /tmp/ZINC22931280.mol
+start to insert.
+data insert successfully.
+after modify the current is 31535
+ Running /tmp/babel -ipdbqt /tmp/ZINC77973979.pdbqt -omol -O /tmp/ZINC77973979.mol
+start to insert.
+data insert successfully.
+after modify the current is 31646
+ Running /tmp/babel -ipdbqt /tmp/ZINC04006314.pdbqt -omol -O /tmp/ZINC04006314.mol
+start to insert.
+data insert successfully.
+after modify the current is 31753
+ Running /tmp/babel -ipdbqt /tmp/ZINC23883360.pdbqt -omol -O /tmp/ZINC23883360.mol
+start to insert.
+data insert successfully.
+after modify the current is 31835
+ Running /tmp/babel -ipdbqt /tmp/ZINC90226320.pdbqt -omol -O /tmp/ZINC90226320.mol
+start to insert.
+data insert successfully.
+after modify the current is 31924
+ Running /tmp/babel -ipdbqt /tmp/ZINC32894964.pdbqt -omol -O /tmp/ZINC32894964.mol
+start to insert.
+data insert successfully.
+after modify the current is 32023
+ Running /tmp/babel -ipdbqt /tmp/ZINC15046239.pdbqt -omol -O /tmp/ZINC15046239.mol
+start to insert.
+data insert successfully.
+after modify the current is 32133
+ Running /tmp/babel -ipdbqt /tmp/ZINC54198996.pdbqt -omol -O /tmp/ZINC54198996.mol
+start to insert.
+data insert successfully.
+after modify the current is 32225
+ Running /tmp/babel -ipdbqt /tmp/ZINC64861168.pdbqt -omol -O /tmp/ZINC64861168.mol
+start to insert.
+data insert successfully.
+after modify the current is 32327
+ Running /tmp/babel -ipdbqt /tmp/ZINC04675445.pdbqt -omol -O /tmp/ZINC04675445.mol
+start to insert.
+data insert successfully.
+after modify the current is 32420
+ Running /tmp/babel -ipdbqt /tmp/ZINC09281958.pdbqt -omol -O /tmp/ZINC09281958.mol
+start to insert.
+data insert successfully.
+after modify the current is 32507
+ Running /tmp/babel -ipdbqt /tmp/ZINC64998216.pdbqt -omol -O /tmp/ZINC64998216.mol
+start to insert.
+data insert successfully.
+after modify the current is 32589
+ Running /tmp/babel -ipdbqt /tmp/ZINC12692134.pdbqt -omol -O /tmp/ZINC12692134.mol
+start to insert.
+data insert successfully.
+after modify the current is 32666
+ Running /tmp/babel -ipdbqt /tmp/ZINC76138757.pdbqt -omol -O /tmp/ZINC76138757.mol
+start to insert.
+data insert successfully.
+after modify the current is 32739
+ Running /tmp/babel -ipdbqt /tmp/ZINC93286820.pdbqt -omol -O /tmp/ZINC93286820.mol
+start to insert.
+data insert successfully.
+after modify the current is 32817
+ Running /tmp/babel -ipdbqt /tmp/ZINC67834346.pdbqt -omol -O /tmp/ZINC67834346.mol
+start to insert.
+data insert successfully.
+after modify the current is 32893
+ Running /tmp/babel -ipdbqt /tmp/ZINC55052955.pdbqt -omol -O /tmp/ZINC55052955.mol
+start to insert.
+data insert successfully.
+after modify the current is 32966
+ Running /tmp/babel -ipdbqt /tmp/ZINC92973319.pdbqt -omol -O /tmp/ZINC92973319.mol
+start to insert.
+data insert successfully.
+after modify the current is 33049
+ Running /tmp/babel -ipdbqt /tmp/ZINC72374442.pdbqt -omol -O /tmp/ZINC72374442.mol
+start to insert.
+data insert successfully.
+after modify the current is 33119
+ Running /tmp/babel -ipdbqt /tmp/ZINC78095262.pdbqt -omol -O /tmp/ZINC78095262.mol
+start to insert.
+data insert successfully.
+after modify the current is 33192
+ Running /tmp/babel -ipdbqt /tmp/ZINC11502593.pdbqt -omol -O /tmp/ZINC11502593.mol
+start to insert.
+data insert successfully.
+after modify the current is 33268
+ Running /tmp/babel -ipdbqt /tmp/ZINC65135183.pdbqt -omol -O /tmp/ZINC65135183.mol
+start to insert.
+data insert successfully.
+after modify the current is 33335
+ Running /tmp/babel -ipdbqt /tmp/ZINC77469811.pdbqt -omol -O /tmp/ZINC77469811.mol
+start to insert.
+data insert successfully.
+after modify the current is 33407
+ Running /tmp/babel -ipdbqt /tmp/ZINC74504634.pdbqt -omol -O /tmp/ZINC74504634.mol
+start to insert.
+data insert successfully.
+after modify the current is 33478
+ Running /tmp/babel -ipdbqt /tmp/ZINC93608054.pdbqt -omol -O /tmp/ZINC93608054.mol
+start to insert.
+data insert successfully.
+after modify the current is 33562
+ Running /tmp/babel -ipdbqt /tmp/ZINC87019930.pdbqt -omol -O /tmp/ZINC87019930.mol
+start to insert.
+data insert successfully.
+after modify the current is 33642
+ Running /tmp/babel -ipdbqt /tmp/ZINC96333527.pdbqt -omol -O /tmp/ZINC96333527.mol
+start to insert.
+data insert successfully.
+after modify the current is 33721
+ Running /tmp/babel -ipdbqt /tmp/ZINC69669075.pdbqt -omol -O /tmp/ZINC69669075.mol
+start to insert.
+data insert successfully.
+after modify the current is 33802
+ Running /tmp/babel -ipdbqt /tmp/ZINC15566469.pdbqt -omol -O /tmp/ZINC15566469.mol
+start to insert.
+data insert successfully.
+after modify the current is 33868
+ Running /tmp/babel -ipdbqt /tmp/ZINC93325006.pdbqt -omol -O /tmp/ZINC93325006.mol
+start to insert.
+data insert successfully.
+after modify the current is 33943
+ Running /tmp/babel -ipdbqt /tmp/ZINC36828095.pdbqt -omol -O /tmp/ZINC36828095.mol
+start to insert.
+data insert successfully.
+after modify the current is 34011
+ Running /tmp/babel -ipdbqt /tmp/ZINC40683128.pdbqt -omol -O /tmp/ZINC40683128.mol
+start to insert.
+data insert successfully.
+after modify the current is 34069
+ Running /tmp/babel -ipdbqt /tmp/ZINC20699956.pdbqt -omol -O /tmp/ZINC20699956.mol
+start to insert.
+data insert successfully.
+after modify the current is 34135
+ Running /tmp/babel -ipdbqt /tmp/ZINC73628088.pdbqt -omol -O /tmp/ZINC73628088.mol
+start to insert.
+data insert successfully.
+after modify the current is 34195
+ Running /tmp/babel -ipdbqt /tmp/ZINC21640087.pdbqt -omol -O /tmp/ZINC21640087.mol
+start to insert.
+data insert successfully.
+after modify the current is 34250
+ Running /tmp/babel -ipdbqt /tmp/ZINC45201570.pdbqt -omol -O /tmp/ZINC45201570.mol
+start to insert.
+data insert successfully.
+after modify the current is 34321
+ Running /tmp/babel -ipdbqt /tmp/ZINC92872824.pdbqt -omol -O /tmp/ZINC92872824.mol
+start to insert.
+data insert successfully.
+after modify the current is 34390
+ Running /tmp/babel -ipdbqt /tmp/ZINC40129152.pdbqt -omol -O /tmp/ZINC40129152.mol
+start to insert.
+data insert successfully.
+after modify the current is 34460
+ Running /tmp/babel -ipdbqt /tmp/ZINC96005304.pdbqt -omol -O /tmp/ZINC96005304.mol
+start to insert.
+data insert successfully.
+after modify the current is 34514
+ Running /tmp/babel -ipdbqt /tmp/ZINC72046740.pdbqt -omol -O /tmp/ZINC72046740.mol
+start to insert.
+data insert successfully.
+after modify the current is 34588
+ Running /tmp/babel -ipdbqt /tmp/ZINC15562062.pdbqt -omol -O /tmp/ZINC15562062.mol
+start to insert.
+data insert successfully.
+after modify the current is 34659
+ Running /tmp/babel -ipdbqt /tmp/ZINC05024176.pdbqt -omol -O /tmp/ZINC05024176.mol
+start to insert.
+data insert successfully.
+after modify the current is 34735
+ Running /tmp/babel -ipdbqt /tmp/ZINC12525253.pdbqt -omol -O /tmp/ZINC12525253.mol
+start to insert.
+data insert successfully.
+after modify the current is 34799
+ Running /tmp/babel -ipdbqt /tmp/ZINC72435547.pdbqt -omol -O /tmp/ZINC72435547.mol
+start to insert.
+data insert successfully.
+after modify the current is 34866
+ Running /tmp/babel -ipdbqt /tmp/ZINC22941962.pdbqt -omol -O /tmp/ZINC22941962.mol
+start to insert.
+data insert successfully.
+after modify the current is 34934
+ Running /tmp/babel -ipdbqt /tmp/ZINC33026730.pdbqt -omol -O /tmp/ZINC33026730.mol
+start to insert.
+data insert successfully.
+after modify the current is 35009
+ Running /tmp/babel -ipdbqt /tmp/ZINC80132902.pdbqt -omol -O /tmp/ZINC80132902.mol
+start to insert.
+data insert successfully.
+after modify the current is 35071
+ Running /tmp/babel -ipdbqt /tmp/ZINC06522728.pdbqt -omol -O /tmp/ZINC06522728.mol
+start to insert.
+data insert successfully.
+after modify the current is 36393
+ Running /tmp/babel -ipdbqt /tmp/ZINC66518406.pdbqt -omol -O /tmp/ZINC66518406.mol
+start to insert.
+data insert successfully.
+after modify the current is 36484
+ Running /tmp/babel -ipdbqt /tmp/ZINC95508351.pdbqt -omol -O /tmp/ZINC95508351.mol
+start to insert.
+data insert successfully.
+after modify the current is 36592
+ Running /tmp/babel -ipdbqt /tmp/ZINC09208921.pdbqt -omol -O /tmp/ZINC09208921.mol
+start to insert.
+data insert successfully.
+after modify the current is 36672
+ Running /tmp/babel -ipdbqt /tmp/ZINC32768323.pdbqt -omol -O /tmp/ZINC32768323.mol
+start to insert.
+data insert successfully.
+after modify the current is 36765
+ Running /tmp/babel -ipdbqt /tmp/ZINC41548617.pdbqt -omol -O /tmp/ZINC41548617.mol
+start to insert.
+data insert successfully.
+after modify the current is 36865
+ Running /tmp/babel -ipdbqt /tmp/ZINC72394186.pdbqt -omol -O /tmp/ZINC72394186.mol
+start to insert.
+data insert successfully.
+after modify the current is 36975
+ Running /tmp/babel -ipdbqt /tmp/ZINC91635769.pdbqt -omol -O /tmp/ZINC91635769.mol
+start to insert.
+data insert successfully.
+after modify the current is 37076
+ Running /tmp/babel -ipdbqt /tmp/ZINC60677609.pdbqt -omol -O /tmp/ZINC60677609.mol
+start to insert.
+data insert successfully.
+after modify the current is 37170
+ Running /tmp/babel -ipdbqt /tmp/ZINC13364997.pdbqt -omol -O /tmp/ZINC13364997.mol
+start to insert.
+data insert successfully.
+after modify the current is 37290
+ Running /tmp/babel -ipdbqt /tmp/ZINC75698324.pdbqt -omol -O /tmp/ZINC75698324.mol
+start to insert.
+data insert successfully.
+after modify the current is 37396
+ Running /tmp/babel -ipdbqt /tmp/ZINC97945185.pdbqt -omol -O /tmp/ZINC97945185.mol
+start to insert.
+data insert successfully.
+after modify the current is 37496
+ Running /tmp/babel -ipdbqt /tmp/ZINC32906767.pdbqt -omol -O /tmp/ZINC32906767.mol
+start to insert.
+data insert successfully.
+after modify the current is 37602
+ Running /tmp/babel -ipdbqt /tmp/ZINC08720202.pdbqt -omol -O /tmp/ZINC08720202.mol
+start to insert.
+data insert successfully.
+after modify the current is 37713
+ Running /tmp/babel -ipdbqt /tmp/ZINC12404209.pdbqt -omol -O /tmp/ZINC12404209.mol
+start to insert.
+data insert successfully.
+after modify the current is 37805
+ Running /tmp/babel -ipdbqt /tmp/ZINC67297619.pdbqt -omol -O /tmp/ZINC67297619.mol
+start to insert.
+data insert successfully.
+after modify the current is 37907
+ Running /tmp/babel -ipdbqt /tmp/ZINC65494732.pdbqt -omol -O /tmp/ZINC65494732.mol
+start to insert.
+data insert successfully.
+after modify the current is 37992
+ Running /tmp/babel -ipdbqt /tmp/ZINC13746492.pdbqt -omol -O /tmp/ZINC13746492.mol
+start to insert.
+data insert successfully.
+after modify the current is 38089
+ Running /tmp/babel -ipdbqt /tmp/ZINC19574275.pdbqt -omol -O /tmp/ZINC19574275.mol
+start to insert.
+data insert successfully.
+after modify the current is 38180
+ Running /tmp/babel -ipdbqt /tmp/ZINC65507009.pdbqt -omol -O /tmp/ZINC65507009.mol
+start to insert.
+data insert successfully.
+after modify the current is 38279
+ Running /tmp/babel -ipdbqt /tmp/ZINC71919692.pdbqt -omol -O /tmp/ZINC71919692.mol
+start to insert.
+data insert successfully.
+after modify the current is 38379
+ Running /tmp/babel -ipdbqt /tmp/ZINC20723465.pdbqt -omol -O /tmp/ZINC20723465.mol
+start to insert.
+data insert successfully.
+after modify the current is 38468
+ Running /tmp/babel -ipdbqt /tmp/ZINC07423599.pdbqt -omol -O /tmp/ZINC07423599.mol
+start to insert.
+data insert successfully.
+after modify the current is 38551
+ Running /tmp/babel -ipdbqt /tmp/ZINC05175263.pdbqt -omol -O /tmp/ZINC05175263.mol
+start to insert.
+data insert successfully.
+after modify the current is 38650
+ Running /tmp/babel -ipdbqt /tmp/ZINC82097106.pdbqt -omol -O /tmp/ZINC82097106.mol
+start to insert.
+data insert successfully.
+after modify the current is 38737
+ Running /tmp/babel -ipdbqt /tmp/ZINC42200898.pdbqt -omol -O /tmp/ZINC42200898.mol
+start to insert.
+data insert successfully.
+after modify the current is 38827
+ Running /tmp/babel -ipdbqt /tmp/ZINC07419779.pdbqt -omol -O /tmp/ZINC07419779.mol
+start to insert.
+data insert successfully.
+after modify the current is 38924
+ Running /tmp/babel -ipdbqt /tmp/ZINC02629714.pdbqt -omol -O /tmp/ZINC02629714.mol
+start to insert.
+data insert successfully.
+after modify the current is 39039
+ Running /tmp/babel -ipdbqt /tmp/ZINC01125446.pdbqt -omol -O /tmp/ZINC01125446.mol
+start to insert.
+data insert successfully.
+after modify the current is 39129
+ Running /tmp/babel -ipdbqt /tmp/ZINC08217821.pdbqt -omol -O /tmp/ZINC08217821.mol
+start to insert.
+data insert successfully.
+after modify the current is 39221
+ Running /tmp/babel -ipdbqt /tmp/ZINC77917551.pdbqt -omol -O /tmp/ZINC77917551.mol
+start to insert.
+data insert successfully.
+after modify the current is 39314
+ Running /tmp/babel -ipdbqt /tmp/ZINC33299312.pdbqt -omol -O /tmp/ZINC33299312.mol
+start to insert.
+data insert successfully.
+after modify the current is 39413
+ Running /tmp/babel -ipdbqt /tmp/ZINC12351918.pdbqt -omol -O /tmp/ZINC12351918.mol
+start to insert.
+data insert successfully.
+after modify the current is 39511
+ Running /tmp/babel -ipdbqt /tmp/ZINC01824787.pdbqt -omol -O /tmp/ZINC01824787.mol
+start to insert.
+data insert successfully.
+after modify the current is 39590
+ Running /tmp/babel -ipdbqt /tmp/ZINC68567032.pdbqt -omol -O /tmp/ZINC68567032.mol
+start to insert.
+data insert successfully.
+after modify the current is 39686
+ Running /tmp/babel -ipdbqt /tmp/ZINC72125480.pdbqt -omol -O /tmp/ZINC72125480.mol
+start to insert.
+data insert successfully.
+after modify the current is 39787
+ Running /tmp/babel -ipdbqt /tmp/ZINC89425058.pdbqt -omol -O /tmp/ZINC89425058.mol
+start to insert.
+data insert successfully.
+after modify the current is 39887
+ Running /tmp/babel -ipdbqt /tmp/ZINC13427707.pdbqt -omol -O /tmp/ZINC13427707.mol
+start to insert.
+data insert successfully.
+after modify the current is 39989
+ Running /tmp/babel -ipdbqt /tmp/ZINC05051673.pdbqt -omol -O /tmp/ZINC05051673.mol
+start to insert.
+data insert successfully.
+after modify the current is 40081
+ Running /tmp/babel -ipdbqt /tmp/ZINC76488243.pdbqt -omol -O /tmp/ZINC76488243.mol
+start to insert.
+data insert successfully.
+after modify the current is 40183
+ Running /tmp/babel -ipdbqt /tmp/ZINC88764757.pdbqt -omol -O /tmp/ZINC88764757.mol
+start to insert.
+data insert successfully.
+after modify the current is 40296
+ Running /tmp/babel -ipdbqt /tmp/ZINC00553635.pdbqt -omol -O /tmp/ZINC00553635.mol
+start to insert.
+data insert successfully.
+after modify the current is 40382
+ Running /tmp/babel -ipdbqt /tmp/ZINC41549148.pdbqt -omol -O /tmp/ZINC41549148.mol
+start to insert.
+data insert successfully.
+after modify the current is 40472
+ Running /tmp/babel -ipdbqt /tmp/ZINC86424495.pdbqt -omol -O /tmp/ZINC86424495.mol
+start to insert.
+data insert successfully.
+after modify the current is 40576
+ Running /tmp/babel -ipdbqt /tmp/ZINC75732937.pdbqt -omol -O /tmp/ZINC75732937.mol
+start to insert.
+data insert successfully.
+after modify the current is 40653
+ Running /tmp/babel -ipdbqt /tmp/ZINC07805490.pdbqt -omol -O /tmp/ZINC07805490.mol
+start to insert.
+data insert successfully.
+after modify the current is 40748
+ Running /tmp/babel -ipdbqt /tmp/ZINC84922486.pdbqt -omol -O /tmp/ZINC84922486.mol
+start to insert.
+data insert successfully.
+after modify the current is 40850
+ Running /tmp/babel -ipdbqt /tmp/ZINC05863883.pdbqt -omol -O /tmp/ZINC05863883.mol
+start to insert.
+data insert successfully.
+after modify the current is 40945
+ Running /tmp/babel -ipdbqt /tmp/ZINC42000082.pdbqt -omol -O /tmp/ZINC42000082.mol
+start to insert.
+data insert successfully.
+after modify the current is 41038
+ Running /tmp/babel -ipdbqt /tmp/ZINC25727406.pdbqt -omol -O /tmp/ZINC25727406.mol
+start to insert.
+data insert successfully.
+after modify the current is 41127
+ Running /tmp/babel -ipdbqt /tmp/ZINC68354898.pdbqt -omol -O /tmp/ZINC68354898.mol
+start to insert.
+data insert successfully.
+after modify the current is 41239
+ Running /tmp/babel -ipdbqt /tmp/ZINC46901325.pdbqt -omol -O /tmp/ZINC46901325.mol
+start to insert.
+data insert successfully.
+after modify the current is 41343
+ Running /tmp/babel -ipdbqt /tmp/ZINC05122502.pdbqt -omol -O /tmp/ZINC05122502.mol
+start to insert.
+data insert successfully.
+after modify the current is 41429
+ Running /tmp/babel -ipdbqt /tmp/ZINC86074932.pdbqt -omol -O /tmp/ZINC86074932.mol
+start to insert.
+data insert successfully.
+after modify the current is 41514
+ Running /tmp/babel -ipdbqt /tmp/ZINC91766835.pdbqt -omol -O /tmp/ZINC91766835.mol
+start to insert.
+data insert successfully.
+after modify the current is 41609
+ Running /tmp/babel -ipdbqt /tmp/ZINC96326432.pdbqt -omol -O /tmp/ZINC96326432.mol
+start to insert.
+data insert successfully.
+after modify the current is 41701
+ Running /tmp/babel -ipdbqt /tmp/ZINC55926882.pdbqt -omol -O /tmp/ZINC55926882.mol
+start to insert.
+data insert successfully.
+after modify the current is 41781
+ Running /tmp/babel -ipdbqt /tmp/ZINC05406521.pdbqt -omol -O /tmp/ZINC05406521.mol
+start to insert.
+data insert successfully.
+after modify the current is 41874
+ Running /tmp/babel -ipdbqt /tmp/ZINC04859460.pdbqt -omol -O /tmp/ZINC04859460.mol
+start to insert.
+data insert successfully.
+after modify the current is 41959
+ Running /tmp/babel -ipdbqt /tmp/ZINC40090110.pdbqt -omol -O /tmp/ZINC40090110.mol
+start to insert.
+data insert successfully.
+after modify the current is 42042
+ Running /tmp/babel -ipdbqt /tmp/ZINC60538424.pdbqt -omol -O /tmp/ZINC60538424.mol
+start to insert.
+data insert successfully.
+after modify the current is 42138
+ Running /tmp/babel -ipdbqt /tmp/ZINC12987237.pdbqt -omol -O /tmp/ZINC12987237.mol
+start to insert.
+data insert successfully.
+after modify the current is 42236
+ Running /tmp/babel -ipdbqt /tmp/ZINC02845648.pdbqt -omol -O /tmp/ZINC02845648.mol
+start to insert.
+data insert successfully.
+after modify the current is 42335
+ Running /tmp/babel -ipdbqt /tmp/ZINC77157646.pdbqt -omol -O /tmp/ZINC77157646.mol
+start to insert.
+data insert successfully.
+after modify the current is 42436
+ Running /tmp/babel -ipdbqt /tmp/ZINC05025887.pdbqt -omol -O /tmp/ZINC05025887.mol
+start to insert.
+data insert successfully.
+after modify the current is 42527
+ Running /tmp/babel -ipdbqt /tmp/ZINC20465022.pdbqt -omol -O /tmp/ZINC20465022.mol
+start to insert.
+data insert successfully.
+after modify the current is 42624
+ Running /tmp/babel -ipdbqt /tmp/ZINC02677393.pdbqt -omol -O /tmp/ZINC02677393.mol
+start to insert.
+data insert successfully.
+after modify the current is 42750
+ Running /tmp/babel -ipdbqt /tmp/ZINC10436500.pdbqt -omol -O /tmp/ZINC10436500.mol
+start to insert.
+data insert successfully.
+after modify the current is 42841
+ Running /tmp/babel -ipdbqt /tmp/ZINC96216322.pdbqt -omol -O /tmp/ZINC96216322.mol
+start to insert.
+data insert successfully.
+after modify the current is 42947
+ Running /tmp/babel -ipdbqt /tmp/ZINC65273334.pdbqt -omol -O /tmp/ZINC65273334.mol
+start to insert.
+data insert successfully.
+after modify the current is 43053
+ Running /tmp/babel -ipdbqt /tmp/ZINC72412773.pdbqt -omol -O /tmp/ZINC72412773.mol
+start to insert.
+data insert successfully.
+after modify the current is 43146
+ Running /tmp/babel -ipdbqt /tmp/ZINC30008461.pdbqt -omol -O /tmp/ZINC30008461.mol
+start to insert.
+data insert successfully.
+after modify the current is 43244
+ Running /tmp/babel -ipdbqt /tmp/ZINC13403096.pdbqt -omol -O /tmp/ZINC13403096.mol
+start to insert.
+data insert successfully.
+after modify the current is 43326
+ Running /tmp/babel -ipdbqt /tmp/ZINC32779065.pdbqt -omol -O /tmp/ZINC32779065.mol
+start to insert.
+data insert successfully.
+after modify the current is 43432
+ Running /tmp/babel -ipdbqt /tmp/ZINC07421736.pdbqt -omol -O /tmp/ZINC07421736.mol
+start to insert.
+data insert successfully.
+after modify the current is 43519
+ Running /tmp/babel -ipdbqt /tmp/ZINC03238989.pdbqt -omol -O /tmp/ZINC03238989.mol
+start to insert.
+data insert successfully.
+after modify the current is 43625
+ Running /tmp/babel -ipdbqt /tmp/ZINC12580409.pdbqt -omol -O /tmp/ZINC12580409.mol
+start to insert.
+data insert successfully.
+after modify the current is 43721
+ Running /tmp/babel -ipdbqt /tmp/ZINC96219367.pdbqt -omol -O /tmp/ZINC96219367.mol
+start to insert.
+data insert successfully.
+after modify the current is 43828
+ Running /tmp/babel -ipdbqt /tmp/ZINC48712518.pdbqt -omol -O /tmp/ZINC48712518.mol
+start to insert.
+data insert successfully.
+after modify the current is 43913
+ Running /tmp/babel -ipdbqt /tmp/ZINC78158042.pdbqt -omol -O /tmp/ZINC78158042.mol
+start to insert.
+data insert successfully.
+after modify the current is 44021
+ Running /tmp/babel -ipdbqt /tmp/ZINC96148155.pdbqt -omol -O /tmp/ZINC96148155.mol
+start to insert.
+data insert successfully.
+after modify the current is 44133
+ Running /tmp/babel -ipdbqt /tmp/ZINC11878226.pdbqt -omol -O /tmp/ZINC11878226.mol
+start to insert.
+data insert successfully.
+after modify the current is 44237
+ Running /tmp/babel -ipdbqt /tmp/ZINC59159100.pdbqt -omol -O /tmp/ZINC59159100.mol
+start to insert.
+data insert successfully.
+after modify the current is 44344
+ Running /tmp/babel -ipdbqt /tmp/ZINC20209169.pdbqt -omol -O /tmp/ZINC20209169.mol
+start to insert.
+data insert successfully.
+after modify the current is 44434
+ Running /tmp/babel -ipdbqt /tmp/ZINC65259587.pdbqt -omol -O /tmp/ZINC65259587.mol
+start to insert.
+data insert successfully.
+after modify the current is 44551
+ Running /tmp/babel -ipdbqt /tmp/ZINC33246927.pdbqt -omol -O /tmp/ZINC33246927.mol
+start to insert.
+data insert successfully.
+after modify the current is 44647
+ Running /tmp/babel -ipdbqt /tmp/ZINC19459805.pdbqt -omol -O /tmp/ZINC19459805.mol
+start to insert.
+data insert successfully.
+after modify the current is 44729
+ Running /tmp/babel -ipdbqt /tmp/ZINC90043130.pdbqt -omol -O /tmp/ZINC90043130.mol
+start to insert.
+data insert successfully.
+after modify the current is 44832
+ Running /tmp/babel -ipdbqt /tmp/ZINC96993111.pdbqt -omol -O /tmp/ZINC96993111.mol
+start to insert.
+data insert successfully.
+after modify the current is 44925
+ Running /tmp/babel -ipdbqt /tmp/ZINC00847333.pdbqt -omol -O /tmp/ZINC00847333.mol
+start to insert.
+data insert successfully.
+after modify the current is 45042
+ Running /tmp/babel -ipdbqt /tmp/ZINC39952947.pdbqt -omol -O /tmp/ZINC39952947.mol
+start to insert.
+data insert successfully.
+after modify the current is 45128
+ Running /tmp/babel -ipdbqt /tmp/ZINC03569260.pdbqt -omol -O /tmp/ZINC03569260.mol
+start to insert.
+data insert successfully.
+after modify the current is 45229
+ Running /tmp/babel -ipdbqt /tmp/ZINC04381704.pdbqt -omol -O /tmp/ZINC04381704.mol
+start to insert.
+data insert successfully.
+after modify the current is 45328
+ Running /tmp/babel -ipdbqt /tmp/ZINC05373384.pdbqt -omol -O /tmp/ZINC05373384.mol
+start to insert.
+data insert successfully.
+after modify the current is 45417
+ Running /tmp/babel -ipdbqt /tmp/ZINC00920375.pdbqt -omol -O /tmp/ZINC00920375.mol
+start to insert.
+data insert successfully.
+after modify the current is 45506
+ Running /tmp/babel -ipdbqt /tmp/ZINC48142022.pdbqt -omol -O /tmp/ZINC48142022.mol
+start to insert.
+data insert successfully.
+after modify the current is 45600
+ Running /tmp/babel -ipdbqt /tmp/ZINC72105825.pdbqt -omol -O /tmp/ZINC72105825.mol
+start to insert.
+data insert successfully.
+after modify the current is 45699
+ Running /tmp/babel -ipdbqt /tmp/ZINC33019742.pdbqt -omol -O /tmp/ZINC33019742.mol
+start to insert.
+data insert successfully.
+after modify the current is 45782
+ Running /tmp/babel -ipdbqt /tmp/ZINC72408263.pdbqt -omol -O /tmp/ZINC72408263.mol
+start to insert.
+data insert successfully.
+after modify the current is 45880
+ Running /tmp/babel -ipdbqt /tmp/ZINC03456075.pdbqt -omol -O /tmp/ZINC03456075.mol
+start to insert.
+data insert successfully.
+after modify the current is 45984
+ Running /tmp/babel -ipdbqt /tmp/ZINC23424711.pdbqt -omol -O /tmp/ZINC23424711.mol
+start to insert.
+data insert successfully.
+after modify the current is 46084
+ Running /tmp/babel -ipdbqt /tmp/ZINC36734871.pdbqt -omol -O /tmp/ZINC36734871.mol
+start to insert.
+data insert successfully.
+after modify the current is 46192
+ Running /tmp/babel -ipdbqt /tmp/ZINC09365499.pdbqt -omol -O /tmp/ZINC09365499.mol
+start to insert.
+data insert successfully.
+after modify the current is 46288
+ Running /tmp/babel -ipdbqt /tmp/ZINC32525965.pdbqt -omol -O /tmp/ZINC32525965.mol
+start to insert.
+data insert successfully.
+after modify the current is 46377
+ Running /tmp/babel -ipdbqt /tmp/ZINC12518086.pdbqt -omol -O /tmp/ZINC12518086.mol
+start to insert.
+data insert successfully.
+after modify the current is 46477
+ Running /tmp/babel -ipdbqt /tmp/ZINC27034394.pdbqt -omol -O /tmp/ZINC27034394.mol
+start to insert.
+data insert successfully.
+after modify the current is 46564
+ Running /tmp/babel -ipdbqt /tmp/ZINC77734603.pdbqt -omol -O /tmp/ZINC77734603.mol
+start to insert.
+data insert successfully.
+after modify the current is 46678
+ Running /tmp/babel -ipdbqt /tmp/ZINC82155681.pdbqt -omol -O /tmp/ZINC82155681.mol
+start to insert.
+data insert successfully.
+after modify the current is 46777
+ Running /tmp/babel -ipdbqt /tmp/ZINC78526295.pdbqt -omol -O /tmp/ZINC78526295.mol
+start to insert.
+data insert successfully.
+after modify the current is 46861
+ Running /tmp/babel -ipdbqt /tmp/ZINC67673602.pdbqt -omol -O /tmp/ZINC67673602.mol
+start to insert.
+data insert successfully.
+after modify the current is 46947
+ Running /tmp/babel -ipdbqt /tmp/ZINC25457861.pdbqt -omol -O /tmp/ZINC25457861.mol
+start to insert.
+data insert successfully.
+after modify the current is 47030
+ Running /tmp/babel -ipdbqt /tmp/ZINC32754466.pdbqt -omol -O /tmp/ZINC32754466.mol
+start to insert.
+data insert successfully.
+after modify the current is 47151
+ Running /tmp/babel -ipdbqt /tmp/ZINC19814328.pdbqt -omol -O /tmp/ZINC19814328.mol
+start to insert.
+data insert successfully.
+after modify the current is 47242
+ Running /tmp/babel -ipdbqt /tmp/ZINC04174301.pdbqt -omol -O /tmp/ZINC04174301.mol
+start to insert.
+data insert successfully.
+after modify the current is 47346
+ Running /tmp/babel -ipdbqt /tmp/ZINC15823098.pdbqt -omol -O /tmp/ZINC15823098.mol
+start to insert.
+data insert successfully.
+after modify the current is 47444
+ Running /tmp/babel -ipdbqt /tmp/ZINC40096727.pdbqt -omol -O /tmp/ZINC40096727.mol
+start to insert.
+data insert successfully.
+after modify the current is 47534
+ Running /tmp/babel -ipdbqt /tmp/ZINC67028142.pdbqt -omol -O /tmp/ZINC67028142.mol
+start to insert.
+data insert successfully.
+after modify the current is 47608
+ Running /tmp/babel -ipdbqt /tmp/ZINC92421745.pdbqt -omol -O /tmp/ZINC92421745.mol
+start to insert.
+data insert successfully.
+after modify the current is 47704
+ Running /tmp/babel -ipdbqt /tmp/ZINC20117521.pdbqt -omol -O /tmp/ZINC20117521.mol
+start to insert.
+data insert successfully.
+after modify the current is 47805
+ Running /tmp/babel -ipdbqt /tmp/ZINC28812687.pdbqt -omol -O /tmp/ZINC28812687.mol
+start to insert.
+data insert successfully.
+after modify the current is 47908
+ Running /tmp/babel -ipdbqt /tmp/ZINC65213724.pdbqt -omol -O /tmp/ZINC65213724.mol
+start to insert.
+data insert successfully.
+after modify the current is 48018
+ Running /tmp/babel -ipdbqt /tmp/ZINC46895928.pdbqt -omol -O /tmp/ZINC46895928.mol
+start to insert.
+data insert successfully.
+after modify the current is 48135
+ Running /tmp/babel -ipdbqt /tmp/ZINC89899320.pdbqt -omol -O /tmp/ZINC89899320.mol
+start to insert.
+data insert successfully.
+after modify the current is 48226
+ Running /tmp/babel -ipdbqt /tmp/ZINC96036169.pdbqt -omol -O /tmp/ZINC96036169.mol
+start to insert.
+data insert successfully.
+after modify the current is 48291
+ Running /tmp/babel -ipdbqt /tmp/ZINC23995988.pdbqt -omol -O /tmp/ZINC23995988.mol
+start to insert.
+data insert successfully.
+after modify the current is 48363
+ Running /tmp/babel -ipdbqt /tmp/ZINC17822245.pdbqt -omol -O /tmp/ZINC17822245.mol
+start to insert.
+data insert successfully.
+after modify the current is 48434
+ Running /tmp/babel -ipdbqt /tmp/ZINC89969164.pdbqt -omol -O /tmp/ZINC89969164.mol
+start to insert.
+data insert successfully.
+after modify the current is 48533
+ Running /tmp/babel -ipdbqt /tmp/ZINC90732758.pdbqt -omol -O /tmp/ZINC90732758.mol
+start to insert.
+data insert successfully.
+after modify the current is 48613
+ Running /tmp/babel -ipdbqt /tmp/ZINC71759224.pdbqt -omol -O /tmp/ZINC71759224.mol
+start to insert.
+data insert successfully.
+after modify the current is 48715
+ Running /tmp/babel -ipdbqt /tmp/ZINC00856344.pdbqt -omol -O /tmp/ZINC00856344.mol
+start to insert.
+data insert successfully.
+after modify the current is 48816
+ Running /tmp/babel -ipdbqt /tmp/ZINC71946304.pdbqt -omol -O /tmp/ZINC71946304.mol
+start to insert.
+data insert successfully.
+after modify the current is 48914
+ Running /tmp/babel -ipdbqt /tmp/ZINC55786392.pdbqt -omol -O /tmp/ZINC55786392.mol
+start to insert.
+data insert successfully.
+after modify the current is 49013
+ Running /tmp/babel -ipdbqt /tmp/ZINC72479756.pdbqt -omol -O /tmp/ZINC72479756.mol
+start to insert.
+data insert successfully.
+after modify the current is 49117
+ Running /tmp/babel -ipdbqt /tmp/ZINC39536222.pdbqt -omol -O /tmp/ZINC39536222.mol
+start to insert.
+data insert successfully.
+after modify the current is 49219
+ Running /tmp/babel -ipdbqt /tmp/ZINC20717030.pdbqt -omol -O /tmp/ZINC20717030.mol
+start to insert.
+data insert successfully.
+after modify the current is 49327
+ Running /tmp/babel -ipdbqt /tmp/ZINC91998154.pdbqt -omol -O /tmp/ZINC91998154.mol
+start to insert.
+data insert successfully.
+after modify the current is 49417
+ Running /tmp/babel -ipdbqt /tmp/ZINC12314941.pdbqt -omol -O /tmp/ZINC12314941.mol
+start to insert.
+data insert successfully.
+after modify the current is 49518
+ Running /tmp/babel -ipdbqt /tmp/ZINC34840234.pdbqt -omol -O /tmp/ZINC34840234.mol
+start to insert.
+data insert successfully.
+after modify the current is 49619
+ Running /tmp/babel -ipdbqt /tmp/ZINC09340247.pdbqt -omol -O /tmp/ZINC09340247.mol
+start to insert.
+data insert successfully.
+after modify the current is 49720
+ Running /tmp/babel -ipdbqt /tmp/ZINC06928393.pdbqt -omol -O /tmp/ZINC06928393.mol
+start to insert.
+data insert successfully.
+after modify the current is 49817
+ Running /tmp/babel -ipdbqt /tmp/ZINC19742127.pdbqt -omol -O /tmp/ZINC19742127.mol
+start to insert.
+data insert successfully.
+after modify the current is 49919
+ Running /tmp/babel -ipdbqt /tmp/ZINC95428810.pdbqt -omol -O /tmp/ZINC95428810.mol
+start to insert.
+data insert successfully.
+after modify the current is 50016
+ Running /tmp/babel -ipdbqt /tmp/ZINC07780980.pdbqt -omol -O /tmp/ZINC07780980.mol
+start to insert.
+data insert successfully.
+after modify the current is 50107
+ Running /tmp/babel -ipdbqt /tmp/ZINC69773698.pdbqt -omol -O /tmp/ZINC69773698.mol
+start to insert.
+data insert successfully.
+after modify the current is 50239
+ Running /tmp/babel -ipdbqt /tmp/ZINC49432910.pdbqt -omol -O /tmp/ZINC49432910.mol
+start to insert.
+data insert successfully.
+after modify the current is 50328
+ Running /tmp/babel -ipdbqt /tmp/ZINC66302180.pdbqt -omol -O /tmp/ZINC66302180.mol
+start to insert.
+data insert successfully.
+after modify the current is 50411
+ Running /tmp/babel -ipdbqt /tmp/ZINC70638363.pdbqt -omol -O /tmp/ZINC70638363.mol
+start to insert.
+data insert successfully.
+after modify the current is 50511
+ Running /tmp/babel -ipdbqt /tmp/ZINC06090823.pdbqt -omol -O /tmp/ZINC06090823.mol
+start to insert.
+data insert successfully.
+after modify the current is 50599
+ Running /tmp/babel -ipdbqt /tmp/ZINC59332003.pdbqt -omol -O /tmp/ZINC59332003.mol
+start to insert.
+data insert successfully.
+after modify the current is 50701
+ Running /tmp/babel -ipdbqt /tmp/ZINC73951755.pdbqt -omol -O /tmp/ZINC73951755.mol
+start to insert.
+data insert successfully.
+after modify the current is 50795
+ Running /tmp/babel -ipdbqt /tmp/ZINC10736202.pdbqt -omol -O /tmp/ZINC10736202.mol
+start to insert.
+data insert successfully.
+after modify the current is 50898
+ Running /tmp/babel -ipdbqt /tmp/ZINC55631683.pdbqt -omol -O /tmp/ZINC55631683.mol
+start to insert.
+data insert successfully.
+after modify the current is 51009
+ Running /tmp/babel -ipdbqt /tmp/ZINC36698422.pdbqt -omol -O /tmp/ZINC36698422.mol
+start to insert.
+data insert successfully.
+after modify the current is 51099
+ Running /tmp/babel -ipdbqt /tmp/ZINC93587231.pdbqt -omol -O /tmp/ZINC93587231.mol
+start to insert.
+data insert successfully.
+after modify the current is 51182
+ Running /tmp/babel -ipdbqt /tmp/ZINC92475231.pdbqt -omol -O /tmp/ZINC92475231.mol
+start to insert.
+data insert successfully.
+after modify the current is 51288
+ Running /tmp/babel -ipdbqt /tmp/ZINC72802702.pdbqt -omol -O /tmp/ZINC72802702.mol
+start to insert.
+data insert successfully.
+after modify the current is 51408
+ Running /tmp/babel -ipdbqt /tmp/ZINC96139757.pdbqt -omol -O /tmp/ZINC96139757.mol
+start to insert.
+data insert successfully.
+after modify the current is 51508
+ Running /tmp/babel -ipdbqt /tmp/ZINC58208437.pdbqt -omol -O /tmp/ZINC58208437.mol
+start to insert.
+data insert successfully.
+after modify the current is 51595
+ Running /tmp/babel -ipdbqt /tmp/ZINC69615732.pdbqt -omol -O /tmp/ZINC69615732.mol
+start to insert.
+data insert successfully.
+after modify the current is 51688
+ Running /tmp/babel -ipdbqt /tmp/ZINC33285084.pdbqt -omol -O /tmp/ZINC33285084.mol
+start to insert.
+data insert successfully.
+after modify the current is 51787
+ Running /tmp/babel -ipdbqt /tmp/ZINC53347439.pdbqt -omol -O /tmp/ZINC53347439.mol
+start to insert.
+data insert successfully.
+after modify the current is 51882
+ Running /tmp/babel -ipdbqt /tmp/ZINC33258802.pdbqt -omol -O /tmp/ZINC33258802.mol
+start to insert.
+data insert successfully.
+after modify the current is 51969
+ Running /tmp/babel -ipdbqt /tmp/ZINC06694384.pdbqt -omol -O /tmp/ZINC06694384.mol
+start to insert.
+data insert successfully.
+after modify the current is 52059
+ Running /tmp/babel -ipdbqt /tmp/ZINC11958326.pdbqt -omol -O /tmp/ZINC11958326.mol
+start to insert.
+data insert successfully.
+after modify the current is 52139
+ Running /tmp/babel -ipdbqt /tmp/ZINC07503410.pdbqt -omol -O /tmp/ZINC07503410.mol
+start to insert.
+data insert successfully.
+after modify the current is 52242
+ Running /tmp/babel -ipdbqt /tmp/ZINC49396311.pdbqt -omol -O /tmp/ZINC49396311.mol
+start to insert.
+data insert successfully.
+after modify the current is 52316
+ Running /tmp/babel -ipdbqt /tmp/ZINC72457235.pdbqt -omol -O /tmp/ZINC72457235.mol
+start to insert.
+data insert successfully.
+after modify the current is 52402
+ Running /tmp/babel -ipdbqt /tmp/ZINC70828359.pdbqt -omol -O /tmp/ZINC70828359.mol
+start to insert.
+data insert successfully.
+after modify the current is 52479
+ Running /tmp/babel -ipdbqt /tmp/ZINC04158836.pdbqt -omol -O /tmp/ZINC04158836.mol
+start to insert.
+data insert successfully.
+after modify the current is 52576
+ Running /tmp/babel -ipdbqt /tmp/ZINC16078830.pdbqt -omol -O /tmp/ZINC16078830.mol
+start to insert.
+data insert successfully.
+after modify the current is 52666
+ Running /tmp/babel -ipdbqt /tmp/ZINC20906575.pdbqt -omol -O /tmp/ZINC20906575.mol
+start to insert.
+data insert successfully.
+after modify the current is 52754
+ Running /tmp/babel -ipdbqt /tmp/ZINC55168710.pdbqt -omol -O /tmp/ZINC55168710.mol
+start to insert.
+data insert successfully.
+after modify the current is 52852
+ Running /tmp/babel -ipdbqt /tmp/ZINC22934318.pdbqt -omol -O /tmp/ZINC22934318.mol
+start to insert.
+data insert successfully.
+after modify the current is 52946
+ Running /tmp/babel -ipdbqt /tmp/ZINC43265559.pdbqt -omol -O /tmp/ZINC43265559.mol
+start to insert.
+data insert successfully.
+after modify the current is 53036
+ Running /tmp/babel -ipdbqt /tmp/ZINC66341532.pdbqt -omol -O /tmp/ZINC66341532.mol
+start to insert.
+data insert successfully.
+after modify the current is 53127
+ Running /tmp/babel -ipdbqt /tmp/ZINC49422315.pdbqt -omol -O /tmp/ZINC49422315.mol
+start to insert.
+data insert successfully.
+after modify the current is 53209
+ Running /tmp/babel -ipdbqt /tmp/ZINC95363240.pdbqt -omol -O /tmp/ZINC95363240.mol
+start to insert.
+data insert successfully.
+after modify the current is 53293
+ Running /tmp/babel -ipdbqt /tmp/ZINC96244676.pdbqt -omol -O /tmp/ZINC96244676.mol
+start to insert.
+data insert successfully.
+after modify the current is 53364
+ Running /tmp/babel -ipdbqt /tmp/ZINC69664485.pdbqt -omol -O /tmp/ZINC69664485.mol
+start to insert.
+data insert successfully.
+after modify the current is 53479
+ Running /tmp/babel -ipdbqt /tmp/ZINC12701527.pdbqt -omol -O /tmp/ZINC12701527.mol
+start to insert.
+data insert successfully.
+after modify the current is 53571
+ Running /tmp/babel -ipdbqt /tmp/ZINC95511839.pdbqt -omol -O /tmp/ZINC95511839.mol
+start to insert.
+data insert successfully.
+after modify the current is 53651
+ Running /tmp/babel -ipdbqt /tmp/ZINC05273310.pdbqt -omol -O /tmp/ZINC05273310.mol
+start to insert.
+data insert successfully.
+after modify the current is 53746
+ Running /tmp/babel -ipdbqt /tmp/ZINC77584883.pdbqt -omol -O /tmp/ZINC77584883.mol
+start to insert.
+data insert successfully.
+after modify the current is 53835
+ Running /tmp/babel -ipdbqt /tmp/ZINC59953414.pdbqt -omol -O /tmp/ZINC59953414.mol
+start to insert.
+data insert successfully.
+after modify the current is 53927
+ Running /tmp/babel -ipdbqt /tmp/ZINC97492165.pdbqt -omol -O /tmp/ZINC97492165.mol
+start to insert.
+data insert successfully.
+after modify the current is 54018
+ Running /tmp/babel -ipdbqt /tmp/ZINC66481429.pdbqt -omol -O /tmp/ZINC66481429.mol
+start to insert.
+data insert successfully.
+after modify the current is 54120
+ Running /tmp/babel -ipdbqt /tmp/ZINC72423366.pdbqt -omol -O /tmp/ZINC72423366.mol
+start to insert.
+data insert successfully.
+after modify the current is 54214
+ Running /tmp/babel -ipdbqt /tmp/ZINC48350880.pdbqt -omol -O /tmp/ZINC48350880.mol
+start to insert.
+data insert successfully.
+after modify the current is 54299
+ Running /tmp/babel -ipdbqt /tmp/ZINC10257266.pdbqt -omol -O /tmp/ZINC10257266.mol
+start to insert.
+data insert successfully.
+after modify the current is 54387
+ Running /tmp/babel -ipdbqt /tmp/ZINC48061855.pdbqt -omol -O /tmp/ZINC48061855.mol
+start to insert.
+data insert successfully.
+after modify the current is 54482
+ Running /tmp/babel -ipdbqt /tmp/ZINC47886491.pdbqt -omol -O /tmp/ZINC47886491.mol
+start to insert.
+data insert successfully.
+after modify the current is 54568
+ Running /tmp/babel -ipdbqt /tmp/ZINC98174870.pdbqt -omol -O /tmp/ZINC98174870.mol
+start to insert.
+data insert successfully.
+after modify the current is 54659
+ Running /tmp/babel -ipdbqt /tmp/ZINC04704707.pdbqt -omol -O /tmp/ZINC04704707.mol
+start to insert.
+data insert successfully.
+after modify the current is 54747
+ Running /tmp/babel -ipdbqt /tmp/ZINC40588327.pdbqt -omol -O /tmp/ZINC40588327.mol
+start to insert.
+data insert successfully.
+after modify the current is 54852
+ Running /tmp/babel -ipdbqt /tmp/ZINC04737757.pdbqt -omol -O /tmp/ZINC04737757.mol
+start to insert.
+data insert successfully.
+after modify the current is 54936
+ Running /tmp/babel -ipdbqt /tmp/ZINC92563352.pdbqt -omol -O /tmp/ZINC92563352.mol
+start to insert.
+data insert successfully.
+after modify the current is 55033
+ Running /tmp/babel -ipdbqt /tmp/ZINC40687448.pdbqt -omol -O /tmp/ZINC40687448.mol
+start to insert.
+data insert successfully.
+after modify the current is 55138
+ Running /tmp/babel -ipdbqt /tmp/ZINC96337661.pdbqt -omol -O /tmp/ZINC96337661.mol
+start to insert.
+data insert successfully.
+after modify the current is 55225
+ Running /tmp/babel -ipdbqt /tmp/ZINC56489010.pdbqt -omol -O /tmp/ZINC56489010.mol
+start to insert.
+data insert successfully.
+after modify the current is 55322
+ Running /tmp/babel -ipdbqt /tmp/ZINC96970820.pdbqt -omol -O /tmp/ZINC96970820.mol
+start to insert.
+data insert successfully.
+after modify the current is 55402
+ Running /tmp/babel -ipdbqt /tmp/ZINC70868361.pdbqt -omol -O /tmp/ZINC70868361.mol
+start to insert.
+data insert successfully.
+after modify the current is 55500
+ Running /tmp/babel -ipdbqt /tmp/ZINC22621188.pdbqt -omol -O /tmp/ZINC22621188.mol
+start to insert.
+data insert successfully.
+after modify the current is 55583
+ Running /tmp/babel -ipdbqt /tmp/ZINC13198659.pdbqt -omol -O /tmp/ZINC13198659.mol
+start to insert.
+data insert successfully.
+after modify the current is 55679
+ Running /tmp/babel -ipdbqt /tmp/ZINC71835300.pdbqt -omol -O /tmp/ZINC71835300.mol
+start to insert.
+data insert successfully.
+after modify the current is 55757
+ Running /tmp/babel -ipdbqt /tmp/ZINC91948746.pdbqt -omol -O /tmp/ZINC91948746.mol
+start to insert.
+data insert successfully.
+after modify the current is 55843
+ Running /tmp/babel -ipdbqt /tmp/ZINC26054687.pdbqt -omol -O /tmp/ZINC26054687.mol
+start to insert.
+data insert successfully.
+after modify the current is 55931
+ Running /tmp/babel -ipdbqt /tmp/ZINC48362162.pdbqt -omol -O /tmp/ZINC48362162.mol
+start to insert.
+data insert successfully.
+after modify the current is 56037
+ Running /tmp/babel -ipdbqt /tmp/ZINC14977367.pdbqt -omol -O /tmp/ZINC14977367.mol
+start to insert.
+data insert successfully.
+after modify the current is 56128
+ Running /tmp/babel -ipdbqt /tmp/ZINC77320486.pdbqt -omol -O /tmp/ZINC77320486.mol
+start to insert.
+data insert successfully.
+after modify the current is 56225
+ Running /tmp/babel -ipdbqt /tmp/ZINC98105980.pdbqt -omol -O /tmp/ZINC98105980.mol
+start to insert.
+data insert successfully.
+after modify the current is 56306
+ Running /tmp/babel -ipdbqt /tmp/ZINC84865304.pdbqt -omol -O /tmp/ZINC84865304.mol
+start to insert.
+data insert successfully.
+after modify the current is 56392
+ Running /tmp/babel -ipdbqt /tmp/ZINC89298254.pdbqt -omol -O /tmp/ZINC89298254.mol
+start to insert.
+data insert successfully.
+after modify the current is 56484
+ Running /tmp/babel -ipdbqt /tmp/ZINC00457646.pdbqt -omol -O /tmp/ZINC00457646.mol
+start to insert.
+data insert successfully.
+after modify the current is 56575
+ Running /tmp/babel -ipdbqt /tmp/ZINC24250605.pdbqt -omol -O /tmp/ZINC24250605.mol
+start to insert.
+data insert successfully.
+after modify the current is 56658
+ Running /tmp/babel -ipdbqt /tmp/ZINC64931048.pdbqt -omol -O /tmp/ZINC64931048.mol
+start to insert.
+data insert successfully.
+after modify the current is 56747
+ Running /tmp/babel -ipdbqt /tmp/ZINC32755137.pdbqt -omol -O /tmp/ZINC32755137.mol
+start to insert.
+data insert successfully.
+after modify the current is 56831
+ Running /tmp/babel -ipdbqt /tmp/ZINC04317630.pdbqt -omol -O /tmp/ZINC04317630.mol
+start to insert.
+data insert successfully.
+after modify the current is 56922
+ Running /tmp/babel -ipdbqt /tmp/ZINC89281951.pdbqt -omol -O /tmp/ZINC89281951.mol
+start to insert.
+data insert successfully.
+after modify the current is 57012
+ Running /tmp/babel -ipdbqt /tmp/ZINC93012507.pdbqt -omol -O /tmp/ZINC93012507.mol
+start to insert.
+data insert successfully.
+after modify the current is 57096
+ Running /tmp/babel -ipdbqt /tmp/ZINC73626787.pdbqt -omol -O /tmp/ZINC73626787.mol
+start to insert.
+data insert successfully.
+after modify the current is 57170
+ Running /tmp/babel -ipdbqt /tmp/ZINC95376769.pdbqt -omol -O /tmp/ZINC95376769.mol
+start to insert.
+data insert successfully.
+after modify the current is 57261
+ Running /tmp/babel -ipdbqt /tmp/ZINC80207649.pdbqt -omol -O /tmp/ZINC80207649.mol
+start to insert.
+data insert successfully.
+after modify the current is 57354
+ Running /tmp/babel -ipdbqt /tmp/ZINC10387039.pdbqt -omol -O /tmp/ZINC10387039.mol
+start to insert.
+data insert successfully.
+after modify the current is 57449
+ Running /tmp/babel -ipdbqt /tmp/ZINC48636854.pdbqt -omol -O /tmp/ZINC48636854.mol
+start to insert.
+data insert successfully.
+after modify the current is 57564
+ Running /tmp/babel -ipdbqt /tmp/ZINC90518221.pdbqt -omol -O /tmp/ZINC90518221.mol
+start to insert.
+data insert successfully.
+after modify the current is 57666
+ Running /tmp/babel -ipdbqt /tmp/ZINC71926330.pdbqt -omol -O /tmp/ZINC71926330.mol
+start to insert.
+data insert successfully.
+after modify the current is 57752
+ Running /tmp/babel -ipdbqt /tmp/ZINC19535933.pdbqt -omol -O /tmp/ZINC19535933.mol
+start to insert.
+data insert successfully.
+after modify the current is 57857
+ Running /tmp/babel -ipdbqt /tmp/ZINC65528120.pdbqt -omol -O /tmp/ZINC65528120.mol
+start to insert.
+data insert successfully.
+after modify the current is 57963
+ Running /tmp/babel -ipdbqt /tmp/ZINC45359035.pdbqt -omol -O /tmp/ZINC45359035.mol
+start to insert.
+data insert successfully.
+after modify the current is 58072
+ Running /tmp/babel -ipdbqt /tmp/ZINC04841783.pdbqt -omol -O /tmp/ZINC04841783.mol
+start to insert.
+data insert successfully.
+after modify the current is 58161
+ Running /tmp/babel -ipdbqt /tmp/ZINC00521213.pdbqt -omol -O /tmp/ZINC00521213.mol
+start to insert.
+data insert successfully.
+after modify the current is 58264
+ Running /tmp/babel -ipdbqt /tmp/ZINC91974159.pdbqt -omol -O /tmp/ZINC91974159.mol
+start to insert.
+data insert successfully.
+after modify the current is 58365
+ Running /tmp/babel -ipdbqt /tmp/ZINC04059463.pdbqt -omol -O /tmp/ZINC04059463.mol
+start to insert.
+data insert successfully.
+after modify the current is 58451
+ Running /tmp/babel -ipdbqt /tmp/ZINC12411670.pdbqt -omol -O /tmp/ZINC12411670.mol
+start to insert.
+data insert successfully.
+after modify the current is 58561
+ Running /tmp/babel -ipdbqt /tmp/ZINC61789778.pdbqt -omol -O /tmp/ZINC61789778.mol
+start to insert.
+data insert successfully.
+after modify the current is 58669
+ Running /tmp/babel -ipdbqt /tmp/ZINC88484780.pdbqt -omol -O /tmp/ZINC88484780.mol
+start to insert.
+data insert successfully.
+after modify the current is 58750
+ Running /tmp/babel -ipdbqt /tmp/ZINC09746102.pdbqt -omol -O /tmp/ZINC09746102.mol
+start to insert.
+data insert successfully.
+after modify the current is 58835
+ Running /tmp/babel -ipdbqt /tmp/ZINC35287012.pdbqt -omol -O /tmp/ZINC35287012.mol
+start to insert.
+data insert successfully.
+after modify the current is 58926
+ Running /tmp/babel -ipdbqt /tmp/ZINC32879648.pdbqt -omol -O /tmp/ZINC32879648.mol
+start to insert.
+data insert successfully.
+after modify the current is 59026
+ Running /tmp/babel -ipdbqt /tmp/ZINC96106626.pdbqt -omol -O /tmp/ZINC96106626.mol
+start to insert.
+data insert successfully.
+after modify the current is 59132
+ Running /tmp/babel -ipdbqt /tmp/ZINC07515935.pdbqt -omol -O /tmp/ZINC07515935.mol
+start to insert.
+data insert successfully.
+after modify the current is 59221
+ Running /tmp/babel -ipdbqt /tmp/ZINC40475691.pdbqt -omol -O /tmp/ZINC40475691.mol
+start to insert.
+data insert successfully.
+after modify the current is 59314
+ Running /tmp/babel -ipdbqt /tmp/ZINC34687827.pdbqt -omol -O /tmp/ZINC34687827.mol
+start to insert.
+data insert successfully.
+after modify the current is 59432
+ Running /tmp/babel -ipdbqt /tmp/ZINC79622754.pdbqt -omol -O /tmp/ZINC79622754.mol
+start to insert.
+data insert successfully.
+after modify the current is 59536
+ Running /tmp/babel -ipdbqt /tmp/ZINC97105021.pdbqt -omol -O /tmp/ZINC97105021.mol
+start to insert.
+data insert successfully.
+after modify the current is 59627
+ Running /tmp/babel -ipdbqt /tmp/ZINC00516401.pdbqt -omol -O /tmp/ZINC00516401.mol
+start to insert.
+data insert successfully.
+after modify the current is 100100
+C55061168.mol
+start to insert.
+data insert successfully.
+after modify the current is 57794
+ Running /tmp/babel -ipdbqt /tmp/ZINC05514611.pdbqt -omol -O /tmp/ZINC05514611.mol
+start to insert.
+data insert successfully.
+after modify the current is 57897
+ Running /tmp/babel -ipdbqt /tmp/ZINC36874452.pdbqt -omol -O /tmp/ZINC36874452.mol
+start to insert.
+data insert successfully.
+after modify the current is 57996
+ Running /tmp/babel -ipdbqt /tmp/ZINC05111850.pdbqt -omol -O /tmp/ZINC05111850.mol
+start to insert.
+data insert successfully.
+after modify the current is 58096
+ Running /tmp/babel -ipdbqt /tmp/ZINC93147323.pdbqt -omol -O /tmp/ZINC93147323.mol
+start to insert.
+data insert successfully.
+after modify the current is 58187
+ Running /tmp/babel -ipdbqt /tmp/ZINC12192674.pdbqt -omol -O /tmp/ZINC12192674.mol
+start to insert.
+data insert successfully.
+after modify the current is 58280
+ Running /tmp/babel -ipdbqt /tmp/ZINC95383317.pdbqt -omol -O /tmp/ZINC95383317.mol
+start to insert.
+data insert successfully.
+after modify the current is 58388
+ Running /tmp/babel -ipdbqt /tmp/ZINC09331740.pdbqt -omol -O /tmp/ZINC09331740.mol
+start to insert.
+data insert successfully.
+after modify the current is 58495
+ Running /tmp/babel -ipdbqt /tmp/ZINC89900098.pdbqt -omol -O /tmp/ZINC89900098.mol
+start to insert.
+data insert successfully.
+after modify the current is 58599
+ Running /tmp/babel -ipdbqt /tmp/ZINC03538342.pdbqt -omol -O /tmp/ZINC03538342.mol
+start to insert.
+data insert successfully.
+after modify the current is 58696
+ Running /tmp/babel -ipdbqt /tmp/ZINC93476899.pdbqt -omol -O /tmp/ZINC93476899.mol
+start to insert.
+data insert successfully.
+after modify the current is 58796
+ Running /tmp/babel -ipdbqt /tmp/ZINC15594306.pdbqt -omol -O /tmp/ZINC15594306.mol
+start to insert.
+data insert successfully.
+after modify the current is 58878
+ Running /tmp/babel -ipdbqt /tmp/ZINC03521237.pdbqt -omol -O /tmp/ZINC03521237.mol
+start to insert.
+data insert successfully.
+after modify the current is 58983
+ Running /tmp/babel -ipdbqt /tmp/ZINC07543149.pdbqt -omol -O /tmp/ZINC07543149.mol
+start to insert.
+data insert successfully.
+after modify the current is 59073
+ Running /tmp/babel -ipdbqt /tmp/ZINC65374942.pdbqt -omol -O /tmp/ZINC65374942.mol
+start to insert.
+data insert successfully.
+after modify the current is 59176
+ Running /tmp/babel -ipdbqt /tmp/ZINC69745238.pdbqt -omol -O /tmp/ZINC69745238.mol
+start to insert.
+data insert successfully.
+after modify the current is 59269
+ Running /tmp/babel -ipdbqt /tmp/ZINC04487385.pdbqt -omol -O /tmp/ZINC04487385.mol
+start to insert.
+data insert successfully.
+after modify the current is 59370
+ Running /tmp/babel -ipdbqt /tmp/ZINC68148387.pdbqt -omol -O /tmp/ZINC68148387.mol
+start to insert.
+data insert successfully.
+after modify the current is 59481
+ Running /tmp/babel -ipdbqt /tmp/ZINC13366028.pdbqt -omol -O /tmp/ZINC13366028.mol
+start to insert.
+data insert successfully.
+after modify the current is 59596
+ Running /tmp/babel -ipdbqt /tmp/ZINC76264735.pdbqt -omol -O /tmp/ZINC76264735.mol
+start to insert.
+data insert successfully.
+after modify the current is 59696
+ Running /tmp/babel -ipdbqt /tmp/ZINC33288468.pdbqt -omol -O /tmp/ZINC33288468.mol
+start to insert.
+data insert successfully.
+after modify the current is 59812
+ Running /tmp/babel -ipdbqt /tmp/ZINC92436453.pdbqt -omol -O /tmp/ZINC92436453.mol
+start to insert.
+data insert successfully.
+after modify the current is 59903
+ Running /tmp/babel -ipdbqt /tmp/ZINC96250127.pdbqt -omol -O /tmp/ZINC96250127.mol
+start to insert.
+data insert successfully.
+after modify the current is 59984
+ Running /tmp/babel -ipdbqt /tmp/ZINC12766968.pdbqt -omol -O /tmp/ZINC12766968.mol
+start to insert.
+data insert successfully.
+after modify the current is 60073
+ Running /tmp/babel -ipdbqt /tmp/ZINC69813791.pdbqt -omol -O /tmp/ZINC69813791.mol
+start to insert.
+data insert successfully.
+after modify the current is 60180
+ Running /tmp/babel -ipdbqt /tmp/ZINC74290073.pdbqt -omol -O /tmp/ZINC74290073.mol
+start to insert.
+data insert successfully.
+after modify the current is 60305
+ Running /tmp/babel -ipdbqt /tmp/ZINC97221983.pdbqt -omol -O /tmp/ZINC97221983.mol
+start to insert.
+data insert successfully.
+after modify the current is 60388
+ Running /tmp/babel -ipdbqt /tmp/ZINC70460282.pdbqt -omol -O /tmp/ZINC70460282.mol
+start to insert.
+data insert successfully.
+after modify the current is 60490
+ Running /tmp/babel -ipdbqt /tmp/ZINC20713836.pdbqt -omol -O /tmp/ZINC20713836.mol
+start to insert.
+data insert successfully.
+after modify the current is 60574
+ Running /tmp/babel -ipdbqt /tmp/ZINC55383038.pdbqt -omol -O /tmp/ZINC55383038.mol
+start to insert.
+data insert successfully.
+after modify the current is 60679
+ Running /tmp/babel -ipdbqt /tmp/ZINC70953052.pdbqt -omol -O /tmp/ZINC70953052.mol
+start to insert.
+data insert successfully.
+after modify the current is 60776
+ Running /tmp/babel -ipdbqt /tmp/ZINC55245097.pdbqt -omol -O /tmp/ZINC55245097.mol
+start to insert.
+data insert successfully.
+after modify the current is 60873
+ Running /tmp/babel -ipdbqt /tmp/ZINC19366741.pdbqt -omol -O /tmp/ZINC19366741.mol
+start to insert.
+data insert successfully.
+after modify the current is 60971
+ Running /tmp/babel -ipdbqt /tmp/ZINC72035910.pdbqt -omol -O /tmp/ZINC72035910.mol
+start to insert.
+data insert successfully.
+after modify the current is 61074
+ Running /tmp/babel -ipdbqt /tmp/ZINC09913415.pdbqt -omol -O /tmp/ZINC09913415.mol
+start to insert.
+data insert successfully.
+after modify the current is 61164
+ Running /tmp/babel -ipdbqt /tmp/ZINC79952348.pdbqt -omol -O /tmp/ZINC79952348.mol
+start to insert.
+data insert successfully.
+after modify the current is 61256
+ Running /tmp/babel -ipdbqt /tmp/ZINC89757406.pdbqt -omol -O /tmp/ZINC89757406.mol
+start to insert.
+data insert successfully.
+after modify the current is 61350
+ Running /tmp/babel -ipdbqt /tmp/ZINC91434452.pdbqt -omol -O /tmp/ZINC91434452.mol
+start to insert.
+data insert successfully.
+after modify the current is 61467
+ Running /tmp/babel -ipdbqt /tmp/ZINC13425657.pdbqt -omol -O /tmp/ZINC13425657.mol
+start to insert.
+data insert successfully.
+after modify the current is 61562
+ Running /tmp/babel -ipdbqt /tmp/ZINC98125668.pdbqt -omol -O /tmp/ZINC98125668.mol
+start to insert.
+data insert successfully.
+after modify the current is 61669
+ Running /tmp/babel -ipdbqt /tmp/ZINC71821681.pdbqt -omol -O /tmp/ZINC71821681.mol
+start to insert.
+data insert successfully.
+after modify the current is 61768
+ Running /tmp/babel -ipdbqt /tmp/ZINC74165603.pdbqt -omol -O /tmp/ZINC74165603.mol
+start to insert.
+data insert successfully.
+after modify the current is 61875
+ Running /tmp/babel -ipdbqt /tmp/ZINC68857942.pdbqt -omol -O /tmp/ZINC68857942.mol
+start to insert.
+data insert successfully.
+after modify the current is 61971
+ Running /tmp/babel -ipdbqt /tmp/ZINC63941618.pdbqt -omol -O /tmp/ZINC63941618.mol
+start to insert.
+data insert successfully.
+after modify the current is 62085
+ Running /tmp/babel -ipdbqt /tmp/ZINC00548340.pdbqt -omol -O /tmp/ZINC00548340.mol
+start to insert.
+data insert successfully.
+after modify the current is 62174
+ Running /tmp/babel -ipdbqt /tmp/ZINC78969148.pdbqt -omol -O /tmp/ZINC78969148.mol
+start to insert.
+data insert successfully.
+after modify the current is 62289
+ Running /tmp/babel -ipdbqt /tmp/ZINC14280313.pdbqt -omol -O /tmp/ZINC14280313.mol
+start to insert.
+data insert successfully.
+after modify the current is 62400
+ Running /tmp/babel -ipdbqt /tmp/ZINC72307318.pdbqt -omol -O /tmp/ZINC72307318.mol
+start to insert.
+data insert successfully.
+after modify the current is 62498
+ Running /tmp/babel -ipdbqt /tmp/ZINC70972149.pdbqt -omol -O /tmp/ZINC70972149.mol
+start to insert.
+data insert successfully.
+after modify the current is 62617
+ Running /tmp/babel -ipdbqt /tmp/ZINC57342690.pdbqt -omol -O /tmp/ZINC57342690.mol
+start to insert.
+data insert successfully.
+after modify the current is 62717
+ Running /tmp/babel -ipdbqt /tmp/ZINC95383895.pdbqt -omol -O /tmp/ZINC95383895.mol
+start to insert.
+data insert successfully.
+after modify the current is 62823
+ Running /tmp/babel -ipdbqt /tmp/ZINC65287700.pdbqt -omol -O /tmp/ZINC65287700.mol
+start to insert.
+data insert successfully.
+after modify the current is 62910
+ Running /tmp/babel -ipdbqt /tmp/ZINC52927594.pdbqt -omol -O /tmp/ZINC52927594.mol
+start to insert.
+data insert successfully.
+after modify the current is 63015
+ Running /tmp/babel -ipdbqt /tmp/ZINC47798085.pdbqt -omol -O /tmp/ZINC47798085.mol
+start to insert.
+data insert successfully.
+after modify the current is 63109
+ Running /tmp/babel -ipdbqt /tmp/ZINC78107427.pdbqt -omol -O /tmp/ZINC78107427.mol
+start to insert.
+data insert successfully.
+after modify the current is 63219
+ Running /tmp/babel -ipdbqt /tmp/ZINC89769603.pdbqt -omol -O /tmp/ZINC89769603.mol
+start to insert.
+data insert successfully.
+after modify the current is 63308
+ Running /tmp/babel -ipdbqt /tmp/ZINC93453338.pdbqt -omol -O /tmp/ZINC93453338.mol
+start to insert.
+data insert successfully.
+after modify the current is 63423
+ Running /tmp/babel -ipdbqt /tmp/ZINC32488236.pdbqt -omol -O /tmp/ZINC32488236.mol
+start to insert.
+data insert successfully.
+after modify the current is 63526
+ Running /tmp/babel -ipdbqt /tmp/ZINC84187997.pdbqt -omol -O /tmp/ZINC84187997.mol
+start to insert.
+data insert successfully.
+after modify the current is 63630
+ Running /tmp/babel -ipdbqt /tmp/ZINC74249685.pdbqt -omol -O /tmp/ZINC74249685.mol
+start to insert.
+data insert successfully.
+after modify the current is 63731
+ Running /tmp/babel -ipdbqt /tmp/ZINC48148035.pdbqt -omol -O /tmp/ZINC48148035.mol
+start to insert.
+data insert successfully.
+after modify the current is 63848
+ Running /tmp/babel -ipdbqt /tmp/ZINC08705112.pdbqt -omol -O /tmp/ZINC08705112.mol
+start to insert.
+data insert successfully.
+after modify the current is 63936
+ Running /tmp/babel -ipdbqt /tmp/ZINC98102076.pdbqt -omol -O /tmp/ZINC98102076.mol
+start to insert.
+data insert successfully.
+after modify the current is 64050
+ Running /tmp/babel -ipdbqt /tmp/ZINC67559467.pdbqt -omol -O /tmp/ZINC67559467.mol
+start to insert.
+data insert successfully.
+after modify the current is 64153
+ Running /tmp/babel -ipdbqt /tmp/ZINC09116217.pdbqt -omol -O /tmp/ZINC09116217.mol
+start to insert.
+data insert successfully.
+after modify the current is 64224
+ Running /tmp/babel -ipdbqt /tmp/ZINC36084077.pdbqt -omol -O /tmp/ZINC36084077.mol
+start to insert.
+data insert successfully.
+after modify the current is 64317
+ Running /tmp/babel -ipdbqt /tmp/ZINC65159623.pdbqt -omol -O /tmp/ZINC65159623.mol
+start to insert.
+data insert successfully.
+after modify the current is 64419
+ Running /tmp/babel -ipdbqt /tmp/ZINC73092244.pdbqt -omol -O /tmp/ZINC73092244.mol
+start to insert.
+data insert successfully.
+after modify the current is 64518
+ Running /tmp/babel -ipdbqt /tmp/ZINC89738584.pdbqt -omol -O /tmp/ZINC89738584.mol
+start to insert.
+data insert successfully.
+after modify the current is 64610
+ Running /tmp/babel -ipdbqt /tmp/ZINC69349642.pdbqt -omol -O /tmp/ZINC69349642.mol
+start to insert.
+data insert successfully.
+after modify the current is 64693
+ Running /tmp/babel -ipdbqt /tmp/ZINC93010649.pdbqt -omol -O /tmp/ZINC93010649.mol
+start to insert.
+data insert successfully.
+after modify the current is 64796
+ Running /tmp/babel -ipdbqt /tmp/ZINC72515526.pdbqt -omol -O /tmp/ZINC72515526.mol
+start to insert.
+data insert successfully.
+after modify the current is 64889
+ Running /tmp/babel -ipdbqt /tmp/ZINC87352151.pdbqt -omol -O /tmp/ZINC87352151.mol
+start to insert.
+data insert successfully.
+after modify the current is 64979
+ Running /tmp/babel -ipdbqt /tmp/ZINC77602512.pdbqt -omol -O /tmp/ZINC77602512.mol
+start to insert.
+data insert successfully.
+after modify the current is 65104
+ Running /tmp/babel -ipdbqt /tmp/ZINC17918304.pdbqt -omol -O /tmp/ZINC17918304.mol
+start to insert.
+data insert successfully.
+after modify the current is 65199
+ Running /tmp/babel -ipdbqt /tmp/ZINC12538831.pdbqt -omol -O /tmp/ZINC12538831.mol
+start to insert.
+data insert successfully.
+after modify the current is 65292
+ Running /tmp/babel -ipdbqt /tmp/ZINC41525152.pdbqt -omol -O /tmp/ZINC41525152.mol
+start to insert.
+data insert successfully.
+after modify the current is 65384
+ Running /tmp/babel -ipdbqt /tmp/ZINC07844577.pdbqt -omol -O /tmp/ZINC07844577.mol
+start to insert.
+data insert successfully.
+after modify the current is 65477
+ Running /tmp/babel -ipdbqt /tmp/ZINC59473359.pdbqt -omol -O /tmp/ZINC59473359.mol
+start to insert.
+data insert successfully.
+after modify the current is 65578
+ Running /tmp/babel -ipdbqt /tmp/ZINC07345991.pdbqt -omol -O /tmp/ZINC07345991.mol
+start to insert.
+data insert successfully.
+after modify the current is 65677
+ Running /tmp/babel -ipdbqt /tmp/ZINC59227595.pdbqt -omol -O /tmp/ZINC59227595.mol
+start to insert.
+data insert successfully.
+after modify the current is 65780
+ Running /tmp/babel -ipdbqt /tmp/ZINC89795619.pdbqt -omol -O /tmp/ZINC89795619.mol
+start to insert.
+data insert successfully.
+after modify the current is 65892
+ Running /tmp/babel -ipdbqt /tmp/ZINC78807278.pdbqt -omol -O /tmp/ZINC78807278.mol
+start to insert.
+data insert successfully.
+after modify the current is 65988
+ Running /tmp/babel -ipdbqt /tmp/ZINC65395726.pdbqt -omol -O /tmp/ZINC65395726.mol
+start to insert.
+data insert successfully.
+after modify the current is 66081
+ Running /tmp/babel -ipdbqt /tmp/ZINC96140349.pdbqt -omol -O /tmp/ZINC96140349.mol
+start to insert.
+data insert successfully.
+after modify the current is 66186
+ Running /tmp/babel -ipdbqt /tmp/ZINC86400754.pdbqt -omol -O /tmp/ZINC86400754.mol
+start to insert.
+data insert successfully.
+after modify the current is 66296
+ Running /tmp/babel -ipdbqt /tmp/ZINC40224581.pdbqt -omol -O /tmp/ZINC40224581.mol
+start to insert.
+data insert successfully.
+after modify the current is 66389
+ Running /tmp/babel -ipdbqt /tmp/ZINC95946808.pdbqt -omol -O /tmp/ZINC95946808.mol
+start to insert.
+data insert successfully.
+after modify the current is 66484
+ Running /tmp/babel -ipdbqt /tmp/ZINC22315743.pdbqt -omol -O /tmp/ZINC22315743.mol
+start to insert.
+data insert successfully.
+after modify the current is 66577
+ Running /tmp/babel -ipdbqt /tmp/ZINC91255337.pdbqt -omol -O /tmp/ZINC91255337.mol
+start to insert.
+data insert successfully.
+after modify the current is 66653
+ Running /tmp/babel -ipdbqt /tmp/ZINC97480139.pdbqt -omol -O /tmp/ZINC97480139.mol
+start to insert.
+data insert successfully.
+after modify the current is 66776
+ Running /tmp/babel -ipdbqt /tmp/ZINC04127050.pdbqt -omol -O /tmp/ZINC04127050.mol
+start to insert.
+data insert successfully.
+after modify the current is 66877
+ Running /tmp/babel -ipdbqt /tmp/ZINC35554960.pdbqt -omol -O /tmp/ZINC35554960.mol
+start to insert.
+data insert successfully.
+after modify the current is 66977
+ Running /tmp/babel -ipdbqt /tmp/ZINC78674892.pdbqt -omol -O /tmp/ZINC78674892.mol
+start to insert.
+data insert successfully.
+after modify the current is 67080
+ Running /tmp/babel -ipdbqt /tmp/ZINC64438809.pdbqt -omol -O /tmp/ZINC64438809.mol
+start to insert.
+data insert successfully.
+after modify the current is 67157
+ Running /tmp/babel -ipdbqt /tmp/ZINC05221122.pdbqt -omol -O /tmp/ZINC05221122.mol
+start to insert.
+data insert successfully.
+after modify the current is 67255
+ Running /tmp/babel -ipdbqt /tmp/ZINC96151183.pdbqt -omol -O /tmp/ZINC96151183.mol
+start to insert.
+data insert successfully.
+after modify the current is 67357
+ Running /tmp/babel -ipdbqt /tmp/ZINC77877914.pdbqt -omol -O /tmp/ZINC77877914.mol
+start to insert.
+data insert successfully.
+after modify the current is 67460
+ Running /tmp/babel -ipdbqt /tmp/ZINC87481986.pdbqt -omol -O /tmp/ZINC87481986.mol
+start to insert.
+data insert successfully.
+after modify the current is 67554
+ Running /tmp/babel -ipdbqt /tmp/ZINC59892179.pdbqt -omol -O /tmp/ZINC59892179.mol
+start to insert.
+data insert successfully.
+after modify the current is 67641
+ Running /tmp/babel -ipdbqt /tmp/ZINC11118824.pdbqt -omol -O /tmp/ZINC11118824.mol
+start to insert.
+data insert successfully.
+after modify the current is 67739
+ Running /tmp/babel -ipdbqt /tmp/ZINC05332550.pdbqt -omol -O /tmp/ZINC05332550.mol
+start to insert.
+data insert successfully.
+after modify the current is 67843
+ Running /tmp/babel -ipdbqt /tmp/ZINC13520039.pdbqt -omol -O /tmp/ZINC13520039.mol
+start to insert.
+data insert successfully.
+after modify the current is 67942
+ Running /tmp/babel -ipdbqt /tmp/ZINC89372768.pdbqt -omol -O /tmp/ZINC89372768.mol
+start to insert.
+data insert successfully.
+after modify the current is 68039
+ Running /tmp/babel -ipdbqt /tmp/ZINC95448449.pdbqt -omol -O /tmp/ZINC95448449.mol
+start to insert.
+data insert successfully.
+after modify the current is 68124
+ Running /tmp/babel -ipdbqt /tmp/ZINC96044557.pdbqt -omol -O /tmp/ZINC96044557.mol
+start to insert.
+data insert successfully.
+after modify the current is 68233
+ Running /tmp/babel -ipdbqt /tmp/ZINC66502707.pdbqt -omol -O /tmp/ZINC66502707.mol
+start to insert.
+data insert successfully.
+after modify the current is 68343
+ Running /tmp/babel -ipdbqt /tmp/ZINC20423495.pdbqt -omol -O /tmp/ZINC20423495.mol
+start to insert.
+data insert successfully.
+after modify the current is 68436
+ Running /tmp/babel -ipdbqt /tmp/ZINC78060720.pdbqt -omol -O /tmp/ZINC78060720.mol
+start to insert.
+data insert successfully.
+after modify the current is 68539
+ Running /tmp/babel -ipdbqt /tmp/ZINC64078415.pdbqt -omol -O /tmp/ZINC64078415.mol
+start to insert.
+data insert successfully.
+after modify the current is 68643
+ Running /tmp/babel -ipdbqt /tmp/ZINC04091489.pdbqt -omol -O /tmp/ZINC04091489.mol
+start to insert.
+data insert successfully.
+after modify the current is 68755
+ Running /tmp/babel -ipdbqt /tmp/ZINC77707306.pdbqt -omol -O /tmp/ZINC77707306.mol
+start to insert.
+data insert successfully.
+after modify the current is 68851
+ Running /tmp/babel -ipdbqt /tmp/ZINC72271691.pdbqt -omol -O /tmp/ZINC72271691.mol
+start to insert.
+data insert successfully.
+after modify the current is 68953
+ Running /tmp/babel -ipdbqt /tmp/ZINC90004799.pdbqt -omol -O /tmp/ZINC90004799.mol
+start to insert.
+data insert successfully.
+after modify the current is 69033
+ Running /tmp/babel -ipdbqt /tmp/ZINC97634958.pdbqt -omol -O /tmp/ZINC97634958.mol
+start to insert.
+data insert successfully.
+after modify the current is 69125
+ Running /tmp/babel -ipdbqt /tmp/ZINC24820196.pdbqt -omol -O /tmp/ZINC24820196.mol
+start to insert.
+data insert successfully.
+after modify the current is 69237
+ Running /tmp/babel -ipdbqt /tmp/ZINC75830114.pdbqt -omol -O /tmp/ZINC75830114.mol
+start to insert.
+data insert successfully.
+after modify the current is 69334
+ Running /tmp/babel -ipdbqt /tmp/ZINC96072780.pdbqt -omol -O /tmp/ZINC96072780.mol
+start to insert.
+data insert successfully.
+after modify the current is 69438
+ Running /tmp/babel -ipdbqt /tmp/ZINC91671828.pdbqt -omol -O /tmp/ZINC91671828.mol
+start to insert.
+data insert successfully.
+after modify the current is 69539
+ Running /tmp/babel -ipdbqt /tmp/ZINC71860647.pdbqt -omol -O /tmp/ZINC71860647.mol
+start to insert.
+data insert successfully.
+after modify the current is 69637
+ Running /tmp/babel -ipdbqt /tmp/ZINC87296044.pdbqt -omol -O /tmp/ZINC87296044.mol
+start to insert.
+data insert successfully.
+after modify the current is 69749
+ Running /tmp/babel -ipdbqt /tmp/ZINC89708997.pdbqt -omol -O /tmp/ZINC89708997.mol
+start to insert.
+data insert successfully.
+after modify the current is 69843
+ Running /tmp/babel -ipdbqt /tmp/ZINC14465458.pdbqt -omol -O /tmp/ZINC14465458.mol
+start to insert.
+data insert successfully.
+after modify the current is 69933
+ Running /tmp/babel -ipdbqt /tmp/ZINC67851353.pdbqt -omol -O /tmp/ZINC67851353.mol
+start to insert.
+data insert successfully.
+after modify the current is 70044
+ Running /tmp/babel -ipdbqt /tmp/ZINC73516182.pdbqt -omol -O /tmp/ZINC73516182.mol
+start to insert.
+data insert successfully.
+after modify the current is 70144
+ Running /tmp/babel -ipdbqt /tmp/ZINC90464062.pdbqt -omol -O /tmp/ZINC90464062.mol
+start to insert.
+data insert successfully.
+after modify the current is 70239
+ Running /tmp/babel -ipdbqt /tmp/ZINC29299560.pdbqt -omol -O /tmp/ZINC29299560.mol
+start to insert.
+data insert successfully.
+after modify the current is 70342
+ Running /tmp/babel -ipdbqt /tmp/ZINC97378630.pdbqt -omol -O /tmp/ZINC97378630.mol
+start to insert.
+data insert successfully.
+after modify the current is 70437
+ Running /tmp/babel -ipdbqt /tmp/ZINC84630681.pdbqt -omol -O /tmp/ZINC84630681.mol
+start to insert.
+data insert successfully.
+after modify the current is 70538
+ Running /tmp/babel -ipdbqt /tmp/ZINC50081612.pdbqt -omol -O /tmp/ZINC50081612.mol
+start to insert.
+data insert successfully.
+after modify the current is 70648
+ Running /tmp/babel -ipdbqt /tmp/ZINC24977389.pdbqt -omol -O /tmp/ZINC24977389.mol
+start to insert.
+data insert successfully.
+after modify the current is 70751
+ Running /tmp/babel -ipdbqt /tmp/ZINC05101210.pdbqt -omol -O /tmp/ZINC05101210.mol
+start to insert.
+data insert successfully.
+after modify the current is 70848
+ Running /tmp/babel -ipdbqt /tmp/ZINC78057068.pdbqt -omol -O /tmp/ZINC78057068.mol
+start to insert.
+data insert successfully.
+after modify the current is 70953
+ Running /tmp/babel -ipdbqt /tmp/ZINC69005836.pdbqt -omol -O /tmp/ZINC69005836.mol
+start to insert.
+data insert successfully.
+after modify the current is 71054
+ Running /tmp/babel -ipdbqt /tmp/ZINC73002567.pdbqt -omol -O /tmp/ZINC73002567.mol
+start to insert.
+data insert successfully.
+after modify the current is 71164
+ Running /tmp/babel -ipdbqt /tmp/ZINC96012910.pdbqt -omol -O /tmp/ZINC96012910.mol
+start to insert.
+data insert successfully.
+after modify the current is 71275
+ Running /tmp/babel -ipdbqt /tmp/ZINC08549056.pdbqt -omol -O /tmp/ZINC08549056.mol
+start to insert.
+data insert successfully.
+after modify the current is 71382
+ Running /tmp/babel -ipdbqt /tmp/ZINC14017630.pdbqt -omol -O /tmp/ZINC14017630.mol
+start to insert.
+data insert successfully.
+after modify the current is 71477
+ Running /tmp/babel -ipdbqt /tmp/ZINC89196541.pdbqt -omol -O /tmp/ZINC89196541.mol
+start to insert.
+data insert successfully.
+after modify the current is 71577
+ Running /tmp/babel -ipdbqt /tmp/ZINC58328415.pdbqt -omol -O /tmp/ZINC58328415.mol
+start to insert.
+data insert successfully.
+after modify the current is 71670
+ Running /tmp/babel -ipdbqt /tmp/ZINC82099161.pdbqt -omol -O /tmp/ZINC82099161.mol
+start to insert.
+data insert successfully.
+after modify the current is 71783
+ Running /tmp/babel -ipdbqt /tmp/ZINC92569360.pdbqt -omol -O /tmp/ZINC92569360.mol
+start to insert.
+data insert successfully.
+after modify the current is 71894
+ Running /tmp/babel -ipdbqt /tmp/ZINC45642221.pdbqt -omol -O /tmp/ZINC45642221.mol
+start to insert.
+data insert successfully.
+after modify the current is 71992
+ Running /tmp/babel -ipdbqt /tmp/ZINC77178553.pdbqt -omol -O /tmp/ZINC77178553.mol
+start to insert.
+data insert successfully.
+after modify the current is 72090
+ Running /tmp/babel -ipdbqt /tmp/ZINC40888293.pdbqt -omol -O /tmp/ZINC40888293.mol
+start to insert.
+data insert successfully.
+after modify the current is 72202
+ Running /tmp/babel -ipdbqt /tmp/ZINC07216833.pdbqt -omol -O /tmp/ZINC07216833.mol
+start to insert.
+data insert successfully.
+after modify the current is 72307
+ Running /tmp/babel -ipdbqt /tmp/ZINC77669045.pdbqt -omol -O /tmp/ZINC77669045.mol
+start to insert.
+data insert successfully.
+after modify the current is 72406
+ Running /tmp/babel -ipdbqt /tmp/ZINC59292277.pdbqt -omol -O /tmp/ZINC59292277.mol
+start to insert.
+data insert successfully.
+after modify the current is 72509
+ Running /tmp/babel -ipdbqt /tmp/ZINC05859487.pdbqt -omol -O /tmp/ZINC05859487.mol
+start to insert.
+data insert successfully.
+after modify the current is 72603
+ Running /tmp/babel -ipdbqt /tmp/ZINC29433010.pdbqt -omol -O /tmp/ZINC29433010.mol
+start to insert.
+data insert successfully.
+after modify the current is 72708
+ Running /tmp/babel -ipdbqt /tmp/ZINC52877777.pdbqt -omol -O /tmp/ZINC52877777.mol
+start to insert.
+data insert successfully.
+after modify the current is 72797
+ Running /tmp/babel -ipdbqt /tmp/ZINC59499029.pdbqt -omol -O /tmp/ZINC59499029.mol
+start to insert.
+data insert successfully.
+after modify the current is 72883
+ Running /tmp/babel -ipdbqt /tmp/ZINC83236256.pdbqt -omol -O /tmp/ZINC83236256.mol
+start to insert.
+data insert successfully.
+after modify the current is 72991
+ Running /tmp/babel -ipdbqt /tmp/ZINC93789379.pdbqt -omol -O /tmp/ZINC93789379.mol
+start to insert.
+data insert successfully.
+after modify the current is 73101
+ Running /tmp/babel -ipdbqt /tmp/ZINC54816797.pdbqt -omol -O /tmp/ZINC54816797.mol
+start to insert.
+data insert successfully.
+after modify the current is 73205
+ Running /tmp/babel -ipdbqt /tmp/ZINC96216422.pdbqt -omol -O /tmp/ZINC96216422.mol
+start to insert.
+data insert successfully.
+after modify the current is 73299
+ Running /tmp/babel -ipdbqt /tmp/ZINC91656119.pdbqt -omol -O /tmp/ZINC91656119.mol
+start to insert.
+data insert successfully.
+after modify the current is 73406
+ Running /tmp/babel -ipdbqt /tmp/ZINC92164038.pdbqt -omol -O /tmp/ZINC92164038.mol
+start to insert.
+data insert successfully.
+after modify the current is 73498
+ Running /tmp/babel -ipdbqt /tmp/ZINC71839598.pdbqt -omol -O /tmp/ZINC71839598.mol
+start to insert.
+data insert successfully.
+after modify the current is 73612
+ Running /tmp/babel -ipdbqt /tmp/ZINC78785042.pdbqt -omol -O /tmp/ZINC78785042.mol
+start to insert.
+data insert successfully.
+after modify the current is 73706
+ Running /tmp/babel -ipdbqt /tmp/ZINC32797590.pdbqt -omol -O /tmp/ZINC32797590.mol
+start to insert.
+data insert successfully.
+after modify the current is 73837
+ Running /tmp/babel -ipdbqt /tmp/ZINC04314089.pdbqt -omol -O /tmp/ZINC04314089.mol
+start to insert.
+data insert successfully.
+after modify the current is 73933
+ Running /tmp/babel -ipdbqt /tmp/ZINC53904215.pdbqt -omol -O /tmp/ZINC53904215.mol
+start to insert.
+data insert successfully.
+after modify the current is 74015
+ Running /tmp/babel -ipdbqt /tmp/ZINC96065465.pdbqt -omol -O /tmp/ZINC96065465.mol
+start to insert.
+data insert successfully.
+after modify the current is 74136
+ Running /tmp/babel -ipdbqt /tmp/ZINC92705065.pdbqt -omol -O /tmp/ZINC92705065.mol
+start to insert.
+data insert successfully.
+after modify the current is 74235
+ Running /tmp/babel -ipdbqt /tmp/ZINC72446218.pdbqt -omol -O /tmp/ZINC72446218.mol
+start to insert.
+data insert successfully.
+after modify the current is 74324
+ Running /tmp/babel -ipdbqt /tmp/ZINC98181401.pdbqt -omol -O /tmp/ZINC98181401.mol
+start to insert.
+data insert successfully.
+after modify the current is 74403
+ Running /tmp/babel -ipdbqt /tmp/ZINC07918067.pdbqt -omol -O /tmp/ZINC07918067.mol
+start to insert.
+data insert successfully.
+after modify the current is 74498
+ Running /tmp/babel -ipdbqt /tmp/ZINC33329659.pdbqt -omol -O /tmp/ZINC33329659.mol
+start to insert.
+data insert successfully.
+after modify the current is 74616
+ Running /tmp/babel -ipdbqt /tmp/ZINC52075673.pdbqt -omol -O /tmp/ZINC52075673.mol
+start to insert.
+data insert successfully.
+after modify the current is 74737
+ Running /tmp/babel -ipdbqt /tmp/ZINC96982640.pdbqt -omol -O /tmp/ZINC96982640.mol
+start to insert.
+data insert successfully.
+after modify the current is 74832
+ Running /tmp/babel -ipdbqt /tmp/ZINC78289717.pdbqt -omol -O /tmp/ZINC78289717.mol
+start to insert.
+data insert successfully.
+after modify the current is 74940
+ Running /tmp/babel -ipdbqt /tmp/ZINC58179944.pdbqt -omol -O /tmp/ZINC58179944.mol
+start to insert.
+data insert successfully.
+after modify the current is 75031
+ Running /tmp/babel -ipdbqt /tmp/ZINC71971702.pdbqt -omol -O /tmp/ZINC71971702.mol
+start to insert.
+data insert successfully.
+after modify the current is 75111
+ Running /tmp/babel -ipdbqt /tmp/ZINC05379325.pdbqt -omol -O /tmp/ZINC05379325.mol
+start to insert.
+data insert successfully.
+after modify the current is 75210
+ Running /tmp/babel -ipdbqt /tmp/ZINC59102766.pdbqt -omol -O /tmp/ZINC59102766.mol
+start to insert.
+data insert successfully.
+after modify the current is 75322
+ Running /tmp/babel -ipdbqt /tmp/ZINC45809744.pdbqt -omol -O /tmp/ZINC45809744.mol
+start to insert.
+data insert successfully.
+after modify the current is 75427
+ Running /tmp/babel -ipdbqt /tmp/ZINC01177204.pdbqt -omol -O /tmp/ZINC01177204.mol
+start to insert.
+data insert successfully.
+after modify the current is 75532
+ Running /tmp/babel -ipdbqt /tmp/ZINC74458948.pdbqt -omol -O /tmp/ZINC74458948.mol
+start to insert.
+data insert successfully.
+after modify the current is 75645
+ Running /tmp/babel -ipdbqt /tmp/ZINC19907518.pdbqt -omol -O /tmp/ZINC19907518.mol
+start to insert.
+data insert successfully.
+after modify the current is 75754
+ Running /tmp/babel -ipdbqt /tmp/ZINC04567642.pdbqt -omol -O /tmp/ZINC04567642.mol
+start to insert.
+data insert successfully.
+after modify the current is 75846
+ Running /tmp/babel -ipdbqt /tmp/ZINC20026375.pdbqt -omol -O /tmp/ZINC20026375.mol
+start to insert.
+data insert successfully.
+after modify the current is 75931
+ Running /tmp/babel -ipdbqt /tmp/ZINC97596495.pdbqt -omol -O /tmp/ZINC97596495.mol
+start to insert.
+data insert successfully.
+after modify the current is 76026
+ Running /tmp/babel -ipdbqt /tmp/ZINC07432816.pdbqt -omol -O /tmp/ZINC07432816.mol
+start to insert.
+data insert successfully.
+after modify the current is 76138
+ Running /tmp/babel -ipdbqt /tmp/ZINC71762645.pdbqt -omol -O /tmp/ZINC71762645.mol
+start to insert.
+data insert successfully.
+after modify the current is 76234
+ Running /tmp/babel -ipdbqt /tmp/ZINC03487688.pdbqt -omol -O /tmp/ZINC03487688.mol
+start to insert.
+data insert successfully.
+after modify the current is 76339
+ Running /tmp/babel -ipdbqt /tmp/ZINC09689938.pdbqt -omol -O /tmp/ZINC09689938.mol
+start to insert.
+data insert successfully.
+after modify the current is 76456
+ Running /tmp/babel -ipdbqt /tmp/ZINC47621024.pdbqt -omol -O /tmp/ZINC47621024.mol
+start to insert.
+data insert successfully.
+after modify the current is 76557
+ Running /tmp/babel -ipdbqt /tmp/ZINC90083032.pdbqt -omol -O /tmp/ZINC90083032.mol
+start to insert.
+data insert successfully.
+after modify the current is 76651
+ Running /tmp/babel -ipdbqt /tmp/ZINC65623884.pdbqt -omol -O /tmp/ZINC65623884.mol
+start to insert.
+data insert successfully.
+after modify the current is 76749
+ Running /tmp/babel -ipdbqt /tmp/ZINC00400023.pdbqt -omol -O /tmp/ZINC00400023.mol
+start to insert.
+data insert successfully.
+after modify the current is 76837
+ Running /tmp/babel -ipdbqt /tmp/ZINC03504265.pdbqt -omol -O /tmp/ZINC03504265.mol
+start to insert.
+data insert successfully.
+after modify the current is 76939
+ Running /tmp/babel -ipdbqt /tmp/ZINC09196973.pdbqt -omol -O /tmp/ZINC09196973.mol
+start to insert.
+data insert successfully.
+after modify the current is 77043
+ Running /tmp/babel -ipdbqt /tmp/ZINC44920585.pdbqt -omol -O /tmp/ZINC44920585.mol
+start to insert.
+data insert successfully.
+after modify the current is 77139
+ Running /tmp/babel -ipdbqt /tmp/ZINC42645908.pdbqt -omol -O /tmp/ZINC42645908.mol
+start to insert.
+data insert successfully.
+after modify the current is 77245
+ Running /tmp/babel -ipdbqt /tmp/ZINC96067270.pdbqt -omol -O /tmp/ZINC96067270.mol
+start to insert.
+data insert successfully.
+after modify the current is 77349
+ Running /tmp/babel -ipdbqt /tmp/ZINC00106456.pdbqt -omol -O /tmp/ZINC00106456.mol
+start to insert.
+data insert successfully.
+after modify the current is 77438
+ Running /tmp/babel -ipdbqt /tmp/ZINC67078627.pdbqt -omol -O /tmp/ZINC67078627.mol
+start to insert.
+data insert successfully.
+after modify the current is 77554
+ Running /tmp/babel -ipdbqt /tmp/ZINC89952657.pdbqt -omol -O /tmp/ZINC89952657.mol
+start to insert.
+data insert successfully.
+after modify the current is 77654
+ Running /tmp/babel -ipdbqt /tmp/ZINC78048700.pdbqt -omol -O /tmp/ZINC78048700.mol
+start to insert.
+data insert successfully.
+after modify the current is 77749
+ Running /tmp/babel -ipdbqt /tmp/ZINC13692079.pdbqt -omol -O /tmp/ZINC13692079.mol
+start to insert.
+data insert successfully.
+after modify the current is 77854
+ Running /tmp/babel -ipdbqt /tmp/ZINC85311810.pdbqt -omol -O /tmp/ZINC85311810.mol
+start to insert.
+data insert successfully.
+after modify the current is 77932
+ Running /tmp/babel -ipdbqt /tmp/ZINC68454716.pdbqt -omol -O /tmp/ZINC68454716.mol
+start to insert.
+data insert successfully.
+after modify the current is 78040
+ Running /tmp/babel -ipdbqt /tmp/ZINC06225442.pdbqt -omol -O /tmp/ZINC06225442.mol
+start to insert.
+data insert successfully.
+after modify the current is 78140
+ Running /tmp/babel -ipdbqt /tmp/ZINC12861299.pdbqt -omol -O /tmp/ZINC12861299.mol
+start to insert.
+data insert successfully.
+after modify the current is 78239
+ Running /tmp/babel -ipdbqt /tmp/ZINC86429019.pdbqt -omol -O /tmp/ZINC86429019.mol
+start to insert.
+data insert successfully.
+after modify the current is 78338
+ Running /tmp/babel -ipdbqt /tmp/ZINC13533814.pdbqt -omol -O /tmp/ZINC13533814.mol
+start to insert.
+data insert successfully.
+after modify the current is 78436
+ Running /tmp/babel -ipdbqt /tmp/ZINC77322065.pdbqt -omol -O /tmp/ZINC77322065.mol
+start to insert.
+data insert successfully.
+after modify the current is 78523
+ Running /tmp/babel -ipdbqt /tmp/ZINC01366861.pdbqt -omol -O /tmp/ZINC01366861.mol
+start to insert.
+data insert successfully.
+after modify the current is 78627
+ Running /tmp/babel -ipdbqt /tmp/ZINC08418991.pdbqt -omol -O /tmp/ZINC08418991.mol
+start to insert.
+data insert successfully.
+after modify the current is 78728
+ Running /tmp/babel -ipdbqt /tmp/ZINC21786568.pdbqt -omol -O /tmp/ZINC21786568.mol
+start to insert.
+data insert successfully.
+after modify the current is 78833
+ Running /tmp/babel -ipdbqt /tmp/ZINC36807483.pdbqt -omol -O /tmp/ZINC36807483.mol
+start to insert.
+data insert successfully.
+after modify the current is 78931
+ Running /tmp/babel -ipdbqt /tmp/ZINC00289227.pdbqt -omol -O /tmp/ZINC00289227.mol
+start to insert.
+data insert successfully.
+after modify the current is 79026
+ Running /tmp/babel -ipdbqt /tmp/ZINC76307248.pdbqt -omol -O /tmp/ZINC76307248.mol
+start to insert.
+data insert successfully.
+after modify the current is 79132
+ Running /tmp/babel -ipdbqt /tmp/ZINC46087750.pdbqt -omol -O /tmp/ZINC46087750.mol
+start to insert.
+data insert successfully.
+after modify the current is 79241
+ Running /tmp/babel -ipdbqt /tmp/ZINC97236924.pdbqt -omol -O /tmp/ZINC97236924.mol
+start to insert.
+data insert successfully.
+after modify the current is 79334
+ Running /tmp/babel -ipdbqt /tmp/ZINC25247896.pdbqt -omol -O /tmp/ZINC25247896.mol
+start to insert.
+data insert successfully.
+after modify the current is 79439
+ Running /tmp/babel -ipdbqt /tmp/ZINC74114782.pdbqt -omol -O /tmp/ZINC74114782.mol
+start to insert.
+data insert successfully.
+after modify the current is 79535
+ Running /tmp/babel -ipdbqt /tmp/ZINC93796660.pdbqt -omol -O /tmp/ZINC93796660.mol
+start to insert.
+data insert successfully.
+after modify the current is 79638
+ Running /tmp/babel -ipdbqt /tmp/ZINC00343323.pdbqt -omol -O /tmp/ZINC00343323.mol
+start to insert.
+data insert successfully.
+after modify the current is 79738
+ Running /tmp/babel -ipdbqt /tmp/ZINC69652693.pdbqt -omol -O /tmp/ZINC69652693.mol
+start to insert.
+data insert successfully.
+after modify the current is 79842
+ Running /tmp/babel -ipdbqt /tmp/ZINC28869103.pdbqt -omol -O /tmp/ZINC28869103.mol
+start to insert.
+data insert successfully.
+after modify the current is 79926
+ Running /tmp/babel -ipdbqt /tmp/ZINC91562973.pdbqt -omol -O /tmp/ZINC91562973.mol
+start to insert.
+data insert successfully.
+after modify the current is 80021
+ Running /tmp/babel -ipdbqt /tmp/ZINC32516060.pdbqt -omol -O /tmp/ZINC32516060.mol
+start to insert.
+data insert successfully.
+after modify the current is 80114
+ Running /tmp/babel -ipdbqt /tmp/ZINC89393791.pdbqt -omol -O /tmp/ZINC89393791.mol
+start to insert.
+data insert successfully.
+after modify the current is 80212
+ Running /tmp/babel -ipdbqt /tmp/ZINC04193559.pdbqt -omol -O /tmp/ZINC04193559.mol
+start to insert.
+data insert successfully.
+after modify the current is 80318
+ Running /tmp/babel -ipdbqt /tmp/ZINC69038981.pdbqt -omol -O /tmp/ZINC69038981.mol
+start to insert.
+data insert successfully.
+after modify the current is 80410
+ Running /tmp/babel -ipdbqt /tmp/ZINC90060829.pdbqt -omol -O /tmp/ZINC90060829.mol
+start to insert.
+data insert successfully.
+after modify the current is 80529
+ Running /tmp/babel -ipdbqt /tmp/ZINC00363936.pdbqt -omol -O /tmp/ZINC00363936.mol
+start to insert.
+data insert successfully.
+after modify the current is 80622
+ Running /tmp/babel -ipdbqt /tmp/ZINC19642963.pdbqt -omol -O /tmp/ZINC19642963.mol
+start to insert.
+data insert successfully.
+after modify the current is 80714
+ Running /tmp/babel -ipdbqt /tmp/ZINC93497321.pdbqt -omol -O /tmp/ZINC93497321.mol
+start to insert.
+data insert successfully.
+after modify the current is 80821
+ Running /tmp/babel -ipdbqt /tmp/ZINC14214729.pdbqt -omol -O /tmp/ZINC14214729.mol
+start to insert.
+data insert successfully.
+after modify the current is 80910
+ Running /tmp/babel -ipdbqt /tmp/ZINC48288527.pdbqt -omol -O /tmp/ZINC48288527.mol
+start to insert.
+data insert successfully.
+after modify the current is 80997
+ Running /tmp/babel -ipdbqt /tmp/ZINC77287127.pdbqt -omol -O /tmp/ZINC77287127.mol
+start to insert.
+data insert successfully.
+after modify the current is 81103
+ Running /tmp/babel -ipdbqt /tmp/ZINC90095389.pdbqt -omol -O /tmp/ZINC90095389.mol
+start to insert.
+data insert successfully.
+after modify the current is 81198
+ Running /tmp/babel -ipdbqt /tmp/ZINC83245353.pdbqt -omol -O /tmp/ZINC83245353.mol
+start to insert.
+data insert successfully.
+after modify the current is 81316
+ Running /tmp/babel -ipdbqt /tmp/ZINC58406157.pdbqt -omol -O /tmp/ZINC58406157.mol
+start to insert.
+data insert successfully.
+after modify the current is 81396
+ Running /tmp/babel -ipdbqt /tmp/ZINC20931577.pdbqt -omol -O /tmp/ZINC20931577.mol
+start to insert.
+data insert successfully.
+after modify the current is 81498
+ Running /tmp/babel -ipdbqt /tmp/ZINC63914938.pdbqt -omol -O /tmp/ZINC63914938.mol
+start to insert.
+data insert successfully.
+after modify the current is 81599
+ Running /tmp/babel -ipdbqt /tmp/ZINC05670381.pdbqt -omol -O /tmp/ZINC05670381.mol
+start to insert.
+data insert successfully.
+after modify the current is 81707
+ Running /tmp/babel -ipdbqt /tmp/ZINC60804308.pdbqt -omol -O /tmp/ZINC60804308.mol
+start to insert.
+data insert successfully.
+after modify the current is 81804
+ Running /tmp/babel -ipdbqt /tmp/ZINC95409579.pdbqt -omol -O /tmp/ZINC95409579.mol
+start to insert.
+data insert successfully.
+after modify the current is 81907
+ Running /tmp/babel -ipdbqt /tmp/ZINC65401488.pdbqt -omol -O /tmp/ZINC65401488.mol
+start to insert.
+data insert successfully.
+after modify the current is 82012
+ Running /tmp/babel -ipdbqt /tmp/ZINC00042155.pdbqt -omol -O /tmp/ZINC00042155.mol
+start to insert.
+data insert successfully.
+after modify the current is 82113
+ Running /tmp/babel -ipdbqt /tmp/ZINC13228219.pdbqt -omol -O /tmp/ZINC13228219.mol
+start to insert.
+data insert successfully.
+after modify the current is 82214
+ Running /tmp/babel -ipdbqt /tmp/ZINC55950093.pdbqt -omol -O /tmp/ZINC55950093.mol
+start to insert.
+data insert successfully.
+after modify the current is 82306
+ Running /tmp/babel -ipdbqt /tmp/ZINC89621460.pdbqt -omol -O /tmp/ZINC89621460.mol
+start to insert.
+data insert successfully.
+after modify the current is 82408
+ Running /tmp/babel -ipdbqt /tmp/ZINC72274431.pdbqt -omol -O /tmp/ZINC72274431.mol
+start to insert.
+data insert successfully.
+after modify the current is 82506
+ Running /tmp/babel -ipdbqt /tmp/ZINC05054524.pdbqt -omol -O /tmp/ZINC05054524.mol
+start to insert.
+data insert successfully.
+after modify the current is 82605
+ Running /tmp/babel -ipdbqt /tmp/ZINC00552948.pdbqt -omol -O /tmp/ZINC00552948.mol
+start to insert.
+data insert successfully.
+after modify the current is 82695
+ Running /tmp/babel -ipdbqt /tmp/ZINC66437979.pdbqt -omol -O /tmp/ZINC66437979.mol
+start to insert.
+data insert successfully.
+after modify the current is 82801
+ Running /tmp/babel -ipdbqt /tmp/ZINC72258590.pdbqt -omol -O /tmp/ZINC72258590.mol
+start to insert.
+data insert successfully.
+after modify the current is 82916
+ Running /tmp/babel -ipdbqt /tmp/ZINC15651271.pdbqt -omol -O /tmp/ZINC15651271.mol
+start to insert.
+data insert successfully.
+after modify the current is 83006
+ Running /tmp/babel -ipdbqt /tmp/ZINC38586601.pdbqt -omol -O /tmp/ZINC38586601.mol
+start to insert.
+data insert successfully.
+after modify the current is 83087
+ Running /tmp/babel -ipdbqt /tmp/ZINC76576905.pdbqt -omol -O /tmp/ZINC76576905.mol
+start to insert.
+data insert successfully.
+after modify the current is 83194
+ Running /tmp/babel -ipdbqt /tmp/ZINC71972586.pdbqt -omol -O /tmp/ZINC71972586.mol
+start to insert.
+data insert successfully.
+after modify the current is 83285
+ Running /tmp/babel -ipdbqt /tmp/ZINC96227912.pdbqt -omol -O /tmp/ZINC96227912.mol
+start to insert.
+data insert successfully.
+after modify the current is 83369
+ Running /tmp/babel -ipdbqt /tmp/ZINC97039948.pdbqt -omol -O /tmp/ZINC97039948.mol
+start to insert.
+data insert successfully.
+after modify the current is 83482
+ Running /tmp/babel -ipdbqt /tmp/ZINC03453745.pdbqt -omol -O /tmp/ZINC03453745.mol
+start to insert.
+data insert successfully.
+after modify the current is 83576
+ Running /tmp/babel -ipdbqt /tmp/ZINC86967600.pdbqt -omol -O /tmp/ZINC86967600.mol
+start to insert.
+data insert successfully.
+after modify the current is 83666
+ Running /tmp/babel -ipdbqt /tmp/ZINC00330856.pdbqt -omol -O /tmp/ZINC00330856.mol
+start to insert.
+data insert successfully.
+after modify the current is 83773
+ Running /tmp/babel -ipdbqt /tmp/ZINC83264293.pdbqt -omol -O /tmp/ZINC83264293.mol
+start to insert.
+data insert successfully.
+after modify the current is 83859
+ Running /tmp/babel -ipdbqt /tmp/ZINC05242881.pdbqt -omol -O /tmp/ZINC05242881.mol
+start to insert.
+data insert successfully.
+after modify the current is 83965
+ Running /tmp/babel -ipdbqt /tmp/ZINC63488822.pdbqt -omol -O /tmp/ZINC63488822.mol
+start to insert.
+data insert successfully.
+after modify the current is 84076
+ Running /tmp/babel -ipdbqt /tmp/ZINC49487164.pdbqt -omol -O /tmp/ZINC49487164.mol
+start to insert.
+data insert successfully.
+after modify the current is 84181
+ Running /tmp/babel -ipdbqt /tmp/ZINC32928948.pdbqt -omol -O /tmp/ZINC32928948.mol
+start to insert.
+data insert successfully.
+after modify the current is 84288
+ Running /tmp/babel -ipdbqt /tmp/ZINC96067568.pdbqt -omol -O /tmp/ZINC96067568.mol
+start to insert.
+data insert successfully.
+after modify the current is 84382
+ Running /tmp/babel -ipdbqt /tmp/ZINC78818129.pdbqt -omol -O /tmp/ZINC78818129.mol
+start to insert.
+data insert successfully.
+after modify the current is 84476
+ Running /tmp/babel -ipdbqt /tmp/ZINC49492117.pdbqt -omol -O /tmp/ZINC49492117.mol
+start to insert.
+data insert successfully.
+after modify the current is 84579
+ Running /tmp/babel -ipdbqt /tmp/ZINC49500509.pdbqt -omol -O /tmp/ZINC49500509.mol
+start to insert.
+data insert successfully.
+after modify the current is 84676
+ Running /tmp/babel -ipdbqt /tmp/ZINC72889044.pdbqt -omol -O /tmp/ZINC72889044.mol
+start to insert.
+data insert successfully.
+after modify the current is 84780
+ Running /tmp/babel -ipdbqt /tmp/ZINC20418809.pdbqt -omol -O /tmp/ZINC20418809.mol
+start to insert.
+data insert successfully.
+after modify the current is 84869
+ Running /tmp/babel -ipdbqt /tmp/ZINC15418355.pdbqt -omol -O /tmp/ZINC15418355.mol
+start to insert.
+data insert successfully.
+after modify the current is 84980
+ Running /tmp/babel -ipdbqt /tmp/ZINC36626600.pdbqt -omol -O /tmp/ZINC36626600.mol
+start to insert.
+data insert successfully.
+after modify the current is 85077
+ Running /tmp/babel -ipdbqt /tmp/ZINC05033572.pdbqt -omol -O /tmp/ZINC05033572.mol
+start to insert.
+data insert successfully.
+after modify the current is 85190
+ Running /tmp/babel -ipdbqt /tmp/ZINC75906428.pdbqt -omol -O /tmp/ZINC75906428.mol
+start to insert.
+data insert successfully.
+after modify the current is 85289
+ Running /tmp/babel -ipdbqt /tmp/ZINC64793114.pdbqt -omol -O /tmp/ZINC64793114.mol
+start to insert.
+data insert successfully.
+after modify the current is 85399
+ Running /tmp/babel -ipdbqt /tmp/ZINC06974071.pdbqt -omol -O /tmp/ZINC06974071.mol
+start to insert.
+data insert successfully.
+after modify the current is 85493
+ Running /tmp/babel -ipdbqt /tmp/ZINC89260898.pdbqt -omol -O /tmp/ZINC89260898.mol
+start to insert.
+data insert successfully.
+after modify the current is 85593
+ Running /tmp/babel -ipdbqt /tmp/ZINC74354052.pdbqt -omol -O /tmp/ZINC74354052.mol
+start to insert.
+data insert successfully.
+after modify the current is 85700
+ Running /tmp/babel -ipdbqt /tmp/ZINC40947107.pdbqt -omol -O /tmp/ZINC40947107.mol
+start to insert.
+data insert successfully.
+after modify the current is 85803
+ Running /tmp/babel -ipdbqt /tmp/ZINC98023993.pdbqt -omol -O /tmp/ZINC98023993.mol
+start to insert.
+data insert successfully.
+after modify the current is 85901
+ Running /tmp/babel -ipdbqt /tmp/ZINC49278063.pdbqt -omol -O /tmp/ZINC49278063.mol
+start to insert.
+data insert successfully.
+after modify the current is 86002
+ Running /tmp/babel -ipdbqt /tmp/ZINC64622633.pdbqt -omol -O /tmp/ZINC64622633.mol
+start to insert.
+data insert successfully.
+after modify the current is 86081
+ Running /tmp/babel -ipdbqt /tmp/ZINC72292469.pdbqt -omol -O /tmp/ZINC72292469.mol
+start to insert.
+data insert successfully.
+after modify the current is 86181
+ Running /tmp/babel -ipdbqt /tmp/ZINC41635334.pdbqt -omol -O /tmp/ZINC41635334.mol
+start to insert.
+data insert successfully.
+after modify the current is 86275
+ Running /tmp/babel -ipdbqt /tmp/ZINC16375887.pdbqt -omol -O /tmp/ZINC16375887.mol
+start to insert.
+data insert successfully.
+after modify the current is 86370
+ Running /tmp/babel -ipdbqt /tmp/ZINC49475788.pdbqt -omol -O /tmp/ZINC49475788.mol
+start to insert.
+data insert successfully.
+after modify the current is 86457
+ Running /tmp/babel -ipdbqt /tmp/ZINC48920149.pdbqt -omol -O /tmp/ZINC48920149.mol
+start to insert.
+data insert successfully.
+after modify the current is 86556
+ Running /tmp/babel -ipdbqt /tmp/ZINC73617012.pdbqt -omol -O /tmp/ZINC73617012.mol
+start to insert.
+data insert successfully.
+after modify the current is 86654
+ Running /tmp/babel -ipdbqt /tmp/ZINC48797393.pdbqt -omol -O /tmp/ZINC48797393.mol
+start to insert.
+data insert successfully.
+after modify the current is 86750
+ Running /tmp/babel -ipdbqt /tmp/ZINC02751689.pdbqt -omol -O /tmp/ZINC02751689.mol
+start to insert.
+data insert successfully.
+after modify the current is 86845
+ Running /tmp/babel -ipdbqt /tmp/ZINC97043392.pdbqt -omol -O /tmp/ZINC97043392.mol
+start to insert.
+data insert successfully.
+after modify the current is 86947
+ Running /tmp/babel -ipdbqt /tmp/ZINC48184912.pdbqt -omol -O /tmp/ZINC48184912.mol
+start to insert.
+data insert successfully.
+after modify the current is 87064
+ Running /tmp/babel -ipdbqt /tmp/ZINC72404823.pdbqt -omol -O /tmp/ZINC72404823.mol
+start to insert.
+data insert successfully.
+after modify the current is 87171
+ Running /tmp/babel -ipdbqt /tmp/ZINC59115128.pdbqt -omol -O /tmp/ZINC59115128.mol
+start to insert.
+data insert successfully.
+after modify the current is 87276
+ Running /tmp/babel -ipdbqt /tmp/ZINC42252277.pdbqt -omol -O /tmp/ZINC42252277.mol
+start to insert.
+data insert successfully.
+after modify the current is 87364
+ Running /tmp/babel -ipdbqt /tmp/ZINC16958076.pdbqt -omol -O /tmp/ZINC16958076.mol
+start to insert.
+data insert successfully.
+after modify the current is 87460
+ Running /tmp/babel -ipdbqt /tmp/ZINC94993410.pdbqt -omol -O /tmp/ZINC94993410.mol
+start to insert.
+data insert successfully.
+after modify the current is 87566
+ Running /tmp/babel -ipdbqt /tmp/ZINC49274669.pdbqt -omol -O /tmp/ZINC49274669.mol
+start to insert.
+data insert successfully.
+after modify the current is 87668
+ Running /tmp/babel -ipdbqt /tmp/ZINC89975094.pdbqt -omol -O /tmp/ZINC89975094.mol
+start to insert.
+data insert successfully.
+after modify the current is 87773
+ Running /tmp/babel -ipdbqt /tmp/ZINC74050538.pdbqt -omol -O /tmp/ZINC74050538.mol
+start to insert.
+data insert successfully.
+after modify the current is 87892
+ Running /tmp/babel -ipdbqt /tmp/ZINC65041486.pdbqt -omol -O /tmp/ZINC65041486.mol
+start to insert.
+data insert successfully.
+after modify the current is 88009
+ Running /tmp/babel -ipdbqt /tmp/ZINC78956524.pdbqt -omol -O /tmp/ZINC78956524.mol
+start to insert.
+data insert successfully.
+after modify the current is 88119
+ Running /tmp/babel -ipdbqt /tmp/ZINC78777784.pdbqt -omol -O /tmp/ZINC78777784.mol
+start to insert.
+data insert successfully.
+after modify the current is 88216
+ Running /tmp/babel -ipdbqt /tmp/ZINC00065058.pdbqt -omol -O /tmp/ZINC00065058.mol
+start to insert.
+data insert successfully.
+after modify the current is 88316
+ Running /tmp/babel -ipdbqt /tmp/ZINC66134747.pdbqt -omol -O /tmp/ZINC66134747.mol
+start to insert.
+data insert successfully.
+after modify the current is 88424
+ Running /tmp/babel -ipdbqt /tmp/ZINC15948892.pdbqt -omol -O /tmp/ZINC15948892.mol
+start to insert.
+data insert successfully.
+after modify the current is 88529
+ Running /tmp/babel -ipdbqt /tmp/ZINC59409587.pdbqt -omol -O /tmp/ZINC59409587.mol
+start to insert.
+data insert successfully.
+after modify the current is 88645
+ Running /tmp/babel -ipdbqt /tmp/ZINC92038411.pdbqt -omol -O /tmp/ZINC92038411.mol
+start to insert.
+data insert successfully.
+after modify the current is 88754
+ Running /tmp/babel -ipdbqt /tmp/ZINC73812676.pdbqt -omol -O /tmp/ZINC73812676.mol
+start to insert.
+data insert successfully.
+after modify the current is 88844
+ Running /tmp/babel -ipdbqt /tmp/ZINC14778015.pdbqt -omol -O /tmp/ZINC14778015.mol
+start to insert.
+data insert successfully.
+after modify the current is 88943
+ Running /tmp/babel -ipdbqt /tmp/ZINC95946741.pdbqt -omol -O /tmp/ZINC95946741.mol
+start to insert.
+data insert successfully.
+after modify the current is 89057
+ Running /tmp/babel -ipdbqt /tmp/ZINC96011985.pdbqt -omol -O /tmp/ZINC96011985.mol
+start to insert.
+data insert successfully.
+after modify the current is 89159
+ Running /tmp/babel -ipdbqt /tmp/ZINC90523159.pdbqt -omol -O /tmp/ZINC90523159.mol
+start to insert.
+data insert successfully.
+after modify the current is 89251
+ Running /tmp/babel -ipdbqt /tmp/ZINC77453836.pdbqt -omol -O /tmp/ZINC77453836.mol
+start to insert.
+data insert successfully.
+after modify the current is 89338
+ Running /tmp/babel -ipdbqt /tmp/ZINC00804603.pdbqt -omol -O /tmp/ZINC00804603.mol
+start to insert.
+data insert successfully.
+after modify the current is 89446
+ Running /tmp/babel -ipdbqt /tmp/ZINC39412122.pdbqt -omol -O /tmp/ZINC39412122.mol
+start to insert.
+data insert successfully.
+after modify the current is 89552
+ Running /tmp/babel -ipdbqt /tmp/ZINC44994749.pdbqt -omol -O /tmp/ZINC44994749.mol
+start to insert.
+data insert successfully.
+after modify the current is 89650
+ Running /tmp/babel -ipdbqt /tmp/ZINC95369703.pdbqt -omol -O /tmp/ZINC95369703.mol
+start to insert.
+data insert successfully.
+after modify the current is 89756
+ Running /tmp/babel -ipdbqt /tmp/ZINC75536420.pdbqt -omol -O /tmp/ZINC75536420.mol
+start to insert.
+data insert successfully.
+after modify the current is 89847
+ Running /tmp/babel -ipdbqt /tmp/ZINC95363561.pdbqt -omol -O /tmp/ZINC95363561.mol
+start to insert.
+data insert successfully.
+after modify the current is 89930
+ Running /tmp/babel -ipdbqt /tmp/ZINC74040528.pdbqt -omol -O /tmp/ZINC74040528.mol
+start to insert.
+data insert successfully.
+after modify the current is 90036
+ Running /tmp/babel -ipdbqt /tmp/ZINC08317489.pdbqt -omol -O /tmp/ZINC08317489.mol
+start to insert.
+data insert successfully.
+after modify the current is 90150
+ Running /tmp/babel -ipdbqt /tmp/ZINC91986767.pdbqt -omol -O /tmp/ZINC91986767.mol
+start to insert.
+data insert successfully.
+after modify the current is 90258
+ Running /tmp/babel -ipdbqt /tmp/ZINC25427469.pdbqt -omol -O /tmp/ZINC25427469.mol
+start to insert.
+data insert successfully.
+after modify the current is 90352
+ Running /tmp/babel -ipdbqt /tmp/ZINC49275726.pdbqt -omol -O /tmp/ZINC49275726.mol
+start to insert.
+data insert successfully.
+after modify the current is 90461
+ Running /tmp/babel -ipdbqt /tmp/ZINC59291221.pdbqt -omol -O /tmp/ZINC59291221.mol
+start to insert.
+data insert successfully.
+after modify the current is 90556
+ Running /tmp/babel -ipdbqt /tmp/ZINC66163008.pdbqt -omol -O /tmp/ZINC66163008.mol
+start to insert.
+data insert successfully.
+after modify the current is 90659
+ Running /tmp/babel -ipdbqt /tmp/ZINC72386587.pdbqt -omol -O /tmp/ZINC72386587.mol
+start to insert.
+data insert successfully.
+after modify the current is 90739
+ Running /tmp/babel -ipdbqt /tmp/ZINC49296216.pdbqt -omol -O /tmp/ZINC49296216.mol
+start to insert.
+data insert successfully.
+after modify the current is 90862
+ Running /tmp/babel -ipdbqt /tmp/ZINC06048806.pdbqt -omol -O /tmp/ZINC06048806.mol
+start to insert.
+data insert successfully.
+after modify the current is 90953
+ Running /tmp/babel -ipdbqt /tmp/ZINC00247918.pdbqt -omol -O /tmp/ZINC00247918.mol
+start to insert.
+data insert successfully.
+after modify the current is 91082
+ Running /tmp/babel -ipdbqt /tmp/ZINC04027137.pdbqt -omol -O /tmp/ZINC04027137.mol
+start to insert.
+data insert successfully.
+after modify the current is 91182
+ Running /tmp/babel -ipdbqt /tmp/ZINC86016525.pdbqt -omol -O /tmp/ZINC86016525.mol
+start to insert.
+data insert successfully.
+after modify the current is 91272
+ Running /tmp/babel -ipdbqt /tmp/ZINC03463804.pdbqt -omol -O /tmp/ZINC03463804.mol
+start to insert.
+data insert successfully.
+after modify the current is 91377
+ Running /tmp/babel -ipdbqt /tmp/ZINC90563879.pdbqt -omol -O /tmp/ZINC90563879.mol
+start to insert.
+data insert successfully.
+after modify the current is 91479
+ Running /tmp/babel -ipdbqt /tmp/ZINC68584848.pdbqt -omol -O /tmp/ZINC68584848.mol
+start to insert.
+data insert successfully.
+after modify the current is 91589
+ Running /tmp/babel -ipdbqt /tmp/ZINC04269654.pdbqt -omol -O /tmp/ZINC04269654.mol
+start to insert.
+data insert successfully.
+after modify the current is 91680
+ Running /tmp/babel -ipdbqt /tmp/ZINC92008314.pdbqt -omol -O /tmp/ZINC92008314.mol
+start to insert.
+data insert successfully.
+after modify the current is 91758
+ Running /tmp/babel -ipdbqt /tmp/ZINC36938897.pdbqt -omol -O /tmp/ZINC36938897.mol
+start to insert.
+data insert successfully.
+after modify the current is 91862
+ Running /tmp/babel -ipdbqt /tmp/ZINC71915215.pdbqt -omol -O /tmp/ZINC71915215.mol
+start to insert.
+data insert successfully.
+after modify the current is 91952
+ Running /tmp/babel -ipdbqt /tmp/ZINC47864646.pdbqt -omol -O /tmp/ZINC47864646.mol
+start to insert.
+data insert successfully.
+after modify the current is 92055
+ Running /tmp/babel -ipdbqt /tmp/ZINC91486937.pdbqt -omol -O /tmp/ZINC91486937.mol
+start to insert.
+data insert successfully.
+after modify the current is 92148
+ Running /tmp/babel -ipdbqt /tmp/ZINC45164044.pdbqt -omol -O /tmp/ZINC45164044.mol
+start to insert.
+data insert successfully.
+after modify the current is 92253
+ Running /tmp/babel -ipdbqt /tmp/ZINC00515536.pdbqt -omol -O /tmp/ZINC00515536.mol
+start to insert.
+data insert successfully.
+after modify the current is 92343
+ Running /tmp/babel -ipdbqt /tmp/ZINC35258861.pdbqt -omol -O /tmp/ZINC35258861.mol
+start to insert.
+data insert successfully.
+after modify the current is 92437
+ Running /tmp/babel -ipdbqt /tmp/ZINC01076606.pdbqt -omol -O /tmp/ZINC01076606.mol
+start to insert.
+data insert successfully.
+after modify the current is 92538
+ Running /tmp/babel -ipdbqt /tmp/ZINC00031376.pdbqt -omol -O /tmp/ZINC00031376.mol
+start to insert.
+data insert successfully.
+after modify the current is 92640
+ Running /tmp/babel -ipdbqt /tmp/ZINC72063315.pdbqt -omol -O /tmp/ZINC72063315.mol
+start to insert.
+data insert successfully.
+after modify the current is 92753
+ Running /tmp/babel -ipdbqt /tmp/ZINC95069881.pdbqt -omol -O /tmp/ZINC95069881.mol
+start to insert.
+data insert successfully.
+after modify the current is 92854
+ Running /tmp/babel -ipdbqt /tmp/ZINC90143006.pdbqt -omol -O /tmp/ZINC90143006.mol
+start to insert.
+data insert successfully.
+after modify the current is 92971
+ Running /tmp/babel -ipdbqt /tmp/ZINC72240737.pdbqt -omol -O /tmp/ZINC72240737.mol
+start to insert.
+data insert successfully.
+after modify the current is 93074
+ Running /tmp/babel -ipdbqt /tmp/ZINC15933702.pdbqt -omol -O /tmp/ZINC15933702.mol
+start to insert.
+data insert successfully.
+after modify the current is 93188
+ Running /tmp/babel -ipdbqt /tmp/ZINC32617084.pdbqt -omol -O /tmp/ZINC32617084.mol
+start to insert.
+data insert successfully.
+after modify the current is 93286
+ Running /tmp/babel -ipdbqt /tmp/ZINC93443149.pdbqt -omol -O /tmp/ZINC93443149.mol
+start to insert.
+data insert successfully.
+after modify the current is 93368
+ Running /tmp/babel -ipdbqt /tmp/ZINC96344707.pdbqt -omol -O /tmp/ZINC96344707.mol
+start to insert.
+data insert successfully.
+after modify the current is 93468
+ Running /tmp/babel -ipdbqt /tmp/ZINC34958681.pdbqt -omol -O /tmp/ZINC34958681.mol
+start to insert.
+data insert successfully.
+after modify the current is 93543
+ Running /tmp/babel -ipdbqt /tmp/ZINC84721171.pdbqt -omol -O /tmp/ZINC84721171.mol
+start to insert.
+data insert successfully.
+after modify the current is 93625
+ Running /tmp/babel -ipdbqt /tmp/ZINC97236674.pdbqt -omol -O /tmp/ZINC97236674.mol
+start to insert.
+data insert successfully.
+after modify the current is 93734
+ Running /tmp/babel -ipdbqt /tmp/ZINC78303607.pdbqt -omol -O /tmp/ZINC78303607.mol
+start to insert.
+data insert successfully.
+after modify the current is 93847
+ Running /tmp/babel -ipdbqt /tmp/ZINC30448293.pdbqt -omol -O /tmp/ZINC30448293.mol
+start to insert.
+data insert successfully.
+after modify the current is 93956
+ Running /tmp/babel -ipdbqt /tmp/ZINC05355345.pdbqt -omol -O /tmp/ZINC05355345.mol
+start to insert.
+data insert successfully.
+after modify the current is 94072
+ Running /tmp/babel -ipdbqt /tmp/ZINC04337188.pdbqt -omol -O /tmp/ZINC04337188.mol
+start to insert.
+data insert successfully.
+after modify the current is 94170
+ Running /tmp/babel -ipdbqt /tmp/ZINC04876845.pdbqt -omol -O /tmp/ZINC04876845.mol
+start to insert.
+data insert successfully.
+after modify the current is 94293
+ Running /tmp/babel -ipdbqt /tmp/ZINC40477638.pdbqt -omol -O /tmp/ZINC40477638.mol
+start to insert.
+data insert successfully.
+after modify the current is 94386
+ Running /tmp/babel -ipdbqt /tmp/ZINC39931858.pdbqt -omol -O /tmp/ZINC39931858.mol
+start to insert.
+data insert successfully.
+after modify the current is 94493
+ Running /tmp/babel -ipdbqt /tmp/ZINC37579356.pdbqt -omol -O /tmp/ZINC37579356.mol
+start to insert.
+data insert successfully.
+after modify the current is 94605
+ Running /tmp/babel -ipdbqt /tmp/ZINC55241249.pdbqt -omol -O /tmp/ZINC55241249.mol
+start to insert.
+data insert successfully.
+after modify the current is 94699
+ Running /tmp/babel -ipdbqt /tmp/ZINC56508751.pdbqt -omol -O /tmp/ZINC56508751.mol
+start to insert.
+data insert successfully.
+after modify the current is 94801
+ Running /tmp/babel -ipdbqt /tmp/ZINC72199350.pdbqt -omol -O /tmp/ZINC72199350.mol
+start to insert.
+data insert successfully.
+after modify the current is 94875
+ Running /tmp/babel -ipdbqt /tmp/ZINC59166299.pdbqt -omol -O /tmp/ZINC59166299.mol
+start to insert.
+data insert successfully.
+after modify the current is 94997
+ Running /tmp/babel -ipdbqt /tmp/ZINC47335989.pdbqt -omol -O /tmp/ZINC47335989.mol
+start to insert.
+data insert successfully.
+after modify the current is 95118
+ Running /tmp/babel -ipdbqt /tmp/ZINC08627921.pdbqt -omol -O /tmp/ZINC08627921.mol
+start to insert.
+data insert successfully.
+after modify the current is 95189
+ Running /tmp/babel -ipdbqt /tmp/ZINC04203331.pdbqt -omol -O /tmp/ZINC04203331.mol
+start to insert.
+data insert successfully.
+after modify the current is 95296
+ Running /tmp/babel -ipdbqt /tmp/ZINC74343671.pdbqt -omol -O /tmp/ZINC74343671.mol
+start to insert.
+data insert successfully.
+after modify the current is 95398
+ Running /tmp/babel -ipdbqt /tmp/ZINC30781715.pdbqt -omol -O /tmp/ZINC30781715.mol
+start to insert.
+data insert successfully.
+after modify the current is 95504
+ Running /tmp/babel -ipdbqt /tmp/ZINC39570766.pdbqt -omol -O /tmp/ZINC39570766.mol
+start to insert.
+data insert successfully.
+after modify the current is 95620
+ Running /tmp/babel -ipdbqt /tmp/ZINC97141140.pdbqt -omol -O /tmp/ZINC97141140.mol
+start to insert.
+data insert successfully.
+after modify the current is 95716
+ Running /tmp/babel -ipdbqt /tmp/ZINC95535048.pdbqt -omol -O /tmp/ZINC95535048.mol
+start to insert.
+data insert successfully.
+after modify the current is 95798
+ Running /tmp/babel -ipdbqt /tmp/ZINC36421698.pdbqt -omol -O /tmp/ZINC36421698.mol
+start to insert.
+data insert successfully.
+after modify the current is 95893
+ Running /tmp/babel -ipdbqt /tmp/ZINC71783268.pdbqt -omol -O /tmp/ZINC71783268.mol
+start to insert.
+data insert successfully.
+after modify the current is 95996
+ Running /tmp/babel -ipdbqt /tmp/ZINC40387198.pdbqt -omol -O /tmp/ZINC40387198.mol
+start to insert.
+data insert successfully.
+after modify the current is 96091
+ Running /tmp/babel -ipdbqt /tmp/ZINC19798573.pdbqt -omol -O /tmp/ZINC19798573.mol
+start to insert.
+data insert successfully.
+after modify the current is 96193
+ Running /tmp/babel -ipdbqt /tmp/ZINC95642905.pdbqt -omol -O /tmp/ZINC95642905.mol
+start to insert.
+data insert successfully.
+after modify the current is 96289
+ Running /tmp/babel -ipdbqt /tmp/ZINC96299955.pdbqt -omol -O /tmp/ZINC96299955.mol
+start to insert.
+data insert successfully.
+after modify the current is 96406
+ Running /tmp/babel -ipdbqt /tmp/ZINC21215311.pdbqt -omol -O /tmp/ZINC21215311.mol
+start to insert.
+data insert successfully.
+after modify the current is 96518
+ Running /tmp/babel -ipdbqt /tmp/ZINC95934101.pdbqt -omol -O /tmp/ZINC95934101.mol
+start to insert.
+data insert successfully.
+after modify the current is 96622
+ Running /tmp/babel -ipdbqt /tmp/ZINC05511415.pdbqt -omol -O /tmp/ZINC05511415.mol
+start to insert.
+data insert successfully.
+after modify the current is 96716
+ Running /tmp/babel -ipdbqt /tmp/ZINC89847645.pdbqt -omol -O /tmp/ZINC89847645.mol
+start to insert.
+data insert successfully.
+after modify the current is 96808
+ Running /tmp/babel -ipdbqt /tmp/ZINC05193039.pdbqt -omol -O /tmp/ZINC05193039.mol
+start to insert.
+data insert successfully.
+after modify the current is 96901
+ Running /tmp/babel -ipdbqt /tmp/ZINC19901158.pdbqt -omol -O /tmp/ZINC19901158.mol
+start to insert.
+data insert successfully.
+after modify the current is 97001
+ Running /tmp/babel -ipdbqt /tmp/ZINC79231198.pdbqt -omol -O /tmp/ZINC79231198.mol
+start to insert.
+data insert successfully.
+after modify the current is 97106
+ Running /tmp/babel -ipdbqt /tmp/ZINC32099579.pdbqt -omol -O /tmp/ZINC32099579.mol
+start to insert.
+data insert successfully.
+after modify the current is 97225
+ Running /tmp/babel -ipdbqt /tmp/ZINC40566611.pdbqt -omol -O /tmp/ZINC40566611.mol
+start to insert.
+data insert successfully.
+after modify the current is 97333
+ Running /tmp/babel -ipdbqt /tmp/ZINC97758324.pdbqt -omol -O /tmp/ZINC97758324.mol
+start to insert.
+data insert successfully.
+after modify the current is 97437
+ Running /tmp/babel -ipdbqt /tmp/ZINC39084935.pdbqt -omol -O /tmp/ZINC39084935.mol
+start to insert.
+data insert successfully.
+after modify the current is 97533
+ Running /tmp/babel -ipdbqt /tmp/ZINC37227106.pdbqt -omol -O /tmp/ZINC37227106.mol
+start to insert.
+data insert successfully.
+after modify the current is 97608
+ Running /tmp/babel -ipdbqt /tmp/ZINC71777663.pdbqt -omol -O /tmp/ZINC71777663.mol
+start to insert.
+data insert successfully.
+after modify the current is 97718
+ Running /tmp/babel -ipdbqt /tmp/ZINC11919790.pdbqt -omol -O /tmp/ZINC11919790.mol
+start to insert.
+data insert successfully.
+after modify the current is 97820
+ Running /tmp/babel -ipdbqt /tmp/ZINC95735182.pdbqt -omol -O /tmp/ZINC95735182.mol
+start to insert.
+data insert successfully.
+after modify the current is 97909
+ Running /tmp/babel -ipdbqt /tmp/ZINC04791947.pdbqt -omol -O /tmp/ZINC04791947.mol
+start to insert.
+data insert successfully.
+after modify the current is 98023
+ Running /tmp/babel -ipdbqt /tmp/ZINC95081420.pdbqt -omol -O /tmp/ZINC95081420.mol
+start to insert.
+data insert successfully.
+after modify the current is 98124
+ Running /tmp/babel -ipdbqt /tmp/ZINC98179643.pdbqt -omol -O /tmp/ZINC98179643.mol
+start to insert.
+data insert successfully.
+after modify the current is 98207
+ Running /tmp/babel -ipdbqt /tmp/ZINC00155769.pdbqt -omol -O /tmp/ZINC00155769.mol
+start to insert.
+data insert successfully.
+after modify the current is 98330
+ Running /tmp/babel -ipdbqt /tmp/ZINC03165698.pdbqt -omol -O /tmp/ZINC03165698.mol
+start to insert.
+data insert successfully.
+after modify the current is 98434
+ Running /tmp/babel -ipdbqt /tmp/ZINC00405810.pdbqt -omol -O /tmp/ZINC00405810.mol
+start to insert.
+data insert successfully.
+after modify the current is 98537
+ Running /tmp/babel -ipdbqt /tmp/ZINC05380704.pdbqt -omol -O /tmp/ZINC05380704.mol
+start to insert.
+data insert successfully.
+after modify the current is 98631
+ Running /tmp/babel -ipdbqt /tmp/ZINC71453757.pdbqt -omol -O /tmp/ZINC71453757.mol
+start to insert.
+data insert successfully.
+after modify the current is 98735
+ Running /tmp/babel -ipdbqt /tmp/ZINC62529388.pdbqt -omol -O /tmp/ZINC62529388.mol
+start to insert.
+data insert successfully.
+after modify the current is 98836
+ Running /tmp/babel -ipdbqt /tmp/ZINC39200655.pdbqt -omol -O /tmp/ZINC39200655.mol
+start to insert.
+data insert successfully.
+after modify the current is 98950
+ Running /tmp/babel -ipdbqt /tmp/ZINC02535192.pdbqt -omol -O /tmp/ZINC02535192.mol
+start to insert.
+data insert successfully.
+after modify the current is 99069
+ Running /tmp/babel -ipdbqt /tmp/ZINC83428430.pdbqt -omol -O /tmp/ZINC83428430.mol
+start to insert.
+data insert successfully.
+after modify the current is 99179
+ Running /tmp/babel -ipdbqt /tmp/ZINC34234395.pdbqt -omol -O /tmp/ZINC34234395.mol
+start to insert.
+data insert successfully.
+after modify the current is 99273
+ Running /tmp/babel -ipdbqt /tmp/ZINC76061557.pdbqt -omol -O /tmp/ZINC76061557.mol
+start to insert.
+data insert successfully.
+after modify the current is 99395
+ Running /tmp/babel -ipdbqt /tmp/ZINC33951155.pdbqt -omol -O /tmp/ZINC33951155.mol
+start to insert.
+data insert successfully.
+after modify the current is 99500
+ Running /tmp/babel -ipdbqt /tmp/ZINC66319023.pdbqt -omol -O /tmp/ZINC66319023.mol
+start to insert.
+data insert successfully.
+after modify the current is 99595
+ Running /tmp/babel -ipdbqt /tmp/ZINC32914773.pdbqt -omol -O /tmp/ZINC32914773.mol
+start to insert.
+data insert successfully.
+after modify the current is 99689
+ Running /tmp/babel -ipdbqt /tmp/ZINC02511148.pdbqt -omol -O /tmp/ZINC02511148.mol
+start to insert.
+data insert successfully.
+after modify the current is 99800
+ Running /tmp/babel -ipdbqt /tmp/ZINC71786720.pdbqt -omol -O /tmp/ZINC71786720.mol
+start to insert.
+data insert successfully.
+after modify the current is 99909
+ Running /tmp/babel -ipdbqt /tmp/ZINC33840117.pdbqt -omol -O /tmp/ZINC33840117.mol
+start to insert.
+data insert successfully.
+after modify the current is 100012

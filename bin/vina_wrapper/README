@@ -1,0 +1,2 @@
+./vina_wrapper $job_id $read_db $id_table $write_table $target 
+./vina_wrapper $job_id zinc_allPur_test $id_table $write_table 5f5w

@@ -1,0 +1,183 @@
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 624685104
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -9.2      0.000      0.000
+Writing output ... done.
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 387778028
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.9      0.000      0.000
+Writing output ... done.
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -549641351
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -6.8      0.000      0.000
+Writing output ... done.
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -1487527542
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.9      0.000      0.000
+Writing output ... done.
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -1878625528
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1          0.8      0.000      0.000
+Writing output ... done.
+10000
+before modify the current_id is 0
+after modify the current is 380
+ Running /HOME/nscc-gz_pinchen/compute/bin/vina --cpu 1                  --config /HOME/nscc-gz_pinchen/compute/data/5f5w/5f5w.txt --ligand /tmp/ZINC92189662.pdbqt                  --receptor /HOME/nscc-gz_pinchen/compute/data/5f5w/5f5w.pdbqt --out /tmp/ZINC92189662.out.pdbqt                  
+start to babel
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;/WORK/app/Openbabel/2.3.2-python/bin/obabel -ipdbqt /tmp/ZINC92189662.out.pdbqt -omol -O /tmp/ZINC92189662.mol;sed -i '1c ZINC92189662' /tmp/ZINC92189662.mol
+start to insert.
+data insert successfully.
+after modify the current is 1737
+ Running /HOME/nscc-gz_pinchen/compute/bin/vina --cpu 1                  --config /HOME/nscc-gz_pinchen/compute/data/5f5w/5f5w.txt --ligand /tmp/ZINC10325927.pdbqt                  --receptor /HOME/nscc-gz_pinchen/compute/data/5f5w/5f5w.pdbqt --out /tmp/ZINC10325927.out.pdbqt                  
+start to babel
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;/WORK/app/Openbabel/2.3.2-python/bin/obabel -ipdbqt /tmp/ZINC10325927.out.pdbqt -omol -O /tmp/ZINC10325927.mol;sed -i '1c ZINC10325927' /tmp/ZINC10325927.mol
+start to insert.
+data insert successfully.
+after modify the current is 3125
+ Running /HOME/nscc-gz_pinchen/compute/bin/vina --cpu 1                  --config /HOME/nscc-gz_pinchen/compute/data/5f5w/5f5w.txt --ligand /tmp/ZINC77928163.pdbqt                  --receptor /HOME/nscc-gz_pinchen/compute/data/5f5w/5f5w.pdbqt --out /tmp/ZINC77928163.out.pdbqt                  
+start to babel
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;/WORK/app/Openbabel/2.3.2-python/bin/obabel -ipdbqt /tmp/ZINC77928163.out.pdbqt -omol -O /tmp/ZINC77928163.mol;sed -i '1c ZINC77928163' /tmp/ZINC77928163.mol
+start to insert.
+data insert successfully.
+after modify the current is 5196
+ Running /HOME/nscc-gz_pinchen/compute/bin/vina --cpu 1                  --config /HOME/nscc-gz_pinchen/compute/data/5f5w/5f5w.txt --ligand /tmp/ZINC13146420.pdbqt                  --receptor /HOME/nscc-gz_pinchen/compute/data/5f5w/5f5w.pdbqt --out /tmp/ZINC13146420.out.pdbqt                  
+start to babel
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;/WORK/app/Openbabel/2.3.2-python/bin/obabel -ipdbqt /tmp/ZINC13146420.out.pdbqt -omol -O /tmp/ZINC13146420.mol;sed -i '1c ZINC13146420' /tmp/ZINC13146420.mol
+start to insert.
+data insert successfully.
+after modify the current is 7184
+ Running /HOME/nscc-gz_pinchen/compute/bin/vina --cpu 1                  --config /HOME/nscc-gz_pinchen/compute/data/5f5w/5f5w.txt --ligand /tmp/ZINC68604482.pdbqt                  --receptor /HOME/nscc-gz_pinchen/compute/data/5f5w/5f5w.pdbqt --out /tmp/ZINC68604482.out.pdbqt                  
+start to babel
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;/WORK/app/Openbabel/2.3.2-python/bin/obabel -ipdbqt /tmp/ZINC68604482.out.pdbqt -omol -O /tmp/ZINC68604482.mol;sed -i '1c ZINC68604482' /tmp/ZINC68604482.mol
+start to insert.
+data insert successfully.
+after modify the current is 11000

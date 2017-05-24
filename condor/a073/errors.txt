@@ -1,0 +1,2 @@
+Input file is not open yet
+read WEGA result error: score file is not open yet

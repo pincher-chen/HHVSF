@@ -1,0 +1,467 @@
+10000
+before modify the current_id is 0
+after modify the current is 781
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC09751445.pdbqt -omol -O /tmp/ZINC09751445.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 814
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC85879666.pdbqt -omol -O /tmp/ZINC85879666.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 844
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC02247781.pdbqt -omol -O /tmp/ZINC02247781.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 883
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC02191817.pdbqt -omol -O /tmp/ZINC02191817.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 930
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC12550769.pdbqt -omol -O /tmp/ZINC12550769.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 955
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC16732976.pdbqt -omol -O /tmp/ZINC16732976.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 998
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC72060358.pdbqt -omol -O /tmp/ZINC72060358.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1039
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC08854029.pdbqt -omol -O /tmp/ZINC08854029.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1075
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC13482806.pdbqt -omol -O /tmp/ZINC13482806.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1098
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC59309910.pdbqt -omol -O /tmp/ZINC59309910.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1147
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC03376345.pdbqt -omol -O /tmp/ZINC03376345.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1182
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC13978183.pdbqt -omol -O /tmp/ZINC13978183.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1217
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC33255755.pdbqt -omol -O /tmp/ZINC33255755.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1248
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC09948724.pdbqt -omol -O /tmp/ZINC09948724.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1304
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC08591696.pdbqt -omol -O /tmp/ZINC08591696.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1341
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC72401966.pdbqt -omol -O /tmp/ZINC72401966.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1384
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC13343555.pdbqt -omol -O /tmp/ZINC13343555.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1434
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC00878924.pdbqt -omol -O /tmp/ZINC00878924.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1475
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC21143793.pdbqt -omol -O /tmp/ZINC21143793.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1535
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC06148908.pdbqt -omol -O /tmp/ZINC06148908.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1587
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC22709887.pdbqt -omol -O /tmp/ZINC22709887.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1636
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC12531832.pdbqt -omol -O /tmp/ZINC12531832.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1697
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC00841621.pdbqt -omol -O /tmp/ZINC00841621.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1750
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC59117231.pdbqt -omol -O /tmp/ZINC59117231.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1784
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC05413930.pdbqt -omol -O /tmp/ZINC05413930.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1834
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC57487180.pdbqt -omol -O /tmp/ZINC57487180.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1900
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC35690892.pdbqt -omol -O /tmp/ZINC35690892.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1956
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC03659322.pdbqt -omol -O /tmp/ZINC03659322.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 1989
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC14655907.pdbqt -omol -O /tmp/ZINC14655907.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2048
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC19531171.pdbqt -omol -O /tmp/ZINC19531171.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2124
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC68278046.pdbqt -omol -O /tmp/ZINC68278046.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2196
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC02191722.pdbqt -omol -O /tmp/ZINC02191722.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2256
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC46795704.pdbqt -omol -O /tmp/ZINC46795704.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2322
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC19449982.pdbqt -omol -O /tmp/ZINC19449982.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2397
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC21540622.pdbqt -omol -O /tmp/ZINC21540622.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2446
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC92534269.pdbqt -omol -O /tmp/ZINC92534269.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2509
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC63739546.pdbqt -omol -O /tmp/ZINC63739546.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2578
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC13152201.pdbqt -omol -O /tmp/ZINC13152201.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2678
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC93535239.pdbqt -omol -O /tmp/ZINC93535239.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2750
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC41007304.pdbqt -omol -O /tmp/ZINC41007304.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2807
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC90612585.pdbqt -omol -O /tmp/ZINC90612585.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2879
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC18202128.pdbqt -omol -O /tmp/ZINC18202128.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 2947
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC17081566.pdbqt -omol -O /tmp/ZINC17081566.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3013
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC54888038.pdbqt -omol -O /tmp/ZINC54888038.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3082
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC40441767.pdbqt -omol -O /tmp/ZINC40441767.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3170
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC38598612.pdbqt -omol -O /tmp/ZINC38598612.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3240
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC55695636.pdbqt -omol -O /tmp/ZINC55695636.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3323
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC57486388.pdbqt -omol -O /tmp/ZINC57486388.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3402
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC09311681.pdbqt -omol -O /tmp/ZINC09311681.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3497
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC16490371.pdbqt -omol -O /tmp/ZINC16490371.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3569
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC96000395.pdbqt -omol -O /tmp/ZINC96000395.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3642
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC92221119.pdbqt -omol -O /tmp/ZINC92221119.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3701
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC03379202.pdbqt -omol -O /tmp/ZINC03379202.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3766
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC01496437.pdbqt -omol -O /tmp/ZINC01496437.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3849
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC19840405.pdbqt -omol -O /tmp/ZINC19840405.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 3930
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC76387527.pdbqt -omol -O /tmp/ZINC76387527.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 4017
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC77505537.pdbqt -omol -O /tmp/ZINC77505537.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 4109
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC93272400.pdbqt -omol -O /tmp/ZINC93272400.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 4223
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC55061155.pdbqt -omol -O /tmp/ZINC55061155.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 4340
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC53667289.pdbqt -omol -O /tmp/ZINC53667289.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 4444
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC82092691.pdbqt -omol -O /tmp/ZINC82092691.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 4546
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC72420426.pdbqt -omol -O /tmp/ZINC72420426.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 4666
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC71794905.pdbqt -omol -O /tmp/ZINC71794905.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 4785
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC83328521.pdbqt -omol -O /tmp/ZINC83328521.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 4932
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC68833693.pdbqt -omol -O /tmp/ZINC68833693.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 5019
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC39735306.pdbqt -omol -O /tmp/ZINC39735306.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 5141
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC06777480.pdbqt -omol -O /tmp/ZINC06777480.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 5265
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC64966974.pdbqt -omol -O /tmp/ZINC64966974.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 5371
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC72337077.pdbqt -omol -O /tmp/ZINC72337077.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 5492
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC08589996.pdbqt -omol -O /tmp/ZINC08589996.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 5620
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC00423643.pdbqt -omol -O /tmp/ZINC00423643.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 5716
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC19851608.pdbqt -omol -O /tmp/ZINC19851608.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 5818
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC88536504.pdbqt -omol -O /tmp/ZINC88536504.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 5927
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC56129412.pdbqt -omol -O /tmp/ZINC56129412.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 6029
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC24968438.pdbqt -omol -O /tmp/ZINC24968438.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 6140
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC76093878.pdbqt -omol -O /tmp/ZINC76093878.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 6263
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC91445262.pdbqt -omol -O /tmp/ZINC91445262.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 6365
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC75121496.pdbqt -omol -O /tmp/ZINC75121496.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 6514
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC64818604.pdbqt -omol -O /tmp/ZINC64818604.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 6615
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC55633722.pdbqt -omol -O /tmp/ZINC55633722.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 6743
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC87026337.pdbqt -omol -O /tmp/ZINC87026337.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 6813
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC92789142.pdbqt -omol -O /tmp/ZINC92789142.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 6901
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC97634958.pdbqt -omol -O /tmp/ZINC97634958.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 6975
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC75771555.pdbqt -omol -O /tmp/ZINC75771555.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7009
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC72290638.pdbqt -omol -O /tmp/ZINC72290638.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7069
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC93393666.pdbqt -omol -O /tmp/ZINC93393666.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7115
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC78527557.pdbqt -omol -O /tmp/ZINC78527557.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7156
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC03462107.pdbqt -omol -O /tmp/ZINC03462107.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7214
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC47221969.pdbqt -omol -O /tmp/ZINC47221969.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7266
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC18086550.pdbqt -omol -O /tmp/ZINC18086550.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7333
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC05210846.pdbqt -omol -O /tmp/ZINC05210846.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7385
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC73206863.pdbqt -omol -O /tmp/ZINC73206863.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7440
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC97111869.pdbqt -omol -O /tmp/ZINC97111869.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7494
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC90655652.pdbqt -omol -O /tmp/ZINC90655652.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7538
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC65590915.pdbqt -omol -O /tmp/ZINC65590915.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7588
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC51410121.pdbqt -omol -O /tmp/ZINC51410121.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7659
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC06731602.pdbqt -omol -O /tmp/ZINC06731602.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7692
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC03457469.pdbqt -omol -O /tmp/ZINC03457469.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7753
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC89839267.pdbqt -omol -O /tmp/ZINC89839267.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 7792
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC95408045.pdbqt -omol -O /tmp/ZINC95408045.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 8353
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC57824723.pdbqt -omol -O /tmp/ZINC57824723.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 8436
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC04366296.pdbqt -omol -O /tmp/ZINC04366296.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 8535
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC97159430.pdbqt -omol -O /tmp/ZINC97159430.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 8659
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC44726251.pdbqt -omol -O /tmp/ZINC44726251.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 8731
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC14336829.pdbqt -omol -O /tmp/ZINC14336829.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 8868
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC93558046.pdbqt -omol -O /tmp/ZINC93558046.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 8978
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC03921800.pdbqt -omol -O /tmp/ZINC03921800.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 9083
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC13713138.pdbqt -omol -O /tmp/ZINC13713138.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 9191
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC95829722.pdbqt -omol -O /tmp/ZINC95829722.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 9342
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC76512231.pdbqt -omol -O /tmp/ZINC76512231.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 9457
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC51451366.pdbqt -omol -O /tmp/ZINC51451366.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 9548
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC21990221.pdbqt -omol -O /tmp/ZINC21990221.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 9674
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC52453288.pdbqt -omol -O /tmp/ZINC52453288.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 9795
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC40354880.pdbqt -omol -O /tmp/ZINC40354880.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 9847
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC59613912.pdbqt -omol -O /tmp/ZINC59613912.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 9949
+ Running source /WORK/app/Openbabel/2.3.2-python/bin/env.sh;obabel -ipdbqt /tmp/ZINC39936946.pdbqt -omol -O /tmp/ZINC39936946.out.pdbqt
+start to insert.
+data insert successfully.
+after modify the current is 10082

@@ -1,0 +1,3 @@
+#./run_test.sh 1001 zinc_conformer ~/sf_install/wega/oneQuery.sd
+./wega_wrapper 1004 zinc_conformer zinc_1004  ~/sf_install/wega/oneQuery.sd  zinc_conformer
+./wega_wrapper 1004 zinc_conformer zinc_1004 zinc_conformer_10004  ~/sf_install/wega/oneQuery.sd

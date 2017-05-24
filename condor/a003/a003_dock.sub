@@ -1,0 +1,11 @@
+DOCK_ROOT 	      = /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper
+universe                = vanilla 
+executable              = $(DOCK_ROOT)/vina_dock_time
+arguments               = "a003 zinc_Pur1w zinc_a003 zinc_Pur1w_a003 5f5w"
+log                     = /HOME/nscc-gz_pinchen/compute/condor/a003/dock.log 
+output                  = /HOME/nscc-gz_pinchen/compute/condor/a003/output.txt
+error                   = /HOME/nscc-gz_pinchen/compute/condor/a003/errors.txt
+should_transfer_files   = IF_NEEDED
+when_to_transfer_output = ON_EXIT
+environment             = "LD_LIBRARY_PATH=/HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib:/HOME/nscc-gz_pinchen/sf_install/mongo-c-driver/lib:/WORK/app/Python/2.7.9-fPIC/lib:/WORK/app/Openbabel/2.3.2-python/lib:/HOME/nscc-gz_pinchen/sf_install/mayachemtools/lib:/HOME/nscc-gz_pinchen/sf_box/pegasus-4.6.2/lib64:/HOME/nscc-gz_pinchen/bin/LicensePack/linux/lib::/lib64:/lib:/usr/lib:/usr/lib64"  
+queue 1000

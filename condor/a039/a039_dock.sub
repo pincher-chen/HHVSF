@@ -1,0 +1,11 @@
+DOCK_ROOT 	      = /HOME/nscc-gz_pinchen/compute/bin/vina_wrapper
+universe                = vanilla 
+executable              = $(DOCK_ROOT)/vina_dock
+arguments               = "a039 zinc_Pur1000w_sort_heavy zinc_a039 zinc_Pur1000w_sort_heavy_a039 5f5w"
+log                     = /HOME/nscc-gz_pinchen/compute/condor/a039/dock.log 
+output                  = /HOME/nscc-gz_pinchen/compute/condor/a039/output.txt
+error                   = /HOME/nscc-gz_pinchen/compute/condor/a039/errors.txt
+should_transfer_files   = IF_NEEDED
+when_to_transfer_output = ON_EXIT
+environment             = "LD_LIBRARY_PATH=/HOME/nscc-gz_pinchen/compute/bin/vina_wrapper/lib:/WORK/app/Openbabel/2.3.2-python/lib:$LD_LIBRARY_PATH"  
+queue 16000

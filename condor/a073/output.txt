@@ -1,0 +1,9 @@
+1	1	1	0.5	2	2	2	1	1	0.5	1	1	1	0.5	2	2	2	1	1	0.5	SO1: 1
+SO2: 0
+equalR: 1
+HA: 1
+usePreScreen: 0
+a073 zinc_conf_test zinc_a073 zinc_conf_test_a073
+before modify the current_id is 0
+after modify the current is 99
+ Running /HOME/nscc-gz_pinchen/sf_install/wega/wega.exe                  -sd /tmp/6_p0-3Part854.sdf -qsd /HOME/nscc-gz_pinchen/sf_install/wega/oneQuery.sd -M 2 -TN 100 -CC true -outsd /tmp/6_p0-3Part854.sdf_out.sd                  

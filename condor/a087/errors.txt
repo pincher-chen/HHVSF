@@ -1,0 +1,157 @@
+H‰Ãd‹%
+*** glibc detected *** condor_exec.exe: double free or corruption (out): 0x000000392120dff0 ***
+======= Backtrace: =========
+/HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libc.so.6[0x367f875e66]
+/HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libc.so.6[0x367f8789b3]
+condor_exec.exe[0x4026e6]
+/HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libc.so.6(__libc_start_main+0xfd)[0x367f81ed5d]
+condor_exec.exe[0x402279]
+======= Memory map: ========
+00400000-00407000 r-xp 00000000 7ee:4338 144129657602582833              /WORK/app/condor/work/cn9411/local.cn9411/execute/dir_24216/condor_exec.exe
+00606000-00607000 rw-p 00006000 7ee:4338 144129657602582833              /WORK/app/condor/work/cn9411/local.cn9411/execute/dir_24216/condor_exec.exe
+006f5000-0073e000 rw-p 00000000 00:00 0                                  [heap]
+367f800000-367f98a000 r-xp 00000000 1d8:db410 144122096648207856         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libc.so.6
+367f98a000-367fb8a000 ---p 0018a000 1d8:db410 144122096648207856         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libc.so.6
+367fb8a000-367fb8e000 r--p 0018a000 1d8:db410 144122096648207856         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libc.so.6
+367fb8e000-367fb8f000 rw-p 0018e000 1d8:db410 144122096648207856         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libc.so.6
+367fb8f000-367fb94000 rw-p 00000000 00:00 0 
+367fc00000-367fc02000 r-xp 00000000 1d8:db410 144122096648207861         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libdl.so.2
+367fc02000-367fe02000 ---p 00002000 1d8:db410 144122096648207861         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libdl.so.2
+367fe02000-367fe03000 r--p 00002000 1d8:db410 144122096648207861         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libdl.so.2
+367fe03000-367fe04000 rw-p 00003000 1d8:db410 144122096648207861         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libdl.so.2
+3680000000-3680017000 r-xp 00000000 1d8:db410 144122096648207857         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libpthread.so.0
+3680017000-3680217000 ---p 00017000 1d8:db410 144122096648207857         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libpthread.so.0
+3680217000-3680218000 r--p 00017000 1d8:db410 144122096648207857         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libpthread.so.0
+3680218000-3680219000 rw-p 00018000 1d8:db410 144122096648207857         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libpthread.so.0
+3680219000-368021d000 rw-p 00000000 00:00 0 
+3680400000-3680483000 r-xp 00000000 1d8:db410 144122096648207854         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libm.so.6
+3680483000-3680682000 ---p 00083000 1d8:db410 144122096648207854         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libm.so.6
+3680682000-3680683000 r--p 00082000 1d8:db410 144122096648207854         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libm.so.6
+3680683000-3680684000 rw-p 00083000 1d8:db410 144122096648207854         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libm.so.6
+3680800000-3680815000 r-xp 00000000 1d8:db410 144122096648207868         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libz.so.1
+3680815000-3680a14000 ---p 00015000 1d8:db410 144122096648207868         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libz.so.1
+3680a14000-3680a15000 r--p 00014000 1d8:db410 144122096648207868         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libz.so.1
+3680a15000-3680a16000 rw-p 00015000 1d8:db410 144122096648207868         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libz.so.1
+3680c00000-3680c07000 r-xp 00000000 1d8:db410 144122096648207858         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/librt.so.1
+3680c07000-3680e06000 ---p 00007000 1d8:db410 144122096648207858         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/librt.so.1
+3680e06000-3680e07000 r--p 00006000 1d8:db410 144122096648207858         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/librt.so.1
+3680e07000-3680e08000 rw-p 00007000 1d8:db410 144122096648207858         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/librt.so.1
+3681000000-368101d000 r-xp 00000000 1d8:db410 144122096648207872         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libselinux.so.1
+368101d000-368121c000 ---p 0001d000 1d8:db410 144122096648207872         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libselinux.so.1
+368121c000-368121d000 r--p 0001c000 1d8:db410 144122096648207872         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libselinux.so.1
+368121d000-368121e000 rw-p 0001d000 1d8:db410 144122096648207872         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libselinux.so.1
+368121e000-368121f000 rw-p 00000000 00:00 0 
+3681400000-3681416000 r-xp 00000000 1d8:db410 144122096648207862         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libresolv.so.2
+3681416000-3681616000 ---p 00016000 1d8:db410 144122096648207862         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libresolv.so.2
+3681616000-3681617000 r--p 00016000 1d8:db410 144122096648207862         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libresolv.so.2
+3681617000-3681618000 rw-p 00017000 1d8:db410 144122096648207862         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libresolv.so.2
+3681618000-368161a000 rw-p 00000000 00:00 0 
+3684c00000-3684c16000 r-xp 00000000 1d8:db410 144122096648207855         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libgcc_s.so.1
+3684c16000-3684e15000 ---p 00016000 1d8:db410 144122096648207855         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libgcc_s.so.1
+3684e15000-3684e16000 rw-p 00015000 1d8:db410 144122096648207855         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libgcc_s.so.1
+3686400000-3686402000 r-xp 00000000 1d8:db410 144122096648207871         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkeyutils.so.1
+3686402000-3686601000 ---p 00002000 1d8:db410 144122096648207871         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkeyutils.so.1
+3686601000-3686602000 r--p 00001000 1d8:db410 144122096648207871         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkeyutils.so.1
+3686602000-3686603000 rw-p 00002000 1d8:db410 144122096648207871         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkeyutils.so.1
+3686800000-36869b5000 r-xp 00000000 1d8:db410 144122096648207860         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcrypto.so.10
+36869b5000-3686bb4000 ---p 001b5000 1d8:db410 144122096648207860         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcrypto.so.10
+3686bb4000-3686bcf000 r--p 001b4000 1d8:db410 144122096648207860         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcrypto.so.10
+3686bcf000-3686bdb000 rw-p 001cf000 1d8:db410 144122096648207860         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcrypto.so.10
+3686bdb000-3686bdf000 rw-p 00000000 00:00 0 
+3686c00000-3686ce8000 r-xp 00000000 1d8:db410 144122096648207853         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libstdc++.so.6
+3686ce8000-3686ee8000 ---p 000e8000 1d8:db410 144122096648207853         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libstdc++.so.6
+3686ee8000-3686eef000 r--p 000e8000 1d8:db410 144122096648207853         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libstdc++.so.6
+3686eef000-3686ef1000 rw-p 000ef000 1d8:db410 144122096648207853         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libstdc++.so.6
+3686ef1000-3686f06000 rw-p 00000000 00:00 0 
+3687000000-3687003000 r-xp 00000000 1d8:db410 144122096648207866         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcom_err.so.2
+3687003000-3687202000 ---p 00003000 1d8:db410 144122096648207866         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcom_err.so.2
+3687202000-3687203000 r--p 00002000 1d8:db410 144122096648207866         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcom_err.so.2
+3687203000-3687204000 rw-p 00003000 1d8:db410 144122096648207866         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcom_err.so.2
+3687400000-36874db000 r-xp 00000000 1d8:db410 144122096648207865         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkrb5.so.3
+36874db000-36876da000 ---p 000db000 1d8:db410 144122096648207865         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkrb5.so.3
+36876da000-36876e4000 r--p 000da000 1d8:db410 144122096648207865         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkrb5.so.3
+36876e4000-36876e6000 rw-p 000e4000 1d8:db410 144122096648207865         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkrb5.so.3
+3687800000-368780a000 r-xp 00000000 1d8:db410 144122096648207870         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkrb5support.so.0
+368780a000-3687a09000 ---p 0000a000 1d8:db410 144122096648207870         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkrb5support.so.0
+3687a09000-3687a0a000 r--p 00009000 1d8:db410 144122096648207870         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkrb5support.so.0
+3687a0a000-3687a0b000 rw-p 0000a000 1d8:db410 144122096648207870         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libkrb5support.so.0
+3687c00000-3687c29000 r-xp 00000000 1d8:db410 144122096648207867         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libk5crypto.so.3
+3687c29000-3687e29000 ---p 00029000 1d8:db410 144122096648207867         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libk5crypto.so.3
+3687e29000-3687e2a000 r--p 00029000 1d8:db410 144122096648207867         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libk5crypto.so.3
+3687e2a000-3687e2b000 rw-p 0002a000 1d8:db410 144122096648207867         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libk5crypto.so.3
+3687e2b000-3687e2c000 rw-p 00000000 00:00 0 
+3688000000-3688041000 r-xp 00000000 1d8:db410 144122096648207864         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libgssapi_krb5.so.2
+3688041000-3688241000 ---p 00041000 1d8:db410 144122096648207864         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libgssapi_krb5.so.2
+3688241000-3688242000 r--p 00041000 1d8:db410 144122096648207864         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libgssapi_krb5.so.2
+3688242000-3688244000 rw-p 00042000 1d8:db410 144122096648207864         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libgssapi_krb5.so.2
+3688800000-3688861000 r-xp 00000000 1d8:db410 144122096648207859         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libssl.so.10
+3688861000-3688a60000 ---p 00061000 1d8:db410 144122096648207859         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libssl.so.10
+3688a60000-3688a64000 r--p 00060000 1d8:db410 144122096648207859         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libssl.so.10
+3688a64000-3688a6b000 rw-p 00064000 1d8:db410 144122096648207859         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libssl.so.10
+368d400000-368d471000 r-xp 00000000 1d8:db410 144122096648207869         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libfreebl3.so
+368d471000-368d670000 ---p 00071000 1d8:db410 144122096648207869         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libfreebl3.so
+368d670000-368d672000 r--p 00070000 1d8:db410 144122096648207869         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libfreebl3.so
+368d672000-368d673000 rw-p 00072000 1d8:db410 144122096648207869         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libfreebl3.so
+368d673000-368d677000 rw-p 00000000 00:00 0 
+368d800000-368d807000 r-xp 00000000 1d8:db410 144122096648207863         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcrypt.so.1
+368d807000-368da07000 ---p 00007000 1d8:db410 144122096648207863         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcrypt.so.1
+368da07000-368da08000 r--p 00007000 1d8:db410 144122096648207863         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcrypt.so.1
+368da08000-368da09000 rw-p 00008000 1d8:db410 144122096648207863         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libcrypt.so.1
+368da09000-368da37000 rw-p 00000000 00:00 0 
+3693400000-3693419000 r-xp 00000000 1d8:db410 144122096648207852         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libsasl2.so.2
+3693419000-3693618000 ---p 00019000 1d8:db410 144122096648207852         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libsasl2.so.2
+3693618000-3693619000 r--p 00018000 1d8:db410 144122096648207852         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libsasl2.so.2
+3693619000-369361a000 rw-p 00019000 1d8:db410 144122096648207852         /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libsasl2.so.2
+3921200000-3921220000 r-xp 00000000 00:0e 26965                          /lib64/ld-2.12.so
+392141f000-3921420000 r--p 0001f000 00:0e 26965                          /lib64/ld-2.12.so
+3921420000-3921421000 rw-p 00020000 00:0e 26965                          /lib64/ld-2.12.so
+3921421000-3921422000 rw-p 00000000 00:00 0 
+392ba00000-392bb6f000 r-xp 00000000 00:0e 27167                          /lib64/libdb-4.7.so
+392bb6f000-392bd6e000 ---p 0016f000 00:0e 27167                          /lib64/libdb-4.7.so
+392bd6e000-392bd74000 rw-p 0016e000 00:0e 27167                          /lib64/libdb-4.7.so
+2b0070d58000-2b0070d59000 rw-p 00000000 00:00 0 
+2b0070d59000-2b0070d81000 r-xp 00000000 1d8:db410 144122096648207850     /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libbson-1.0.so.0
+2b0070d81000-2b0070f81000 ---p 00028000 1d8:db410 144122096648207850     /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libbson-1.0.so.0
+2b0070f81000-2b0070f84000 rw-p 00028000 1d8:db410 144122096648207850     /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libbson-1.0.so.0
+2b0070f84000-2b0070f8b000 rw-p 00000000 00:00 0 
+2b0070f8b000-2b0070fda000 r-xp 00000000 1d8:db410 144122096648207851     /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libmongoc-1.0.so.0
+2b0070fda000-2b00711d9000 ---p 0004f000 1d8:db410 144122096648207851     /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libmongoc-1.0.so.0
+2b00711d9000-2b00711db000 rw-p 0004e000 1d8:db410 144122096648207851     /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib/libmongoc-1.0.so.0
+2b00711db000-2b00711e7000 rw-p 00000000 00:00 0 
+2b00711e7000-2b00711ee000 r-xp 00000000 00:0e 33578                      /usr/lib64/sasl2/libgssapiv2.so.2.0.23
+2b00711ee000-2b00713ed000 ---p 00007000 00:0e 33578                      /usr/lib64/sasl2/libgssapiv2.so.2.0.23
+2b00713ed000-2b00713ee000 r--p 00006000 00:0e 33578                      /usr/lib64/sasl2/libgssapiv2.so.2.0.23
+2b00713ee000-2b00713ef000 rw-p 00007000 00:0e 33578                      /usr/lib64/sasl2/libgssapiv2.so.2.0.23
+2b00713ef000-2b00713f3000 r-xp 00000000 00:0e 33583                      /usr/lib64/sasl2/libcrammd5.so.2.0.23
+2b00713f3000-2b00715f3000 ---p 00004000 00:0e 33583                      /usr/lib64/sasl2/libcrammd5.so.2.0.23
+2b00715f3000-2b00715f4000 r--p 00004000 00:0e 33583                      /usr/lib64/sasl2/libcrammd5.so.2.0.23
+2b00715f4000-2b00715f5000 rw-p 00005000 00:0e 33583                      /usr/lib64/sasl2/libcrammd5.so.2.0.23
+2b00715f5000-2b0071601000 r-xp 00000000 00:0e 33580                      /usr/lib64/sasl2/libdigestmd5.so.2.0.23
+2b0071601000-2b0071800000 ---p 0000c000 00:0e 33580                      /usr/lib64/sasl2/libdigestmd5.so.2.0.23
+2b0071800000-2b0071801000 r--p 0000b000 00:0e 33580                      /usr/lib64/sasl2/libdigestmd5.so.2.0.23
+2b0071801000-2b0071802000 rw-p 0000c000 00:0e 33580                      /usr/lib64/sasl2/libdigestmd5.so.2.0.23
+2b0071802000-2b0071807000 r-xp 00000000 00:0e 33587                      /usr/lib64/sasl2/libsasldb.so.2.0.23
+2b0071807000-2b0071a06000 ---p 00005000 00:0e 33587                      /usr/lib64/sasl2/libsasldb.so.2.0.23
+2b0071a06000-2b0071a07000 r--p 00004000 00:0e 33587                      /usr/lib64/sasl2/libsasldb.so.2.0.23
+2b0071a07000-2b0071a08000 rw-p 00005000 00:0e 33587                      /usr/lib64/sasl2/libsasldb.so.2.0.23
+2b0071a08000-2b0071a0c000 r-xp 00000000 00:0e 33581                      /usr/lib64/sasl2/liblogin.so.2.0.23
+2b0071a0c000-2b0071c0b000 ---p 00004000 00:0e 33581                      /usr/lib64/sasl2/liblogin.so.2.0.23
+2b0071c0b000-2b0071c0c000 r--p 00003000 00:0e 33581                      /usr/lib64/sasl2/liblogin.so.2.0.23
+2b0071c0c000-2b0071c0d000 rw-p 00004000 00:0e 33581                      /usr/lib64/sasl2/liblogin.so.2.0.23
+2b0071c0d000-2b0071c11000 r-xp 00000000 00:0e 33593                      /usr/lib64/sasl2/libanonymous.so.2.0.23
+2b0071c11000-2b0071e10000 ---p 00004000 00:0e 33593                      /usr/lib64/sasl2/libanonymous.so.2.0.23
+2b0071e10000-2b0071e11000 r--p 00003000 00:0e 33593                      /usr/lib64/sasl2/libanonymous.so.2.0.23
+2b0071e11000-2b0071e12000 rw-p 00004000 00:0e 33593                      /usr/lib64/sasl2/libanonymous.so.2.0.23
+2b0071e12000-2b0071e16000 r-xp 00000000 00:0e 33575                      /usr/lib64/sasl2/libplain.so.2.0.23
+2b0071e16000-2b0072015000 ---p 00004000 00:0e 33575                      /usr/lib64/sasl2/libplain.so.2.0.23
+2b0072015000-2b0072016000 r--p 00003000 00:0e 33575                      /usr/lib64/sasl2/libplain.so.2.0.23
+2b0072016000-2b0072017000 rw-p 00004000 00:0e 33575                      /usr/lib64/sasl2/libplain.so.2.0.23
+2b0072017000-2b007201a000 rw-s 00000000 00:05 2051623                    /dev/shm/mongoc-25103
+2b007201a000-2b007241b000 rw-p 00000000 00:00 0 
+2b0072450000-2b007245c000 r-xp 00000000 00:0e 27099                      /lib64/libnss_files-2.12.so
+2b007245c000-2b007265c000 ---p 0000c000 00:0e 27099                      /lib64/libnss_files-2.12.so
+2b007265c000-2b007265d000 r--p 0000c000 00:0e 27099                      /lib64/libnss_files-2.12.so
+2b007265d000-2b007265e000 rw-p 0000d000 00:0e 27099                      /lib64/libnss_files-2.12.so
+7fffc1a99000-7fffc1aae000 rw-p 00000000 00:00 0                          [stack]
+7fffc1bd9000-7fffc1bda000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]

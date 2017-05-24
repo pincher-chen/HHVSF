@@ -1,0 +1,3 @@
+a090 zinc_conformer_all zinc_a090 zinc_conformer_all_a090
+before modify the current_id is 0
+after modify the current is 99716

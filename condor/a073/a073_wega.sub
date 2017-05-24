@@ -1,0 +1,11 @@
+WEGA_ROOT 	      = /HOME/nscc-gz_pinchen/compute/bin/wega_wrapper 
+universe                = vanilla 
+executable              = $(WEGA_ROOT)/wega_wrapper
+arguments               = "a073 zinc_conf_test zinc_a073 zinc_conf_test_a073 oneQuery.sd"
+log                     = /HOME/nscc-gz_pinchen/compute/condor/a073/dock.log 
+output                  = /HOME/nscc-gz_pinchen/compute/condor/a073/output.txt
+error                   = /HOME/nscc-gz_pinchen/compute/condor/a073/errors.txt
+should_transfer_files   = IF_NEEDED
+when_to_transfer_output = ON_EXIT
+environment             = "LD_LIBRARY_PATH=/HOME/nscc-gz_pinchen/compute/bin/wega_wrapper/lib:$LD_LIBRARY_PATH"  
+queue 100
