@@ -7,6 +7,6 @@ $run_*_job.sh argumen1 argument2 argument3 argument4
 + argument3 database
 + argument4 core number
 ## For example
-./run_vina_job.sh a002 5f5w zinc_Pur1000w_sort_heavy 500 <br />
-./run_wega_job.sh a072 oneQuery.sd zinc_conformer_100w 100
+run_vina_job.sh a002 5f5w zinc_Pur1000w_sort_heavy 500 <br />
+run_wega_job.sh a072 oneQuery.sd zinc_conformer_100w 100
 
