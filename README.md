@@ -4,7 +4,7 @@ High-performance High-throughput Virtual Screening Framework (HHVSF) is a genera
 $run_*_job.sh argument_1 argument_2 argument_3 argument_4
 + argument_1: job id
 + argument_2: target name or query ligand
-+ argument_3: database
++ argument_3: database name
 + argument_4: core number
 ## Command example
 run_vina_job.sh a002 5f5w zinc_Pur1000w_sort_heavy 500 <br />
