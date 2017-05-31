@@ -22,7 +22,7 @@ $ tree -d
 |   |-- a005
 |   |-- a007
 ...........
-|-- data                 # data for screening, for targets or querying ligands.
+|-- data                 # data for screening, for example, targets or querying ligands.
 |   |-- 2j3m
 |   |-- 5f5w
 |   `-- screenshots
