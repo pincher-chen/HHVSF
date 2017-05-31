@@ -14,7 +14,7 @@ Before you set up a Condor pool, you need to know the three different roles a ma
 + Execute machine -- Any machine (including the central manager) configured to execute jobs submitted to the pool.
 + Submit machine -- Any machine (including the central manager) configure to submit jobs to the pool.
 
-###  1.1.1 Set up a Central manger and submit machine
+###  1.1.1 Set up a central manger and submit machine
 ```
 $ export HOSTNAME=cn16376.12.10.133.152.com
 $ ./condor_install --prefix=~/sf_install/condor-5/8.5.7-mangager_submit --type=manager,submit --verbose 
