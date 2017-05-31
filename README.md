@@ -7,7 +7,53 @@ The following is the the hardwares and relevant operations in HHVSF:
 
 # How to compile
 ## For HTCondor
-Multi-level scheduling method is used to maintain the computing resources.The first level scheduler applies for a number of resources to the second level for task distribution. The second level scheduler can refine the computing resources and then distributes the tasks. Here, we choose HTCondor as the second level scheduler, and We configure the HTCondor with one core per slot to provide more flexible task scheduling
+Multi-level scheduling method is used to maintain the computing resources.The first level scheduler applies for a number of resources to the second level for task distribution. The second level scheduler can refine the computing resources and then distributes the tasks. Here, we choose HTCondor as the second level scheduler, and We configure the HTCondor with one core per slot to provide more flexible task scheduling.
+
+Before you set up a Condor pool, you need to know the three different roles a machine can play in a your pool:
++ Central manager -- The central manager collects information about the resources available to the pool, and negotiates between a machine that is submitting a job and the machine that will execute the job. Only one machine in a pool can play this role.
++ Execute machine -- Any machine (including the central manager) configured to execute jobs submitted to the pool.
++ Submit machine -- Any machine (including the central manager) configure to submit jobs to the pool.
+
+###  Set up a Central manger and submit machine
+```
+$ export HOSTNAME=cn16376.12.10.133.152.com
+$ ./condor_install --prefix=~/sf_install/condor-5/8.5.7-mangager_submit --type=manager,submit --verbose 
+$ source ~/sf_install/condor-5/8.5.7-mangager_submit/condor.sh
+ 
+# etc/condor_config is default setting.
+ 
+$ cat local.cn16374/condor_config.local 
+FLOCK_FROM = cn16375,cn16376
+ALLOW_WRITE = cn16374, 12.10.133.150
+ 
+$ condor_master
+```
+
+### set up serval execute manchines
+We take cn16375 and cn16376 for examples.
+```
+$ export HOSTNAME=cn16377.12.10.133.153.com
+$ ./condor_install --prefix=~/sf_install/condor-5/8.5.7-execute --type=execute --central-manager=cn16374 --verbose 
+$  source ~/sf_install/condor-5/8.5.7-execute/condor.sh
+ 
+ 
+$ cat local.cn16375/condor_config.local 
+ 
+ALLOW_WRITE = cn16374, 12.10.133.150
+FLOCK_TO = cn16374
+$ export HOSTNAME=cn16376.12.10.133.152.com 
+$ ./condor_install --prefix=/HOME/nscc-gz_pinchen/sf_install/condor-5/8.5.7-execute-1 --type=execute --central-manager=cn16374 --verbose 
+$ source /HOME/nscc-gz_pinchen/sf_install/condor-5/8.5.7-execute-1/condor.sh
+ 
+ 
+$ cat local.cn16376/condor_config.local 
+ 
+ALLOW_WRITE = cn16374, 12.10.133.150
+FLOCK_TO = cn16374
+```
+
+
+
 
 ## For MongoDB
 MongoDB is used as the data repository engine. "Sharding" mothod is used for distributing data across multiple machines to support deployments with very large data sets and high throughput operations. The zinc_ligand_1 ~ 5 databases are prepared for Audock_vina, and the zinc_ligand_2 ~ 5 databases were extracted from zinc_ligand_1 in accordance with a certain proportion. The zinc_conformer_1~2 databases are prepared for WEGA, and the zinc_conformer_2 are extracted from zinc_conformer_1 randomly.
