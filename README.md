@@ -5,11 +5,11 @@ The following is the the hardwares and relevant operations in HHVSF:
 
 <img src="https://github.com/pincher-chen/HHVSF/blob/master/data/screenshots/picture.png" width="70%" />
 
-# Code structure
+# 1. Code structure
 ```
 $ tree -d
 .
-|-- bin                  # precompiled executes (for example vina, wega) and source code executes (for example vina_wrapper,                                        wega_wrapper).
+|-- bin                  # precompiled executes (for example vina, wega) and source code executes (for example vina_wrapper,       wega_wrapper).
 |   |-- vina_wrapper
 |   |   `-- lib
 |   `-- wega_wrapper
@@ -41,8 +41,8 @@ $ tree -d
         `-- zinc_conformer_2
 ```
 
-# 1 How to compile
-## 1.1 For HTCondor
+# 2. How to compile
+## 2.1 For HTCondor
 Multi-level scheduling method is used to maintain the computing resources.The first level scheduler applies for a number of resources to the second level for task distribution. The second level scheduler can refine the computing resources and then distributes the tasks. Here, we choose HTCondor as the second level scheduler, and We configure the HTCondor with one core per slot to provide more flexible task scheduling.
 
 Before you set up a Condor pool, you need to know the three different roles a machine can play in a your pool:
@@ -50,7 +50,7 @@ Before you set up a Condor pool, you need to know the three different roles a ma
 + Execute machine -- Any machine (including the central manager) configured to execute jobs submitted to the pool.
 + Submit machine -- Any machine (including the central manager) configure to submit jobs to the pool.
 
-###  1.1.1 Set up a central manger and submit machine
+###  2.1.1 Set up a central manger and submit machine
 ```
 $ export HOSTNAME=cn16376.12.10.133.152.com
 $ ./condor_install --prefix=~/sf_install/condor-5/8.5.7-mangager_submit --type=manager,submit --verbose 
@@ -65,7 +65,7 @@ ALLOW_WRITE = cn16374, 12.10.133.150
 $ condor_master
 ```
 
-### 1.1.2 Set up serval execute manchines
+### 2.1.2 Set up serval execute manchines
 We take cn16375 and cn16376 for examples.
 ```
 $ export HOSTNAME=cn16377.12.10.133.153.com
@@ -89,10 +89,10 @@ FLOCK_TO = cn16374
 ```
 
 
-## 1.2 For MongoDB
+## 2.2 For MongoDB
 MongoDB is used as the data repository engine. "Sharding" mothod is used for distributing data across multiple machines to support deployments with very large data sets and high throughput operations. The zinc_ligand_1 ~ 5 databases are prepared for Audock_vina, and the zinc_ligand_2 ~ 5 databases were extracted from zinc_ligand_1 in accordance with a certain proportion. The zinc_conformer_1~2 databases are prepared for WEGA, and the zinc_conformer_2 are extracted from zinc_conformer_1 randomly.
 
-### 1.2.1 set up nodes for sharding
+### 2.2.1 set up nodes for sharding
 + cn16377:Query Routers
 + cn16378:Shard1 + Config Server
 + cn16379:Shard2 + Config Server
@@ -257,7 +257,7 @@ mongos> db.table1.stats()
 			"capped" : false,
 ```
 
-## 1.3 For wrappers
+## 2.3 For wrappers
 We transform MTC into HTC by wrapping ADV or WEGA program with MongoDB C driver (version 1.4.2) as a worker. Each worker accesses database preemptively to get input files until all data is traversed. MongoDB provides atomic operation with “inc” to ensure data security when multitudinous workers start concurrently, so that each worker can get unique job. After the worker obtains data from the database, the data is written to a file and stored on the local file system implemented in RAMDISK.
 ```
 $ cd ~/bin/vina_wrapper # modify the makefile, and provide the path of MongoDB C driver.
@@ -267,7 +267,7 @@ $ make
 ```
 
 
-# 2 How to run HHVSF
+# 3. How to run HHVSF
 ```
 $ pwd
 ~/HHVSF
@@ -277,7 +277,7 @@ $ run_*_job.sh argument_1 argument_2 argument_3 argument_4
 + argument_2: target name or query ligand
 + argument_3: database name
 + argument_4: core number
-## 2.1 Command example
+## 3.1 Command example
 ```
 $ run_vina_job.sh a002 5f5w zinc_Pur1000w_sort_heavy 500 
 $ run_wega_job.sh a072 oneQuery.sd zinc_conformer_100w 100
