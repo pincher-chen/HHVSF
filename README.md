@@ -132,7 +132,7 @@ child process started successfully, parent exiting
 
 ```
 #step 4
-[nscc-gz_pinchen@cn16377 mongoDB]$ mongo admin --port 16377
+[~@cn16377 mongoDB]$ mongo admin --port 16377
 MongoDB shell version: 3.2.9
 connecting to: 127.0.0.1:16377/admin
 mongos> db.runCommand({addshard:"shard0/cn16378:26378"})
@@ -167,14 +167,14 @@ mongos> sh.status()
 
 ```
 #step 5
-[nscc-gz_pinchen@cn16377 mongoDB]$ mongo admin --port 16377
+[~@cn16377 mongoDB]$ mongo admin --port 16377
 mongos> db.runCommand({enablesharding:"testdb"})
 { "ok" : 1 }
 mongos> db.runCommand({shardcollection:"testdb.table1",key:{id:1}})
 { "collectionsharded" : "testdb.table1", "ok" : 1 }
 mongos> 
  
-[nscc-gz_pinchen@cn16377 mongoDB]$ mongo cn16377:16377
+[~@cn16377 mongoDB]$ mongo cn16377:16377
 MongoDB shell version: 3.2.9
 connecting to: cn16377:16377/test
 mongos> for (var i=1;i<=100000;i++) db.table1.save({id:i,"test1":"testvar1"})
