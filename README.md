@@ -29,7 +29,7 @@ ALLOW_WRITE = cn16374, 12.10.133.150
 $ condor_master
 ```
 
-### set up serval execute manchines
+### Set up serval execute manchines
 We take cn16375 and cn16376 for examples.
 ```
 $ export HOSTNAME=cn16377.12.10.133.153.com
