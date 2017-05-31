@@ -5,6 +5,42 @@ The following is the the hardwares and relevant operations in HHVSF:
 
 <img src="https://github.com/pincher-chen/HHVSF/blob/master/data/screenshots/picture.png" width="70%" />
 
+# Code structure
+```
+$ tree -d
+.
+|-- bin                  # precompiled executes (for example vina, wega) and source code executes (for example vina_wrapper,                                        wega_wrapper).
+|   |-- vina_wrapper
+|   |   `-- lib
+|   `-- wega_wrapper
+|       `-- lib
+|-- condor               # scripts for submit job and each job log files.
+|   |-- a001
+|   |-- a002
+|   |-- a003
+|   |-- a004
+|   |-- a005
+|   |-- a007
+...........
+|-- data                 # data for screening, for targets or querying ligands.
+|   |-- 2j3m
+|   |-- 5f5w
+|   `-- screenshots
+|-- mongo                # scripts for mongo's operations.
+|   `-- insert
+`-- scripts              # scripts for preparing datasets for virtual screening.
+    |-- vina_datasets
+    |   |-- sort
+    |   |-- zinc_ligand_1
+    |   |-- zinc_ligand_2
+    |   |-- zinc_ligand_3
+    |   |-- zinc_ligand_4
+    |   `-- zinc_ligand_5
+    `-- wega_datasets
+        |-- zinc_conformer_1
+        `-- zinc_conformer_2
+```
+
 # 1 How to compile
 ## 1.1 For HTCondor
 Multi-level scheduling method is used to maintain the computing resources.The first level scheduler applies for a number of resources to the second level for task distribution. The second level scheduler can refine the computing resources and then distributes the tasks. Here, we choose HTCondor as the second level scheduler, and We configure the HTCondor with one core per slot to provide more flexible task scheduling.
