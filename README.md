@@ -1,10 +1,10 @@
 # HHVSF: A Framework for Accelerating High-throughput Virtual Drug Screening on High-Performance Computers
 High-performance High-throughput Virtual Screening Framework (HHVSF) is a general framework, and supports the high-throughput applications of large-scale, multitasking and small sized IO files running on HPC resources. This framework contains task management and data management systems, which can handle thousands of tasks, manage a large volume of lots-of-small files, and reduce the long processing time for analyzing.
 
-<div style="align:center">
-<img src="https://github.com/pincher-chen/HHVSF/blob/master/data/screenshots/picture.png" width="80%" />
-</div>
-<h3 align = "center">The hardware and relevant operations in HHVSF</h1>
+The following is the The hardware and relevant operations in HHVSF:
+
+<img src="https://github.com/pincher-chen/HHVSF/blob/master/data/screenshots/picture.png" width="70%" />
+
 
 # How to run HHVSF
 $run_*_job.sh argument_1 argument_2 argument_3 argument_4
