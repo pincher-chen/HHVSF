@@ -3,7 +3,7 @@ High-performance High-throughput Virtual Screening Framework (HHVSF) is a genera
 
 
 <img src="https://github.com/pincher-chen/HHVSF/blob/master/data/screenshots/picture.png" width="80%" />
-<h1 align = "center">The hardware and relevant operations in HHVSF</h1>
+<h3 align = "center">The hardware and relevant operations in HHVSF</h1>
 
 # How to run HHVSF
 $run_*_job.sh argument_1 argument_2 argument_3 argument_4
