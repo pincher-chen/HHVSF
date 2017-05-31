@@ -14,6 +14,13 @@ MongoDB is used as the data repository engine. "Sharding" mothod is used for dis
 
 ## For wrappers
 We transform MTC into HTC by wrapping ADV or WEGA program with MongoDB C driver (version 1.4.2) as a worker. Each worker accesses database preemptively to get input files until all data is traversed. MongoDB provides atomic operation with “inc” to ensure data security when multitudinous workers start concurrently, so that each worker can get unique job. After the worker obtains data from the database, the data is written to a file and stored on the local file system implemented in RAMDISK.
+```
+$ cd ~/bin/vina_wrapper # modify the makefile, and provide the path of MongoDB C driver.
+$ make
+$ cd ~/bin/wega_wrapper # modify the makefile, and provide the path of MongoDB C driver.
+$ make
+```
+
 
 # How to run HHVSF
 
