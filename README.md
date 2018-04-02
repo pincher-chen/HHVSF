@@ -284,6 +284,6 @@ $ run_wega_job.sh a072 oneQuery.sd zinc_conformer_100w 100
 ```
 
 # 4. Citing
-The implemented algorithm is described in the following papers: \\  
+The implemented algorithm is described in the following papers:    
 Chen P., Yan X., Li J., Du Y., Xu J. (2018) HHVSF: A Framework to Accelerate Drug-Based High-Throughput Virtual Screening on High-Performance Computers. In: Yokota R., Wu W. (eds) Supercomputing Frontiers. SCFA 2018. Lecture Notes in Computer Science, vol 10776. Springer, Cham
 
